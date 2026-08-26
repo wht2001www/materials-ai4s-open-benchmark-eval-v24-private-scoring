@@ -1,0 +1,14 @@
+{
+  "id": "MS09-Q3",
+  "title": "Matbench 声子峰结构规模分布外泛化",
+  "task_id": "MS09",
+  "task_name": "热管理材料传热性能与服役边界评估",
+  "priority": "P1",
+  "subdomain": "thermal_properties_ood",
+  "level": "L3",
+  "time_minutes": 100,
+  "provenance_class": "Matbench 数据 + Structure-OOD 思路的透明改编",
+  "plot_required": "",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

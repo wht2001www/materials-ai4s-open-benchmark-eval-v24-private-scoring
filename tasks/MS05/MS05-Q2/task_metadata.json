@@ -1,0 +1,14 @@
+{
+  "id": "MS05-Q2",
+  "title": "AlchemyBench 镁离子固态聚合物电解质流程生成",
+  "task_id": "MS05",
+  "task_name": "电池与电化学材料性能评估及配方筛选",
+  "priority": "P0",
+  "subdomain": "electrochemistry_and_energy_materials",
+  "level": "L3",
+  "time_minutes": 80,
+  "provenance_class": "AlchemyBench 流程生成任务直接实例",
+  "plot_required": "",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

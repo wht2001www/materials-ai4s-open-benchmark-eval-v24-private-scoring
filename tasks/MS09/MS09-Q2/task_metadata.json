@@ -1,0 +1,14 @@
+{
+  "id": "MS09-Q2",
+  "title": "JARVIS 声子热容记录的物理审计与高热容候选排序",
+  "task_id": "MS09",
+  "task_name": "热管理材料传热性能与服役边界评估",
+  "priority": "P1",
+  "subdomain": "thermal_properties",
+  "level": "L2",
+  "time_minutes": 45,
+  "provenance_class": "JARVIS ph_heat_capacity 官方测试标签固定子集",
+  "plot_required": "",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

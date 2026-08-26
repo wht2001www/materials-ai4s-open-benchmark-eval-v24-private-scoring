@@ -1,0 +1,484 @@
+{
+  "valid_ranked": [
+    {
+      "jid": "JVASP-5833",
+      "heat_capacity": 386.5683062390025
+    },
+    {
+      "jid": "JVASP-48166",
+      "heat_capacity": 303.99949794015134
+    },
+    {
+      "jid": "JVASP-62662",
+      "heat_capacity": 250.1353049950734
+    },
+    {
+      "jid": "JVASP-52574",
+      "heat_capacity": 217.4801723233261
+    },
+    {
+      "jid": "JVASP-3834",
+      "heat_capacity": 216.14902373382725
+    },
+    {
+      "jid": "JVASP-22670",
+      "heat_capacity": 212.16902233663745
+    },
+    {
+      "jid": "JVASP-3888",
+      "heat_capacity": 211.48827603634143
+    },
+    {
+      "jid": "JVASP-61409",
+      "heat_capacity": 205.4221935709783
+    },
+    {
+      "jid": "JVASP-62630",
+      "heat_capacity": 190.7292899354308
+    },
+    {
+      "jid": "JVASP-5275",
+      "heat_capacity": 173.9087883998345
+    },
+    {
+      "jid": "JVASP-62801",
+      "heat_capacity": 173.20449443404044
+    },
+    {
+      "jid": "JVASP-48337",
+      "heat_capacity": 165.65253149961652
+    },
+    {
+      "jid": "JVASP-61096",
+      "heat_capacity": 163.97150708302587
+    },
+    {
+      "jid": "JVASP-42568",
+      "heat_capacity": 158.30300792177422
+    },
+    {
+      "jid": "JVASP-48807",
+      "heat_capacity": 151.27026953723876
+    },
+    {
+      "jid": "JVASP-22622",
+      "heat_capacity": 140.50435609324708
+    },
+    {
+      "jid": "JVASP-64994",
+      "heat_capacity": 139.5551332998799
+    },
+    {
+      "jid": "JVASP-65159",
+      "heat_capacity": 139.27055417381376
+    },
+    {
+      "jid": "JVASP-65157",
+      "heat_capacity": 137.4324909214942
+    },
+    {
+      "jid": "JVASP-49776",
+      "heat_capacity": 131.97326188304237
+    },
+    {
+      "jid": "JVASP-21555",
+      "heat_capacity": 130.89624977870062
+    },
+    {
+      "jid": "JVASP-65090",
+      "heat_capacity": 126.33942031493604
+    },
+    {
+      "jid": "JVASP-15483",
+      "heat_capacity": 125.18046080307164
+    },
+    {
+      "jid": "JVASP-15981",
+      "heat_capacity": 122.52431513484052
+    },
+    {
+      "jid": "JVASP-15346",
+      "heat_capacity": 115.82255031777252
+    },
+    {
+      "jid": "JVASP-14919",
+      "heat_capacity": 115.79931008730016
+    },
+    {
+      "jid": "JVASP-4840",
+      "heat_capacity": 110.68606296055256
+    },
+    {
+      "jid": "JVASP-15645",
+      "heat_capacity": 110.52481600830264
+    },
+    {
+      "jid": "JVASP-22563",
+      "heat_capacity": 107.64552071783812
+    },
+    {
+      "jid": "JVASP-12151",
+      "heat_capacity": 105.94908731824182
+    },
+    {
+      "jid": "JVASP-50006",
+      "heat_capacity": 103.5988709281539
+    },
+    {
+      "jid": "JVASP-65614",
+      "heat_capacity": 98.6788479357938
+    },
+    {
+      "jid": "JVASP-65804",
+      "heat_capacity": 98.56345243633577
+    },
+    {
+      "jid": "JVASP-61785",
+      "heat_capacity": 98.39034653043956
+    },
+    {
+      "jid": "JVASP-65627",
+      "heat_capacity": 98.34679743386984
+    },
+    {
+      "jid": "JVASP-66536",
+      "heat_capacity": 98.30868169007604
+    },
+    {
+      "jid": "JVASP-69163",
+      "heat_capacity": 98.20464510814752
+    },
+    {
+      "jid": "JVASP-65480",
+      "heat_capacity": 98.15691179450032
+    },
+    {
+      "jid": "JVASP-65576",
+      "heat_capacity": 97.99729840738968
+    },
+    {
+      "jid": "JVASP-65776",
+      "heat_capacity": 97.98938295330969
+    },
+    {
+      "jid": "JVASP-65508",
+      "heat_capacity": 97.90707142675898
+    },
+    {
+      "jid": "JVASP-65635",
+      "heat_capacity": 97.701999042813
+    },
+    {
+      "jid": "JVASP-69240",
+      "heat_capacity": 97.69389326160594
+    },
+    {
+      "jid": "JVASP-65421",
+      "heat_capacity": 97.68943549195048
+    },
+    {
+      "jid": "JVASP-65547",
+      "heat_capacity": 97.6434936135634
+    },
+    {
+      "jid": "JVASP-65449",
+      "heat_capacity": 97.515751471399
+    },
+    {
+      "jid": "JVASP-69082",
+      "heat_capacity": 97.29385631416837
+    },
+    {
+      "jid": "JVASP-67980",
+      "heat_capacity": 97.07427111433763
+    },
+    {
+      "jid": "JVASP-65679",
+      "heat_capacity": 96.8825587032412
+    },
+    {
+      "jid": "JVASP-18837",
+      "heat_capacity": 96.7879203168559
+    },
+    {
+      "jid": "JVASP-65633",
+      "heat_capacity": 96.76078223679151
+    },
+    {
+      "jid": "JVASP-68963",
+      "heat_capacity": 96.40943140118122
+    },
+    {
+      "jid": "JVASP-65426",
+      "heat_capacity": 96.40043988382726
+    },
+    {
+      "jid": "JVASP-69078",
+      "heat_capacity": 96.23348385338493
+    },
+    {
+      "jid": "JVASP-65755",
+      "heat_capacity": 96.1181998400955
+    },
+    {
+      "jid": "JVASP-69054",
+      "heat_capacity": 95.85202375958922
+    },
+    {
+      "jid": "JVASP-65687",
+      "heat_capacity": 95.59615255734244
+    },
+    {
+      "jid": "JVASP-68549",
+      "heat_capacity": 95.39950278322902
+    },
+    {
+      "jid": "JVASP-65563",
+      "heat_capacity": 95.33489223906496
+    },
+    {
+      "jid": "JVASP-65647",
+      "heat_capacity": 95.31240157287908
+    },
+    {
+      "jid": "JVASP-69138",
+      "heat_capacity": 94.97646826013636
+    },
+    {
+      "jid": "JVASP-48645",
+      "heat_capacity": 94.83479830678276
+    },
+    {
+      "jid": "JVASP-65604",
+      "heat_capacity": 94.55655324440268
+    },
+    {
+      "jid": "JVASP-69042",
+      "heat_capacity": 94.22609130159172
+    },
+    {
+      "jid": "JVASP-69314",
+      "heat_capacity": 94.04151059582615
+    },
+    {
+      "jid": "JVASP-67907",
+      "heat_capacity": 93.11561766168758
+    },
+    {
+      "jid": "JVASP-15777",
+      "heat_capacity": 92.55545467040402
+    },
+    {
+      "jid": "JVASP-65583",
+      "heat_capacity": 92.29863670888145
+    },
+    {
+      "jid": "JVASP-67925",
+      "heat_capacity": 91.71697635677688
+    },
+    {
+      "jid": "JVASP-68237",
+      "heat_capacity": 91.64652851245978
+    },
+    {
+      "jid": "JVASP-67973",
+      "heat_capacity": 91.38144407496956
+    },
+    {
+      "jid": "JVASP-18826",
+      "heat_capacity": 90.99410653092758
+    },
+    {
+      "jid": "JVASP-67584",
+      "heat_capacity": 90.42111515660392
+    },
+    {
+      "jid": "JVASP-69350",
+      "heat_capacity": 88.03168068387659
+    },
+    {
+      "jid": "JVASP-50811",
+      "heat_capacity": 87.66663704794594
+    },
+    {
+      "jid": "JVASP-67440",
+      "heat_capacity": 87.30130887875274
+    },
+    {
+      "jid": "JVASP-67292",
+      "heat_capacity": 87.11735665549726
+    },
+    {
+      "jid": "JVASP-66732",
+      "heat_capacity": 83.89328872295567
+    },
+    {
+      "jid": "JVASP-14874",
+      "heat_capacity": 83.49510616845117
+    },
+    {
+      "jid": "JVASP-63235",
+      "heat_capacity": 82.71751963989645
+    },
+    {
+      "jid": "JVASP-67034",
+      "heat_capacity": 82.21286803811124
+    },
+    {
+      "jid": "JVASP-67368",
+      "heat_capacity": 82.1721515754181
+    },
+    {
+      "jid": "JVASP-61260",
+      "heat_capacity": 79.06675421426351
+    },
+    {
+      "jid": "JVASP-12150",
+      "heat_capacity": 78.33038154833265
+    },
+    {
+      "jid": "JVASP-18660",
+      "heat_capacity": 73.85970480107986
+    },
+    {
+      "jid": "JVASP-537",
+      "heat_capacity": 72.7875982032051
+    },
+    {
+      "jid": "JVASP-335",
+      "heat_capacity": 72.68333590904243
+    },
+    {
+      "jid": "JVASP-18657",
+      "heat_capacity": 72.33193892620496
+    },
+    {
+      "jid": "JVASP-15598",
+      "heat_capacity": 72.22651532474012
+    },
+    {
+      "jid": "JVASP-589",
+      "heat_capacity": 72.1026309511318
+    },
+    {
+      "jid": "JVASP-67583",
+      "heat_capacity": 71.06236214804444
+    },
+    {
+      "jid": "JVASP-67864",
+      "heat_capacity": 70.74072692463784
+    },
+    {
+      "jid": "JVASP-67202",
+      "heat_capacity": 70.51923894551332
+    },
+    {
+      "jid": "JVASP-66980",
+      "heat_capacity": 69.79032855258143
+    },
+    {
+      "jid": "JVASP-66686",
+      "heat_capacity": 69.71757607493164
+    },
+    {
+      "jid": "JVASP-67116",
+      "heat_capacity": 69.24592223957909
+    },
+    {
+      "jid": "JVASP-14914",
+      "heat_capacity": 68.44953417503403
+    },
+    {
+      "jid": "JVASP-43637",
+      "heat_capacity": 68.22556053708279
+    },
+    {
+      "jid": "JVASP-67353",
+      "heat_capacity": 68.1570325597737
+    },
+    {
+      "jid": "JVASP-67543",
+      "heat_capacity": 68.13891168591513
+    },
+    {
+      "jid": "JVASP-12165",
+      "heat_capacity": 67.69884169900736
+    },
+    {
+      "jid": "JVASP-66635",
+      "heat_capacity": 67.3108410547742
+    },
+    {
+      "jid": "JVASP-66724",
+      "heat_capacity": 67.27363037683146
+    },
+    {
+      "jid": "JVASP-65139",
+      "heat_capacity": 66.06754017348649
+    },
+    {
+      "jid": "JVASP-67213",
+      "heat_capacity": 65.42629672902527
+    },
+    {
+      "jid": "JVASP-67393",
+      "heat_capacity": 64.29596475384965
+    },
+    {
+      "jid": "JVASP-14632",
+      "heat_capacity": 64.12821843570222
+    },
+    {
+      "jid": "JVASP-15056",
+      "heat_capacity": 49.34811554282962
+    },
+    {
+      "jid": "JVASP-5167",
+      "heat_capacity": 49.29349994598988
+    },
+    {
+      "jid": "JVASP-1294",
+      "heat_capacity": 49.162079201789744
+    },
+    {
+      "jid": "JVASP-1198",
+      "heat_capacity": 48.43565818042928
+    },
+    {
+      "jid": "JVASP-19886",
+      "heat_capacity": 48.43399340717167
+    },
+    {
+      "jid": "JVASP-53303",
+      "heat_capacity": 48.16598105798069
+    },
+    {
+      "jid": "JVASP-14576",
+      "heat_capacity": 46.9613023676425
+    },
+    {
+      "jid": "JVASP-22517",
+      "heat_capacity": 45.94412164600063
+    },
+    {
+      "jid": "JVASP-28372",
+      "heat_capacity": 45.28890272681014
+    },
+    {
+      "jid": "JVASP-1363",
+      "heat_capacity": 44.89030545498004
+    },
+    {
+      "jid": "JVASP-42263",
+      "heat_capacity": 39.43230097053307
+    },
+    {
+      "jid": "JVASP-16085",
+      "heat_capacity": 24.37589152086572
+    },
+    {
+      "jid": "JVASP-14847",
+      "heat_capacity": 20.90998551465202
+    }
+  ]
+}

@@ -1,0 +1,1689 @@
+{
+  "t_type_dict": {
+    "T1": "Meta",
+    "T2": "Material",
+    "T3": "Property-Misc",
+    "T4": "Material",
+    "T5": "Material",
+    "T6": "Nonrecipe-Material",
+    "T7": "Operation",
+    "T8": "Operation",
+    "T9": "Operation",
+    "T10": "Operation",
+    "T11": "Operation",
+    "T12": "Operation",
+    "T13": "Operation",
+    "T14": "Operation",
+    "T15": "Operation",
+    "T16": "Operation",
+    "T17": "Operation",
+    "T18": "Operation",
+    "T19": "Operation",
+    "T20": "Operation",
+    "T21": "Operation",
+    "T22": "Operation",
+    "T23": "Operation",
+    "T24": "Operation",
+    "T25": "Operation",
+    "T26": "Operation",
+    "T27": "Operation",
+    "T28": "Operation",
+    "T29": "Operation",
+    "T30": "Material",
+    "T31": "Material",
+    "T32": "Number",
+    "T33": "Amount-Unit",
+    "T34": "Material",
+    "T35": "Material",
+    "T36": "Number",
+    "T37": "Amount-Unit",
+    "T38": "Brand",
+    "T39": "Material",
+    "T40": "Material",
+    "T41": "Reference",
+    "T42": "Characterization-Apparatus",
+    "T43": "Material",
+    "T44": "Number",
+    "T45": "Amount-Unit",
+    "T46": "Brand",
+    "T47": "Material",
+    "T49": "Number",
+    "T48": "Amount-Unit",
+    "T50": "Brand",
+    "T51": "Meta",
+    "T52": "Meta",
+    "T53": "Material",
+    "T54": "Brand",
+    "T55": "Material",
+    "T56": "Brand",
+    "T57": "Material",
+    "T58": "Brand",
+    "T59": "Synthesis-Apparatus",
+    "T60": "Material",
+    "T61": "Material",
+    "T62": "Brand",
+    "T63": "Material",
+    "T64": "Amount-Misc",
+    "T65": "Brand",
+    "T66": "Material",
+    "T67": "Number",
+    "T68": "Amount-Unit",
+    "T69": "Brand",
+    "T70": "Nonrecipe-Material",
+    "T71": "Material-Descriptor",
+    "T72": "Material-Descriptor",
+    "T73": "Nonrecipe-Material",
+    "T74": "Number",
+    "T75": "Amount-Unit",
+    "T76": "Material",
+    "T77": "Number",
+    "T78": "Amount-Unit",
+    "T79": "Brand",
+    "T80": "Material",
+    "T81": "Material",
+    "T82": "Material-Descriptor",
+    "T83": "Number",
+    "T84": "Property-Unit",
+    "T85": "Synthesis-Apparatus",
+    "T86": "Material",
+    "T87": "Meta",
+    "T88": "Material",
+    "T89": "Material-Descriptor",
+    "T90": "Material",
+    "T91": "Brand",
+    "T92": "Reference",
+    "T93": "Material",
+    "T94": "Number",
+    "T95": "Amount-Unit",
+    "T96": "Material",
+    "T97": "Material",
+    "T98": "Number",
+    "T99": "Number",
+    "T100": "Amount-Unit",
+    "T101": "Material",
+    "T102": "Number",
+    "T103": "Amount-Unit",
+    "T104": "Material",
+    "T105": "Number",
+    "T106": "Amount-Unit",
+    "T107": "Material",
+    "T108": "Number",
+    "T109": "Amount-Unit",
+    "T110": "Number",
+    "T111": "Amount-Unit",
+    "T112": "Material",
+    "T113": "Material-Descriptor",
+    "T114": "Number",
+    "T115": "Condition-Unit",
+    "T116": "Number",
+    "T117": "Condition-Unit",
+    "T118": "Number",
+    "T119": "Amount-Unit",
+    "T120": "Material",
+    "T121": "Number",
+    "T122": "Amount-Unit",
+    "T123": "Material",
+    "T124": "Material",
+    "T125": "Number",
+    "T126": "Condition-Unit",
+    "T127": "Condition-Misc",
+    "T128": "Material",
+    "T129": "Material-Descriptor",
+    "T130": "Material",
+    "T131": "Material",
+    "T132": "Material-Descriptor",
+    "T133": "Material",
+    "T134": "Material-Descriptor",
+    "T135": "Brand",
+    "T136": "Number",
+    "T137": "Number",
+    "T138": "Number",
+    "T139": "Property-Unit",
+    "T140": "Property-Type",
+    "T141": "Material",
+    "T142": "Material",
+    "T143": "Amount-Misc",
+    "T144": "Material",
+    "T145": "Synthesis-Apparatus",
+    "T146": "Number",
+    "T147": "Condition-Unit",
+    "T148": "Synthesis-Apparatus",
+    "T149": "Number",
+    "T150": "Number",
+    "T151": "Condition-Unit",
+    "T152": "Condition-Unit",
+    "T153": "Synthesis-Apparatus",
+    "T154": "Brand",
+    "T155": "Material",
+    "T156": "Number",
+    "T157": "Number",
+    "T158": "Condition-Unit",
+    "T159": "Condition-Unit",
+    "T160": "Material-Descriptor",
+    "T161": "Material",
+    "T162": "Material",
+    "T163": "Material-Descriptor",
+    "T164": "Number",
+    "T165": "Amount-Unit",
+    "T166": "Material",
+    "T167": "Condition-Type",
+    "T168": "Number",
+    "T169": "Condition-Unit",
+    "T170": "Material"
+  },
+  "t_span_dict": {
+    "T1": [
+      21,
+      28
+    ],
+    "T2": [
+      29,
+      35
+    ],
+    "T3": [
+      36,
+      46
+    ],
+    "T4": [
+      55,
+      84
+    ],
+    "T5": [
+      88,
+      94
+    ],
+    "T6": [
+      109,
+      115
+    ],
+    "T7": [
+      208,
+      217
+    ],
+    "T8": [
+      315,
+      326
+    ],
+    "T9": [
+      385,
+      394
+    ],
+    "T10": [
+      466,
+      470
+    ],
+    "T11": [
+      649,
+      653
+    ],
+    "T12": [
+      835,
+      839
+    ],
+    "T13": [
+      914,
+      921
+    ],
+    "T14": [
+      1025,
+      1033
+    ],
+    "T15": [
+      1153,
+      1162
+    ],
+    "T16": [
+      1373,
+      1381
+    ],
+    "T17": [
+      1385,
+      1392
+    ],
+    "T18": [
+      1606,
+      1615
+    ],
+    "T19": [
+      1641,
+      1646
+    ],
+    "T20": [
+      1674,
+      1681
+    ],
+    "T21": [
+      1750,
+      1758
+    ],
+    "T22": [
+      1766,
+      1776
+    ],
+    "T23": [
+      1914,
+      1920
+    ],
+    "T24": [
+      1996,
+      2005
+    ],
+    "T25": [
+      2036,
+      2040
+    ],
+    "T26": [
+      2071,
+      2078
+    ],
+    "T27": [
+      2129,
+      2138
+    ],
+    "T28": [
+      2249,
+      2256
+    ],
+    "T29": [
+      2317,
+      2326
+    ],
+    "T30": [
+      126,
+      143
+    ],
+    "T31": [
+      145,
+      149
+    ],
+    "T32": [
+      151,
+      153
+    ],
+    "T33": [
+      153,
+      154
+    ],
+    "T34": [
+      160,
+      190
+    ],
+    "T35": [
+      192,
+      196
+    ],
+    "T36": [
+      198,
+      200
+    ],
+    "T37": [
+      200,
+      201
+    ],
+    "T38": [
+      223,
+      228
+    ],
+    "T39": [
+      234,
+      256
+    ],
+    "T40": [
+      258,
+      309
+    ],
+    "T41": [
+      351,
+      355
+    ],
+    "T42": [
+      398,
+      412
+    ],
+    "T43": [
+      414,
+      421
+    ],
+    "T44": [
+      423,
+      428
+    ],
+    "T45": [
+      428,
+      429
+    ],
+    "T46": [
+      431,
+      436
+    ],
+    "T47": [
+      442,
+      445
+    ],
+    "T49": [
+      447,
+      449
+    ],
+    "T48": [
+      449,
+      450
+    ],
+    "T50": [
+      452,
+      459
+    ],
+    "T51": [
+      475,
+      495
+    ],
+    "T52": [
+      500,
+      515
+    ],
+    "T53": [
+      571,
+      582
+    ],
+    "T54": [
+      584,
+      591
+    ],
+    "T55": [
+      594,
+      603
+    ],
+    "T56": [
+      605,
+      610
+    ],
+    "T57": [
+      616,
+      625
+    ],
+    "T58": [
+      627,
+      637
+    ],
+    "T59": [
+      657,
+      669
+    ],
+    "T60": [
+      703,
+      731
+    ],
+    "T61": [
+      733,
+      736
+    ],
+    "T62": [
+      738,
+      743
+    ],
+    "T63": [
+      789,
+      797
+    ],
+    "T64": [
+      772,
+      788
+    ],
+    "T65": [
+      799,
+      806
+    ],
+    "T66": [
+      812,
+      816
+    ],
+    "T67": [
+      818,
+      820
+    ],
+    "T68": [
+      820,
+      821
+    ],
+    "T69": [
+      823,
+      828
+    ],
+    "T70": [
+      871,
+      878
+    ],
+    "T71": [
+      879,
+      888
+    ],
+    "T72": [
+      863,
+      870
+    ],
+    "T73": [
+      959,
+      963
+    ],
+    "T74": [
+      964,
+      978
+    ],
+    "T75": [
+      979,
+      984
+    ],
+    "T76": [
+      988,
+      992
+    ],
+    "T77": [
+      993,
+      994
+    ],
+    "T78": [
+      995,
+      996
+    ],
+    "T79": [
+      998,
+      1003
+    ],
+    "T80": [
+      1010,
+      1019
+    ],
+    "T81": [
+      1051,
+      1056
+    ],
+    "T82": [
+      1039,
+      1050
+    ],
+    "T83": [
+      1058,
+      1060
+    ],
+    "T84": [
+      1061,
+      1066
+    ],
+    "T85": [
+      1075,
+      1118
+    ],
+    "T86": [
+      1121,
+      1147
+    ],
+    "T87": [
+      1166,
+      1178
+    ],
+    "T88": [
+      1211,
+      1224
+    ],
+    "T89": [
+      1225,
+      1234
+    ],
+    "T90": [
+      1236,
+      1239
+    ],
+    "T91": [
+      1256,
+      1288
+    ],
+    "T92": [
+      1329,
+      1338
+    ],
+    "T93": [
+      1344,
+      1357
+    ],
+    "T94": [
+      1406,
+      1410
+    ],
+    "T95": [
+      1411,
+      1412
+    ],
+    "T96": [
+      1413,
+      1417
+    ],
+    "T97": [
+      1462,
+      1466
+    ],
+    "T98": [
+      1484,
+      1485
+    ],
+    "T99": [
+      1489,
+      1491
+    ],
+    "T100": [
+      1491,
+      1492
+    ],
+    "T101": [
+      1505,
+      1509
+    ],
+    "T102": [
+      1512,
+      1515
+    ],
+    "T103": [
+      1516,
+      1517
+    ],
+    "T104": [
+      1518,
+      1522
+    ],
+    "T105": [
+      1524,
+      1527
+    ],
+    "T106": [
+      1528,
+      1529
+    ],
+    "T107": [
+      1530,
+      1535
+    ],
+    "T108": [
+      1540,
+      1543
+    ],
+    "T109": [
+      1544,
+      1545
+    ],
+    "T110": [
+      1551,
+      1554
+    ],
+    "T111": [
+      1555,
+      1556
+    ],
+    "T112": [
+      1557,
+      1560
+    ],
+    "T113": [
+      1561,
+      1569
+    ],
+    "T114": [
+      1574,
+      1576
+    ],
+    "T115": [
+      1577,
+      1581
+    ],
+    "T116": [
+      1586,
+      1587
+    ],
+    "T117": [
+      1588,
+      1589
+    ],
+    "T118": [
+      1591,
+      1595
+    ],
+    "T119": [
+      1596,
+      1597
+    ],
+    "T120": [
+      1601,
+      1605
+    ],
+    "T121": [
+      1619,
+      1621
+    ],
+    "T122": [
+      1622,
+      1623
+    ],
+    "T123": [
+      1627,
+      1631
+    ],
+    "T124": [
+      1655,
+      1662
+    ],
+    "T125": [
+      1692,
+      1693
+    ],
+    "T126": [
+      1694,
+      1695
+    ],
+    "T127": [
+      1699,
+      1715
+    ],
+    "T128": [
+      1717,
+      1720
+    ],
+    "T129": [
+      1721,
+      1729
+    ],
+    "T130": [
+      1784,
+      1788
+    ],
+    "T131": [
+      1809,
+      1816
+    ],
+    "T132": [
+      1817,
+      1828
+    ],
+    "T133": [
+      1837,
+      1842
+    ],
+    "T134": [
+      1843,
+      1850
+    ],
+    "T135": [
+      1852,
+      1859
+    ],
+    "T136": [
+      1864,
+      1865
+    ],
+    "T137": [
+      1867,
+      1870
+    ],
+    "T138": [
+      1875,
+      1879
+    ],
+    "T139": [
+      1880,
+      1882
+    ],
+    "T140": [
+      1883,
+      1897
+    ],
+    "T141": [
+      1926,
+      1933
+    ],
+    "T142": [
+      1938,
+      1943
+    ],
+    "T143": [
+      1945,
+      1964
+    ],
+    "T144": [
+      1968,
+      1971
+    ],
+    "T145": [
+      2013,
+      2030
+    ],
+    "T146": [
+      2041,
+      2043
+    ],
+    "T147": [
+      2044,
+      2045
+    ],
+    "T148": [
+      2057,
+      2066
+    ],
+    "T149": [
+      2082,
+      2086
+    ],
+    "T150": [
+      2095,
+      2097
+    ],
+    "T151": [
+      2087,
+      2090
+    ],
+    "T152": [
+      2098,
+      2099
+    ],
+    "T153": [
+      2147,
+      2169
+    ],
+    "T154": [
+      2171,
+      2214
+    ],
+    "T155": [
+      2233,
+      2238
+    ],
+    "T156": [
+      2261,
+      2263
+    ],
+    "T157": [
+      2271,
+      2273
+    ],
+    "T158": [
+      2264,
+      2267
+    ],
+    "T159": [
+      2274,
+      2278
+    ],
+    "T160": [
+      2221,
+      2232
+    ],
+    "T161": [
+      2302,
+      2312
+    ],
+    "T162": [
+      2333,
+      2340
+    ],
+    "T163": [
+      2341,
+      2349
+    ],
+    "T164": [
+      2361,
+      2364
+    ],
+    "T165": [
+      2365,
+      2366
+    ],
+    "T166": [
+      2367,
+      2370
+    ],
+    "T167": [
+      2377,
+      2396
+    ],
+    "T168": [
+      2401,
+      2403
+    ],
+    "T169": [
+      2404,
+      2407
+    ],
+    "T170": [
+      940,
+      957
+    ]
+  },
+  "r_type_dict": {
+    "R1": "Property_Of",
+    "R2": "Next_Operation",
+    "R3": "Next_Operation",
+    "R4": "Next_Operation",
+    "R5": "Next_Operation",
+    "R6": "Next_Operation",
+    "R7": "Next_Operation",
+    "R8": "Next_Operation",
+    "R9": "Next_Operation",
+    "R10": "Next_Operation",
+    "R11": "Next_Operation",
+    "R12": "Next_Operation",
+    "R13": "Next_Operation",
+    "R14": "Next_Operation",
+    "R15": "Next_Operation",
+    "R16": "Next_Operation",
+    "R17": "Next_Operation",
+    "R18": "Next_Operation",
+    "R19": "Next_Operation",
+    "R20": "Next_Operation",
+    "R21": "Next_Operation",
+    "R22": "Number_Of",
+    "R23": "Amount_Of",
+    "R24": "Coref_Of",
+    "R25": "Number_Of",
+    "R26": "Amount_Of",
+    "R27": "Coref_Of",
+    "R28": "Brand_Of",
+    "R29": "Brand_Of",
+    "R30": "Coref_Of",
+    "R31": "Apparatus_Of",
+    "R32": "Number_Of",
+    "R33": "Amount_Of",
+    "R34": "Brand_Of",
+    "R35": "Number_Of",
+    "R36": "Amount_Of",
+    "R37": "Brand_Of",
+    "R38": "Brand_Of",
+    "R39": "Brand_Of",
+    "R40": "Brand_Of",
+    "R41": "Apparatus_Of",
+    "R42": "Coref_Of",
+    "R43": "Brand_Of",
+    "R44": "Amount_Of",
+    "R46": "Brand_Of",
+    "R47": "Brand_Of",
+    "R48": "Number_Of",
+    "R49": "Amount_Of",
+    "R45": "Descriptor_Of",
+    "R50": "Descriptor_Of",
+    "R51": "Number_Of",
+    "R52": "Number_Of",
+    "R53": "Amount_Of",
+    "R54": "Brand_Of",
+    "R55": "Amount_Of",
+    "R56": "Amount_Of",
+    "R57": "Next_Operation",
+    "R58": "Descriptor_Of",
+    "R59": "Number_Of",
+    "R60": "Property_Of",
+    "R61": "Apparatus_Of",
+    "R62": "Descriptor_Of",
+    "R63": "Coref_Of",
+    "R64": "Brand_Of",
+    "R65": "Number_Of",
+    "R66": "Amount_Of",
+    "R67": "Number_Of",
+    "R68": "Number_Of",
+    "R69": "Amount_Of",
+    "R70": "Number_Of",
+    "R71": "Amount_Of",
+    "R72": "Number_Of",
+    "R73": "Amount_Of",
+    "R74": "Number_Of",
+    "R75": "Amount_Of",
+    "R76": "Number_Of",
+    "R77": "Amount_Of",
+    "R78": "Descriptor_Of",
+    "R79": "Number_Of",
+    "R80": "Number_Of",
+    "R81": "Condition_Of",
+    "R82": "Condition_Of",
+    "R83": "Number_Of",
+    "R84": "Amount_Of",
+    "R85": "Number_Of",
+    "R86": "Amount_Of",
+    "R87": "Number_Of",
+    "R88": "Condition_Of",
+    "R89": "Condition_Of",
+    "R90": "Descriptor_Of",
+    "R91": "Descriptor_Of",
+    "R92": "Descriptor_Of",
+    "R93": "Brand_Of",
+    "R94": "Number_Of",
+    "R95": "Number_Of",
+    "R96": "Number_Of",
+    "R97": "Type_Of",
+    "R98": "Property_Of",
+    "R99": "Amount_Of",
+    "R100": "Apparatus_Of",
+    "R101": "Number_Of",
+    "R102": "Condition_Of",
+    "R103": "Apparatus_Of",
+    "R104": "Number_Of",
+    "R105": "Number_Of",
+    "R106": "Condition_Of",
+    "R107": "Condition_Of",
+    "R108": "Apparatus_Of",
+    "R109": "Brand_Of",
+    "R110": "Descriptor_Of",
+    "R111": "Number_Of",
+    "R112": "Number_Of",
+    "R113": "Condition_Of",
+    "R114": "Condition_Of",
+    "R115": "Descriptor_Of",
+    "R116": "Number_Of",
+    "R117": "Amount_Of",
+    "R118": "Number_Of",
+    "R119": "Condition_Of",
+    "R120": "Type_Of"
+  },
+  "r_args_dict": {
+    "R1": [
+      "T3",
+      "T2"
+    ],
+    "R2": [
+      "E1",
+      "E2"
+    ],
+    "R3": [
+      "E2",
+      "E3"
+    ],
+    "R4": [
+      "E3",
+      "E4"
+    ],
+    "R5": [
+      "E4",
+      "E5"
+    ],
+    "R6": [
+      "E5",
+      "E6"
+    ],
+    "R7": [
+      "E6",
+      "E7"
+    ],
+    "R8": [
+      "E7",
+      "E8"
+    ],
+    "R9": [
+      "E10",
+      "E11"
+    ],
+    "R10": [
+      "E11",
+      "E12"
+    ],
+    "R11": [
+      "E12",
+      "E13"
+    ],
+    "R12": [
+      "E13",
+      "E14"
+    ],
+    "R13": [
+      "E14",
+      "E15"
+    ],
+    "R14": [
+      "E15",
+      "E16"
+    ],
+    "R15": [
+      "E16",
+      "E17"
+    ],
+    "R16": [
+      "E17",
+      "E18"
+    ],
+    "R17": [
+      "E18",
+      "E19"
+    ],
+    "R18": [
+      "E19",
+      "E20"
+    ],
+    "R19": [
+      "E20",
+      "E21"
+    ],
+    "R20": [
+      "E21",
+      "E22"
+    ],
+    "R21": [
+      "E22",
+      "E23"
+    ],
+    "R22": [
+      "T32",
+      "T33"
+    ],
+    "R23": [
+      "T33",
+      "T30"
+    ],
+    "R24": [
+      "T31",
+      "T30"
+    ],
+    "R25": [
+      "T36",
+      "T37"
+    ],
+    "R26": [
+      "T37",
+      "T34"
+    ],
+    "R27": [
+      "T35",
+      "T34"
+    ],
+    "R28": [
+      "T38",
+      "T34"
+    ],
+    "R29": [
+      "T38",
+      "T30"
+    ],
+    "R30": [
+      "T40",
+      "T39"
+    ],
+    "R31": [
+      "T42",
+      "E3"
+    ],
+    "R32": [
+      "T44",
+      "T45"
+    ],
+    "R33": [
+      "T45",
+      "T43"
+    ],
+    "R34": [
+      "T46",
+      "T43"
+    ],
+    "R35": [
+      "T49",
+      "T48"
+    ],
+    "R36": [
+      "T48",
+      "T47"
+    ],
+    "R37": [
+      "T50",
+      "T47"
+    ],
+    "R38": [
+      "T54",
+      "T53"
+    ],
+    "R39": [
+      "T56",
+      "T55"
+    ],
+    "R40": [
+      "T58",
+      "T57"
+    ],
+    "R41": [
+      "T59",
+      "E5"
+    ],
+    "R42": [
+      "T61",
+      "T60"
+    ],
+    "R43": [
+      "T62",
+      "T60"
+    ],
+    "R44": [
+      "T64",
+      "T63"
+    ],
+    "R46": [
+      "T65",
+      "T63"
+    ],
+    "R47": [
+      "T69",
+      "T66"
+    ],
+    "R48": [
+      "T67",
+      "T68"
+    ],
+    "R49": [
+      "T68",
+      "T66"
+    ],
+    "R45": [
+      "T72",
+      "T70"
+    ],
+    "R50": [
+      "T71",
+      "T70"
+    ],
+    "R51": [
+      "T74",
+      "T75"
+    ],
+    "R52": [
+      "T77",
+      "T78"
+    ],
+    "R53": [
+      "T78",
+      "T76"
+    ],
+    "R54": [
+      "T79",
+      "T76"
+    ],
+    "R55": [
+      "T75",
+      "T73"
+    ],
+    "R56": [
+      "T75",
+      "T170"
+    ],
+    "R57": [
+      "E8",
+      "E9"
+    ],
+    "R58": [
+      "T82",
+      "T81"
+    ],
+    "R59": [
+      "T83",
+      "T84"
+    ],
+    "R60": [
+      "T84",
+      "T81"
+    ],
+    "R61": [
+      "T85",
+      "E8"
+    ],
+    "R62": [
+      "T89",
+      "T88"
+    ],
+    "R63": [
+      "T90",
+      "T88"
+    ],
+    "R64": [
+      "T91",
+      "T88"
+    ],
+    "R65": [
+      "T94",
+      "T95"
+    ],
+    "R66": [
+      "T95",
+      "T96"
+    ],
+    "R67": [
+      "T98",
+      "T100"
+    ],
+    "R68": [
+      "T99",
+      "T100"
+    ],
+    "R69": [
+      "T100",
+      "T97"
+    ],
+    "R70": [
+      "T102",
+      "T103"
+    ],
+    "R71": [
+      "T103",
+      "T104"
+    ],
+    "R72": [
+      "T105",
+      "T106"
+    ],
+    "R73": [
+      "T106",
+      "T107"
+    ],
+    "R74": [
+      "T108",
+      "T109"
+    ],
+    "R75": [
+      "T109",
+      "T112"
+    ],
+    "R76": [
+      "T110",
+      "T111"
+    ],
+    "R77": [
+      "T111",
+      "T112"
+    ],
+    "R78": [
+      "T113",
+      "T112"
+    ],
+    "R79": [
+      "T114",
+      "T115"
+    ],
+    "R80": [
+      "T116",
+      "T117"
+    ],
+    "R81": [
+      "T115",
+      "E11"
+    ],
+    "R82": [
+      "T117",
+      "E11"
+    ],
+    "R83": [
+      "T118",
+      "T119"
+    ],
+    "R84": [
+      "T119",
+      "T120"
+    ],
+    "R85": [
+      "T121",
+      "T122"
+    ],
+    "R86": [
+      "T122",
+      "T123"
+    ],
+    "R87": [
+      "T125",
+      "T126"
+    ],
+    "R88": [
+      "T126",
+      "E14"
+    ],
+    "R89": [
+      "T127",
+      "E14"
+    ],
+    "R90": [
+      "T129",
+      "T128"
+    ],
+    "R91": [
+      "T132",
+      "T131"
+    ],
+    "R92": [
+      "T134",
+      "T133"
+    ],
+    "R93": [
+      "T135",
+      "T133"
+    ],
+    "R94": [
+      "T137",
+      "T139"
+    ],
+    "R95": [
+      "T138",
+      "T139"
+    ],
+    "R96": [
+      "T136",
+      "T139"
+    ],
+    "R97": [
+      "T140",
+      "T139"
+    ],
+    "R98": [
+      "T139",
+      "T133"
+    ],
+    "R99": [
+      "T143",
+      "T144"
+    ],
+    "R100": [
+      "T145",
+      "E18"
+    ],
+    "R101": [
+      "T146",
+      "T147"
+    ],
+    "R102": [
+      "T147",
+      "E19"
+    ],
+    "R103": [
+      "T148",
+      "E20"
+    ],
+    "R104": [
+      "T149",
+      "T151"
+    ],
+    "R105": [
+      "T150",
+      "T152"
+    ],
+    "R106": [
+      "T151",
+      "E20"
+    ],
+    "R107": [
+      "T152",
+      "E20"
+    ],
+    "R108": [
+      "T153",
+      "E21"
+    ],
+    "R109": [
+      "T154",
+      "T153"
+    ],
+    "R110": [
+      "T160",
+      "T155"
+    ],
+    "R111": [
+      "T156",
+      "T158"
+    ],
+    "R112": [
+      "T157",
+      "T159"
+    ],
+    "R113": [
+      "T158",
+      "E22"
+    ],
+    "R114": [
+      "T159",
+      "E22"
+    ],
+    "R115": [
+      "T163",
+      "T162"
+    ],
+    "R116": [
+      "T164",
+      "T165"
+    ],
+    "R117": [
+      "T165",
+      "T166"
+    ],
+    "R118": [
+      "T168",
+      "T169"
+    ],
+    "R119": [
+      "T169",
+      "E23"
+    ],
+    "R120": [
+      "T167",
+      "T169"
+    ]
+  },
+  "e_type_dict": {
+    "E1": "Operation",
+    "E2": "Operation",
+    "E3": "Operation",
+    "E4": "Operation",
+    "E5": "Operation",
+    "E6": "Operation",
+    "E7": "Operation",
+    "E8": "Operation",
+    "E9": "Operation",
+    "E10": "Operation",
+    "E11": "Operation",
+    "E12": "Operation",
+    "E13": "Operation",
+    "E14": "Operation",
+    "E15": "Operation",
+    "E16": "Operation",
+    "E17": "Operation",
+    "E18": "Operation",
+    "E19": "Operation",
+    "E20": "Operation",
+    "E21": "Operation",
+    "E22": "Operation",
+    "E23": "Operation"
+  },
+  "e_trig_dict": {
+    "E1": "T7",
+    "E2": "T8",
+    "E3": "T9",
+    "E4": "T10",
+    "E5": "T11",
+    "E6": "T12",
+    "E7": "T13",
+    "E8": "T14",
+    "E9": "T15",
+    "E10": "T16",
+    "E11": "T17",
+    "E12": "T18",
+    "E13": "T19",
+    "E14": "T20",
+    "E15": "T21",
+    "E16": "T22",
+    "E17": "T23",
+    "E18": "T24",
+    "E19": "T25",
+    "E20": "T26",
+    "E21": "T27",
+    "E22": "T28",
+    "E23": "T29"
+  },
+  "e_args_dict": {
+    "E1": [
+      [
+        "Recipe_Precursor",
+        "T34"
+      ],
+      [
+        "Recipe_Precursor",
+        "T30"
+      ]
+    ],
+    "E2": [
+      [
+        "Recipe_Target",
+        "T39"
+      ]
+    ],
+    "E3": [],
+    "E4": [
+      [
+        "Solvent_Material",
+        "T47"
+      ],
+      [
+        "Solvent_Material",
+        "T43"
+      ]
+    ],
+    "E5": [
+      [
+        "Participant_Material",
+        "T57"
+      ],
+      [
+        "Participant_Material",
+        "T55"
+      ],
+      [
+        "Participant_Material",
+        "T53"
+      ],
+      [
+        "Participant_Material",
+        "T60"
+      ]
+    ],
+    "E6": [
+      [
+        "Participant_Material",
+        "T70"
+      ]
+    ],
+    "E7": [
+      [
+        "Participant_Material",
+        "T170"
+      ]
+    ],
+    "E8": [
+      [
+        "Participant_Material",
+        "T80"
+      ],
+      [
+        "Solvent_Material",
+        "T81"
+      ]
+    ],
+    "E9": [
+      [
+        "Recipe_Target",
+        "T86"
+      ],
+      [
+        "Participant_Material",
+        "T88"
+      ]
+    ],
+    "E10": [
+      [
+        "Participant_Material",
+        "T93"
+      ]
+    ],
+    "E11": [
+      [
+        "Recipe_Precursor",
+        "T96"
+      ],
+      [
+        "Solvent_Material",
+        "T104"
+      ],
+      [
+        "Solvent_Material",
+        "T107"
+      ],
+      [
+        "Solvent_Material",
+        "T112"
+      ]
+    ],
+    "E12": [
+      [
+        "Participant_Material",
+        "T120"
+      ],
+      [
+        "Solvent_Material",
+        "T123"
+      ]
+    ],
+    "E13": [
+      [
+        "Participant_Material",
+        "T124"
+      ]
+    ],
+    "E14": [],
+    "E15": [
+      [
+        "Participant_Material",
+        "T128"
+      ]
+    ],
+    "E16": [
+      [
+        "Participant_Material",
+        "T130"
+      ],
+      [
+        "Participant_Material",
+        "T131"
+      ],
+      [
+        "Participant_Material",
+        "T133"
+      ]
+    ],
+    "E17": [
+      [
+        "Solvent_Material",
+        "T141"
+      ],
+      [
+        "Solvent_Material",
+        "T142"
+      ]
+    ],
+    "E18": [
+      [
+        "Participant_Material",
+        "T144"
+      ]
+    ],
+    "E19": [],
+    "E20": [],
+    "E21": [],
+    "E22": [
+      [
+        "Participant_Material",
+        "T155"
+      ]
+    ],
+    "E23": [
+      [
+        "Participant_Material",
+        "T161"
+      ],
+      [
+        "Solvent_Material",
+        "T162"
+      ],
+      [
+        "Solvent_Material",
+        "T166"
+      ]
+    ]
+  }
+}

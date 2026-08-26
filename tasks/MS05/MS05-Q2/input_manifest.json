@@ -1,0 +1,15 @@
+{
+  "question_id": "MS05-Q2",
+  "files": [
+    {
+      "path": "inputs/case.json",
+      "bytes": 958,
+      "sha256": "744465C4A931B4F9B92F2EDE3D298BB3F762BEE1A87489FFE6ABFA63213012BD"
+    },
+    {
+      "path": "inputs/source_manifest.json",
+      "bytes": 665,
+      "sha256": "61CCA229D37850C370F4E220684C739AEBE637A22D6A52CBCD9DB4FFBAD24565"
+    }
+  ]
+}

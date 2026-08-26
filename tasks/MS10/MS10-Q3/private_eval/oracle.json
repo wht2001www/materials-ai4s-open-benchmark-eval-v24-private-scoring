@@ -1,0 +1,18 @@
+{
+  "flags": [
+    {
+      "code": "HIGH_TEMPERATURE",
+      "hits": [
+        "450.0",
+        "900.0",
+        "450.0",
+        "900.0",
+        "450.0",
+        "900.0",
+        "450.0"
+      ]
+    }
+  ],
+  "severity": "medium",
+  "reference_text_sha256": "c998f142024b3299fd381fb9324fef155c9c400adff6d5728cea0c16b285dd1f"
+}

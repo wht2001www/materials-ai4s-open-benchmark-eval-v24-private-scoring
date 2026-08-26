@@ -1,0 +1,14 @@
+{
+  "id": "MS06-Q2",
+  "title": "Matbench 体积模量—剪切模量还原与 Pugh 代理判定",
+  "task_id": "MS06",
+  "task_name": "材料力学性能验证与断裂失效诊断",
+  "priority": "P0",
+  "subdomain": "mechanics_and_fracture",
+  "level": "L2",
+  "time_minutes": 55,
+  "provenance_class": "Matbench K/G 两个官方任务按共同索引配对",
+  "plot_required": "",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

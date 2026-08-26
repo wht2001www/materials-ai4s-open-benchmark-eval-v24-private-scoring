@@ -1,0 +1,292 @@
+{
+  "test_labels": [
+    {
+      "sample_id": "10",
+      "yield_strength_mpa": 2411.5
+    },
+    {
+      "sample_id": "85",
+      "yield_strength_mpa": 1731.7
+    },
+    {
+      "sample_id": "259",
+      "yield_strength_mpa": 1599.4
+    },
+    {
+      "sample_id": "169",
+      "yield_strength_mpa": 1615.8
+    },
+    {
+      "sample_id": "41",
+      "yield_strength_mpa": 1502.0
+    },
+    {
+      "sample_id": "136",
+      "yield_strength_mpa": 1741.8
+    },
+    {
+      "sample_id": "118",
+      "yield_strength_mpa": 1393.5
+    },
+    {
+      "sample_id": "225",
+      "yield_strength_mpa": 1340.8
+    },
+    {
+      "sample_id": "241",
+      "yield_strength_mpa": 1555.8
+    },
+    {
+      "sample_id": "247",
+      "yield_strength_mpa": 1309.1
+    },
+    {
+      "sample_id": "188",
+      "yield_strength_mpa": 1344.0
+    },
+    {
+      "sample_id": "214",
+      "yield_strength_mpa": 1221.6
+    },
+    {
+      "sample_id": "235",
+      "yield_strength_mpa": 1005.9
+    },
+    {
+      "sample_id": "67",
+      "yield_strength_mpa": 1241.0
+    },
+    {
+      "sample_id": "74",
+      "yield_strength_mpa": 1344.4
+    },
+    {
+      "sample_id": "46",
+      "yield_strength_mpa": 1155.0
+    },
+    {
+      "sample_id": "289",
+      "yield_strength_mpa": 1451.7
+    },
+    {
+      "sample_id": "14",
+      "yield_strength_mpa": 1460.7
+    },
+    {
+      "sample_id": "104",
+      "yield_strength_mpa": 1332.7
+    },
+    {
+      "sample_id": "26",
+      "yield_strength_mpa": 1870.6
+    },
+    {
+      "sample_id": "308",
+      "yield_strength_mpa": 1019.0
+    },
+    {
+      "sample_id": "102",
+      "yield_strength_mpa": 1376.7
+    },
+    {
+      "sample_id": "300",
+      "yield_strength_mpa": 1304.3
+    },
+    {
+      "sample_id": "140",
+      "yield_strength_mpa": 1795.5
+    },
+    {
+      "sample_id": "113",
+      "yield_strength_mpa": 1274.7
+    },
+    {
+      "sample_id": "89",
+      "yield_strength_mpa": 1012.8
+    },
+    {
+      "sample_id": "3",
+      "yield_strength_mpa": 2487.3
+    },
+    {
+      "sample_id": "278",
+      "yield_strength_mpa": 1309.8
+    },
+    {
+      "sample_id": "16",
+      "yield_strength_mpa": 2381.6
+    },
+    {
+      "sample_id": "185",
+      "yield_strength_mpa": 1306.9
+    },
+    {
+      "sample_id": "294",
+      "yield_strength_mpa": 1167.2
+    },
+    {
+      "sample_id": "57",
+      "yield_strength_mpa": 1382.2
+    },
+    {
+      "sample_id": "209",
+      "yield_strength_mpa": 1474.4
+    },
+    {
+      "sample_id": "90",
+      "yield_strength_mpa": 1278.2
+    },
+    {
+      "sample_id": "262",
+      "yield_strength_mpa": 1600.0
+    },
+    {
+      "sample_id": "156",
+      "yield_strength_mpa": 1547.3
+    },
+    {
+      "sample_id": "286",
+      "yield_strength_mpa": 1212.6
+    },
+    {
+      "sample_id": "77",
+      "yield_strength_mpa": 1550.3
+    },
+    {
+      "sample_id": "240",
+      "yield_strength_mpa": 1462.7
+    },
+    {
+      "sample_id": "164",
+      "yield_strength_mpa": 1232.0
+    },
+    {
+      "sample_id": "103",
+      "yield_strength_mpa": 1348.9
+    },
+    {
+      "sample_id": "137",
+      "yield_strength_mpa": 1746.6
+    },
+    {
+      "sample_id": "63",
+      "yield_strength_mpa": 1164.4
+    },
+    {
+      "sample_id": "205",
+      "yield_strength_mpa": 1667.4
+    },
+    {
+      "sample_id": "15",
+      "yield_strength_mpa": 1243.4
+    },
+    {
+      "sample_id": "274",
+      "yield_strength_mpa": 1874.6
+    },
+    {
+      "sample_id": "174",
+      "yield_strength_mpa": 1130.4
+    },
+    {
+      "sample_id": "27",
+      "yield_strength_mpa": 1580.0
+    },
+    {
+      "sample_id": "82",
+      "yield_strength_mpa": 1226.4
+    },
+    {
+      "sample_id": "199",
+      "yield_strength_mpa": 1155.0
+    },
+    {
+      "sample_id": "208",
+      "yield_strength_mpa": 1661.2
+    },
+    {
+      "sample_id": "147",
+      "yield_strength_mpa": 1136.8
+    },
+    {
+      "sample_id": "73",
+      "yield_strength_mpa": 1536.5
+    },
+    {
+      "sample_id": "177",
+      "yield_strength_mpa": 1521.3
+    },
+    {
+      "sample_id": "20",
+      "yield_strength_mpa": 2510.3
+    },
+    {
+      "sample_id": "233",
+      "yield_strength_mpa": 1150.6
+    },
+    {
+      "sample_id": "166",
+      "yield_strength_mpa": 1629.9
+    },
+    {
+      "sample_id": "210",
+      "yield_strength_mpa": 1091.4
+    },
+    {
+      "sample_id": "31",
+      "yield_strength_mpa": 1405.6
+    },
+    {
+      "sample_id": "71",
+      "yield_strength_mpa": 1258.6
+    },
+    {
+      "sample_id": "176",
+      "yield_strength_mpa": 1028.7
+    },
+    {
+      "sample_id": "23",
+      "yield_strength_mpa": 1350.4
+    },
+    {
+      "sample_id": "34",
+      "yield_strength_mpa": 1352.2
+    },
+    {
+      "sample_id": "38",
+      "yield_strength_mpa": 1354.2
+    },
+    {
+      "sample_id": "293",
+      "yield_strength_mpa": 1681.2
+    },
+    {
+      "sample_id": "299",
+      "yield_strength_mpa": 1805.2
+    },
+    {
+      "sample_id": "298",
+      "yield_strength_mpa": 1420.0
+    },
+    {
+      "sample_id": "2",
+      "yield_strength_mpa": 1736.3
+    },
+    {
+      "sample_id": "219",
+      "yield_strength_mpa": 1267.8
+    },
+    {
+      "sample_id": "146",
+      "yield_strength_mpa": 1071.4
+    },
+    {
+      "sample_id": "261",
+      "yield_strength_mpa": 1716.3
+    },
+    {
+      "sample_id": "245",
+      "yield_strength_mpa": 2006.0
+    }
+  ]
+}

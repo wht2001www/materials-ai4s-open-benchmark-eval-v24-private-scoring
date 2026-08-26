@@ -1,0 +1,32 @@
+{
+  "rows": [
+    {
+      "jid": "JVASP-266",
+      "n_points": 200,
+      "peak_point_id": 94,
+      "peak_value": 22.948,
+      "mean": 6.70257
+    },
+    {
+      "jid": "JVASP-1002",
+      "n_points": 200,
+      "peak_point_id": 84,
+      "peak_value": 45.348,
+      "mean": 8.4898875
+    },
+    {
+      "jid": "JVASP-890",
+      "n_points": 200,
+      "peak_point_id": 86,
+      "peak_value": 30.089,
+      "mean": 9.6954
+    },
+    {
+      "jid": "JVASP-1174",
+      "n_points": 200,
+      "peak_point_id": 96,
+      "peak_value": 25.195999999999984,
+      "mean": 7.7333125
+    }
+  ]
+}

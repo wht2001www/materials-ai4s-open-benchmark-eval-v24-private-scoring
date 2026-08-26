@@ -1,0 +1,14 @@
+{
+  "id": "MS08-Q3",
+  "title": "JARVIS 介电函数谱峰值与谱形比较",
+  "task_id": "MS08",
+  "task_name": "半导体与光电材料电子输运及光学响应评估",
+  "priority": "P1",
+  "subdomain": "electronic_magnetic_optical_properties",
+  "level": "L2",
+  "time_minutes": 55,
+  "provenance_class": "JARVIS dielectric_function 官方测试谱固定子集",
+  "plot_required": "dielectric_spectra.png",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

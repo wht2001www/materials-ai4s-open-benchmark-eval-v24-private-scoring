@@ -1,0 +1,17 @@
+{
+  "question_id": "MS08-Q2",
+  "version": "24.0.0",
+  "provenance_class": "LLM4Mat-Bench 官方 train/test 固定子集",
+  "sources": [
+    {
+      "benchmark": "LLM4Mat-Bench",
+      "repository": "https://github.com/vertaix/LLM4Mat-Bench",
+      "snapshot": "3991ae696bb772e5d3ead4bd6cabe176546631d5",
+      "upstream_path": "data/mp/train.csv first 320 + test.csv first 100",
+      "reuse_mode": "direct_subset",
+      "transformation": "训练保留 band_gap；测试公开字段中移除 band_gap 作为私有标签。",
+      "license_or_terms": "repository citation/terms"
+    }
+  ],
+  "note": "题目只声明真实采用的上游文件。固定子集和情境化改编均不冒充上游原题。"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "MS06-Q3",
+  "title": "JARVIS 弹性模量物理有效性与脆韧代理筛查",
+  "task_id": "MS06",
+  "task_name": "材料力学性能验证与断裂失效诊断",
+  "priority": "P0",
+  "subdomain": "mechanics_and_fracture",
+  "level": "L2",
+  "time_minutes": 50,
+  "provenance_class": "JARVIS bulk/shear 官方测试标签配对",
+  "plot_required": "",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

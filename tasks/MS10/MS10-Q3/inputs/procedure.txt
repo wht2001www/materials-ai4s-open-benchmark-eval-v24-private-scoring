@@ -1,0 +1,39 @@
+## Materials
+- Lithium acetate: Stoichiometric amount
+- Manganese acetate: Stoichiometric amount
+- Cobalt acetate: Stoichiometric amount
+- Nickel acetate: Stoichiometric amount  
+- Citric acid: Ratio 1:2 with respect to metal ions
+- SiO2 nanoparticles: 1.0, 1.5, and 2.0 wt%
+- Solvent: 100 ml distilled water
+- All precursors were purchased from Sigma Aldrich.
+
+## Synthesis Equipment
+
+- Muffle furnace: Used for decomposition at 450°C and calcination at 900°C
+- Dry ball mill: Used with zirconia balls for ball milling for 24 hours
+
+## Synthesis Procedure
+
+1. Dissolve stoichiometric amounts of lithium acetate, manganese acetate, cobalt acetate, and nickel acetate in 100 ml distilled water at 60°C with continuous stirring.
+2. Add citric acid to the precursor solution in a 1:2 ratio (citric acid: metal ions) and increase the temperature to 80°C, stirring until a gel forms.
+3. Transfer the gel to an oven at 120°C to remove water traces.
+4. Grind the dried gel into a powder, press into pellets, and decompose in a muffle furnace at 450°C for 6 hours.
+5. Grind and homogenize the decomposed precursor, press into pellets, and calcine at 900°C for 12 hours in a muffle furnace to obtain Li1.2Ni0.13Mn0.54Co0.13O2.
+6. For SiO2 coating, after decomposing the precursor at 450°C, add SiO2 nanoparticles and ball mill for 24 hours using zirconia balls.
+7. Calcine the ball-milled material at 900°C for 12 hours to obtain SiO2-coated materials.
+
+## Characterization Methods and Equipment
+
+- Powder X-ray diffraction (XRD): PAN Analytical—Empyrean, Cu-Kα radiation, 10 ≤ 2θ ≤ 90°, step size of 0.01313°
+- Field emission scanning electron microscopy (FE-SEM)
+- Transmission electron microscopy (TEM): Used for particle morphology and elemental mapping
+- X-ray photoelectron spectroscopy (XPS): Thermo-Scientific-Sigma Probe
+- BET analysis: Quanta chrome 4200e
+- Differential scanning calorimetry (DSC): PerkinElmer 8500, up to 450°C with heating rate of 5°C
+
+## Product Characteristics
+
+- Morphological characteristics: Nanometric-sized particles, average particle size reduction observed in SiO2-coated samples
+- Surface area: Uncoated - 6.139 m²/g; 1.0 wt% SiO2 - 6.718 m²/g; 1.5 wt% SiO2 - 6.412 m²/g; 2.0 wt% SiO2 - 6.120 m²/g
+- Thermal stability: Onset temperature improvements noted in SiO2-coated samples compared to uncoated ones

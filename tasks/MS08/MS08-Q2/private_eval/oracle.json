@@ -1,0 +1,44 @@
+{
+  "test_labels": [
+    {
+      "material_id": "mp-1519998",
+      "band_gap": 0.0
+    },
+    {
+      "material_id": "mp-1038035",
+      "band_gap": 1.9765
+    },
+    {
+      "material_id": "mp-1206636",
+      "band_gap": 0.0
+    },
+    {
+      "material_id": "mp-555398",
+      "band_gap": 3.4571
+    },
+    {
+      "material_id": "mp-642803",
+      "band_gap": 0.0
+    },
+    {
+      "material_id": "mp-1042545",
+      "band_gap": 0.2475
+    },
+    {
+      "material_id": "mp-1197367",
+      "band_gap": 0.0
+    },
+    {
+      "material_id": "mp-774243",
+      "band_gap": 1.3642000000000003
+    },
+    {
+      "material_id": "mp-1096189",
+      "band_gap": 1.0218000000000005
+    },
+    {
+      "material_id": "mp-1639336",
+      "band_gap": 2.2547
+    }
+  ]
+}

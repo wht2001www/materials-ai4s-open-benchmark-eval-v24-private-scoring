@@ -1,0 +1,8 @@
+{
+  "type": "binary_prediction",
+  "metrics": [
+    "balanced_accuracy",
+    "macro_f1"
+  ],
+  "score_cap": 80
+}

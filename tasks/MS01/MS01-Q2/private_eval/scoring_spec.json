@@ -1,0 +1,4 @@
+{
+  "type": "exact_classification_rank",
+  "tolerance": 1e-12
+}

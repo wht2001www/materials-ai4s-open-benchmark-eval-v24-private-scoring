@@ -1,0 +1,14 @@
+{
+  "id": "MS08-Q1",
+  "title": "Matbench 实验带隙成分回归",
+  "task_id": "MS08",
+  "task_name": "半导体与光电材料电子输运及光学响应评估",
+  "priority": "P1",
+  "subdomain": "electronic_magnetic_optical_properties",
+  "level": "L3",
+  "time_minutes": 90,
+  "provenance_class": "Matbench expt_gap 原任务固定重划分",
+  "plot_required": "parity.png",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

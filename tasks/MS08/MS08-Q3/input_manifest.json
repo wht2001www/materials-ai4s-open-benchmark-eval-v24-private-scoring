@@ -1,0 +1,15 @@
+{
+  "question_id": "MS08-Q3",
+  "files": [
+    {
+      "path": "inputs/dielectric_spectra.csv",
+      "bytes": 18941,
+      "sha256": "22B9345D511480A15A43204405FA7F5946FE7E40092B02532FD6B11D71421E39"
+    },
+    {
+      "path": "inputs/source_manifest.json",
+      "bytes": 721,
+      "sha256": "DC701642328C2DCE4C34B7E08AD6887D0482043A79E9AAA41830077F1CA33CD4"
+    }
+  ]
+}

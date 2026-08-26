@@ -1,0 +1,20 @@
+{
+  "question_id": "MS02-Q3",
+  "files": [
+    {
+      "path": "inputs/label_schema.json",
+      "bytes": 900,
+      "sha256": "31204FAC16486E10C91076E825F7F124D743E2966E4375D7150E6016906FA155"
+    },
+    {
+      "path": "inputs/procedure.txt",
+      "bytes": 2501,
+      "sha256": "15306E0C80C33A52ED4DA0642EBD682E518F4ED0A3BFF6F0E53A1B19D71DCC11"
+    },
+    {
+      "path": "inputs/source_manifest.json",
+      "bytes": 733,
+      "sha256": "B160FFC0069DCB4CBA351851753F6270ED6AA1328C234075822FC70A677BEDA2"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "MS03-Q1",
+  "title": "SimXRD 模拟衍射谱空间群识别与峰表生成",
+  "task_id": "MS03",
+  "task_name": "材料实验数据处理、性能表征与结构—性能关联分析",
+  "priority": "P0",
+  "subdomain": "characterization_and_spectroscopy",
+  "level": "L3",
+  "time_minutes": 100,
+  "provenance_class": "SimXRD 官方示例数据库直接划分",
+  "plot_required": "patterns.png",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

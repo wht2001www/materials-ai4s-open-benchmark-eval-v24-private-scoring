@@ -1,0 +1,5 @@
+{
+  "type": "spectral_summary",
+  "tolerance": 1e-08,
+  "plot_required": true
+}

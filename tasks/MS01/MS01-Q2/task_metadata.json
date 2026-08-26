@@ -1,0 +1,14 @@
+{
+  "id": "MS01-Q2",
+  "title": "JARVIS energy-above-hull 稳定性分级与候选优先级",
+  "task_id": "MS01",
+  "task_name": "目标性能约束下的新材料候选发现与优先级排序",
+  "priority": "P0",
+  "subdomain": "materials_informatics",
+  "level": "L2",
+  "time_minutes": 40,
+  "provenance_class": "官方任务记录直接固定子集",
+  "plot_required": "",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

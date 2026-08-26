@@ -1,0 +1,17 @@
+{
+  "question_id": "MS03-Q1",
+  "version": "24.0.0",
+  "provenance_class": "SimXRD 官方示例数据库直接划分",
+  "sources": [
+    {
+      "benchmark": "SimXRD",
+      "repository": "https://github.com/Bin-Cao/SimXRD",
+      "snapshot": "821f145ac3f04a1dfe91cc813a31216c14cd74a5",
+      "upstream_path": "code_test/binxrd.db",
+      "reuse_mode": "direct_resplit",
+      "transformation": "9 条官方谱图按 DB id 前 6 train、后 3 hidden test；谱点不改写。",
+      "license_or_terms": "MIT"
+    }
+  ],
+  "note": "题目只声明真实采用的上游文件。固定子集和情境化改编均不冒充上游原题。"
+}

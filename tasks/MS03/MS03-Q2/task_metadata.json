@@ -1,0 +1,14 @@
+{
+  "id": "MS03-Q2",
+  "title": "MatSci-NLP 合成操作词序列标注",
+  "task_id": "MS03",
+  "task_name": "材料实验数据处理、性能表征与结构—性能关联分析",
+  "priority": "P0",
+  "subdomain": "experimental_data_processing",
+  "level": "L3",
+  "time_minutes": 80,
+  "provenance_class": "MatSci-NLP synthesis action 原任务固定重划分",
+  "plot_required": "",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

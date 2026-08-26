@@ -1,0 +1,17 @@
+{
+  "question_id": "MS10-Q2",
+  "version": "24.0.0",
+  "provenance_class": "真实 Benchmark 合成文本的透明 EHS 情境化改编",
+  "sources": [
+    {
+      "benchmark": "MatSci-NLP",
+      "repository": "https://github.com/BangLab-UdeM-Mila/NLP4MatSci-ACL23",
+      "snapshot": "f9042f5c90394861d05e767143bcfbdbd71ba4ab",
+      "upstream_path": "dataset/synthesis_procedures.json record 0",
+      "reuse_mode": "contextual_adaptation",
+      "transformation": "真实合成文本不改写；新增公开、确定性的危险触发规则进行 EHS triage。",
+      "license_or_terms": "research dataset; repository citation required"
+    }
+  ],
+  "note": "题目只声明真实采用的上游文件。固定子集和情境化改编均不冒充上游原题。"
+}

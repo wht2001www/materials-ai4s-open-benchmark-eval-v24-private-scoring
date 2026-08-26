@@ -1,0 +1,17 @@
+{
+  "question_id": "MS04-Q1",
+  "version": "24.0.0",
+  "provenance_class": "CSPBenchMetrics 官方示例直接采用",
+  "sources": [
+    {
+      "benchmark": "CSPBenchMetrics",
+      "repository": "https://github.com/usccolumbia/CSPBenchMetrics",
+      "snapshot": "9ec04fa2ac94d0b483a095558f48ef36c8578adc",
+      "upstream_path": "data/{SrTiO3,GdB2}_{gt,pred}.cif + results/distance_table.csv",
+      "reuse_mode": "direct_instance",
+      "transformation": "公开输入只含 4 个 CIF；官方 distance_table 作为私有 oracle。",
+      "license_or_terms": "MIT"
+    }
+  ],
+  "note": "题目只声明真实采用的上游文件。固定子集和情境化改编均不冒充上游原题。"
+}

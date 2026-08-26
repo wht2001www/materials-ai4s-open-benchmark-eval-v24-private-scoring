@@ -1,0 +1,14 @@
+{
+  "id": "MS05-Q3",
+  "title": "MatSci-NLP SOFC 材料、工况与性能槽位抽取",
+  "task_id": "MS05",
+  "task_name": "电池与电化学材料性能评估及配方筛选",
+  "priority": "P0",
+  "subdomain": "electrochemistry_and_energy_materials",
+  "level": "L3",
+  "time_minutes": 90,
+  "provenance_class": "MatSci-NLP SOFC token/slot 原任务固定切片",
+  "plot_required": "",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

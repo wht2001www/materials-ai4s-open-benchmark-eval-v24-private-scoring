@@ -1,0 +1,9 @@
+{
+  "type": "procedure_generation",
+  "metrics": [
+    "action_recall",
+    "order_accuracy",
+    "entity_f1",
+    "hallucinated_number_rate"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "MS07-Q3",
+  "title": "AlchemyBench 双响应共聚物表征结果预测",
+  "task_id": "MS07",
+  "task_name": "聚合物配方与重复单元结构—性能评估",
+  "priority": "P1",
+  "subdomain": "polymer_science",
+  "level": "L3",
+  "time_minutes": 70,
+  "provenance_class": "AlchemyBench characterization 任务直接实例",
+  "plot_required": "",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

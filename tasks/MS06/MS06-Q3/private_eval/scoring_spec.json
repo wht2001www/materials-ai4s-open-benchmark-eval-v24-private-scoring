@@ -1,0 +1,4 @@
+{
+  "type": "physics_gate_and_ratio",
+  "relative_tolerance": 1e-08
+}

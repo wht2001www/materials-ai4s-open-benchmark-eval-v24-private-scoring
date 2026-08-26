@@ -1,0 +1,17 @@
+{
+  "question_id": "MS04-Q2",
+  "version": "24.0.0",
+  "provenance_class": "CSPBenchmark 官方 23 结构预测包直接采用",
+  "sources": [
+    {
+      "benchmark": "CSPBenchmark",
+      "repository": "https://github.com/usccolumbia/cspbenchmark",
+      "snapshot": "6e2eee244f434e2010fa4f9d3a08e2c054242a47",
+      "upstream_path": "all_algorithms_predicted_results/23-predicted-data.zip + data/CSPbenchmark_test_data.csv",
+      "reuse_mode": "direct_instance",
+      "transformation": "官方压缩包原样复制；metadata 仅筛出 23 个对应化学式。",
+      "license_or_terms": "MIT"
+    }
+  ],
+  "note": "题目只声明真实采用的上游文件。固定子集和情境化改编均不冒充上游原题。"
+}

@@ -1,0 +1,23 @@
+{
+  "task_id": "MS04",
+  "question_id": "MS04-Q1",
+  "private_package_version": "24.0.0",
+  "source_archive": "materials-ai4s-open-benchmark-eval-v24-private.zip",
+  "source_archive_sha256": "6A8B75D8381E80D7C841A03FF044103FFE6A0A835C79CED4DC559025B027A48B",
+  "files": [
+    {
+      "file": "oracle.json",
+      "sha256": "E87BCCEFF7DA03EA62584A1C69B22502C09D3F98DF4DE7F59F8110AE3E8E5698",
+      "bytes": 942,
+      "source_member": "tasks/MS04/MS04-Q1/oracle.json"
+    },
+    {
+      "file": "scoring_spec.json",
+      "sha256": "54C813ABEC7098C925F9670EF7F9325CA7EA2A805F310FE7B52B984ED21F308C",
+      "bytes": 95,
+      "source_member": "tasks/MS04/MS04-Q1/scoring_spec.json"
+    }
+  ],
+  "contains_python_oracle": false,
+  "note": "Source ZIP contains JSON oracle data and scoring specification only; no Python oracle/scorer was supplied."
+}

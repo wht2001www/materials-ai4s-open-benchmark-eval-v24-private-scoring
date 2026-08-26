@@ -1,0 +1,5 @@
+{
+  "type": "rule_based_safety_audit",
+  "rule_version": "v24-rule-1",
+  "offset_match": "exact_or_token_overlap"
+}

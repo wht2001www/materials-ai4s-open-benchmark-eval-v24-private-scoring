@@ -1,0 +1,17 @@
+{
+  "question_id": "MS09-Q2",
+  "version": "24.0.0",
+  "provenance_class": "JARVIS ph_heat_capacity 官方测试标签固定子集",
+  "sources": [
+    {
+      "benchmark": "JARVIS-Leaderboard",
+      "repository": "https://github.com/usnistgov/jarvis_leaderboard",
+      "snapshot": "57afc55f94c8a6f4562f73a3173968cd4b2f83b1",
+      "upstream_path": "dft_3d_ph_heat_capacity.json.zip test first 120",
+      "reuse_mode": "direct_subset",
+      "transformation": "保留 JID 与官方值；仅抽取前 120。",
+      "license_or_terms": "NIST/JARVIS terms"
+    }
+  ],
+  "note": "题目只声明真实采用的上游文件。固定子集和情境化改编均不冒充上游原题。"
+}

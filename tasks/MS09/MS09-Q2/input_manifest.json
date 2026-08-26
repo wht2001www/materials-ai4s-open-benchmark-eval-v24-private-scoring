@@ -1,0 +1,15 @@
+{
+  "question_id": "MS09-Q2",
+  "files": [
+    {
+      "path": "inputs/heat_capacity.csv",
+      "bytes": 3732,
+      "sha256": "8E19FF9C2A40D5308722407246CDC677F04894CB30587D9739368CBB29EF683F"
+    },
+    {
+      "path": "inputs/source_manifest.json",
+      "bytes": 686,
+      "sha256": "69A55F2169AB68010407F67F2E0DCC847A001FECC310F29D9D1567DFA7040D33"
+    }
+  ]
+}

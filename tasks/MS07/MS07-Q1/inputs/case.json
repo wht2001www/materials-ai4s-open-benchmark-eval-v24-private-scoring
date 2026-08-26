@@ -1,0 +1,11 @@
+{
+  "id": "035cfeb4113531037c19e8251c43eb6073384404",
+  "title": "Rational synthesis of epoxy-functional spheres, worms and vesicles by RAFT aqueous emulsion polymerisation of glycidyl methacrylate",
+  "abstract": "The rational synthesis of epoxy-functional diblock copolymer nano-objects has been achieved via RAFT aqueous emulsion polymerisation of glycidyl methacrylate (GlyMA; aqueous solubility ∼22 g dm−3 at 50 °C) by utilising relatively mild conditions (pH 7, 50 °C) to preserve the epoxy groups. High monomer conversions were achieved within 1 h when using a poly(glycerol monomethacrylate) chain transfer agent with a mean degree of polymerisation (DP) of 28, with GPC analysis indicating relatively narrow molecular weight distributions (Mw/Mn < 1.40) when targeting PGlyMA DPs up to 80. A phase diagram was constructed to identify the synthesis conditions required to access pure spheres, worms or vesicles. Transmission electron microscopy, dynamic light scattering and small-angle X-ray scattering (SAXS) studies indicated the formation of well-defined worms and vesicles when targeting relatively long PGlyMA blocks. These epoxy-functional nano-objects were derivatised via epoxy-thiol chemistry by reaction with L-cysteine in aqueous solution. Finally, an in situ SAXS study was conducted during the RAFT aqueous emulsion polymerisation of GlyMA at 50 °C to examine the nucleation and size evolution of PGMA48-PGlyMA100 diblock copolymer spheres using a bespoke stirrable reaction cell.",
+  "Material_Name": "Epoxy-functional diblock copolymers",
+  "Chemical_Formula": "N/A",
+  "Material_Class": "Copolymer",
+  "Synthesis_Process": "Hybrid (RAFT aqueous emulsion polymerisation and derivatisation via epoxy-thiol chemistry)",
+  "Target": "Material",
+  "Application_Domain": "Others (e.g., viscosity modifiers, gelators, encapsulation of nanoparticles, proteins, or enzymes)"
+}

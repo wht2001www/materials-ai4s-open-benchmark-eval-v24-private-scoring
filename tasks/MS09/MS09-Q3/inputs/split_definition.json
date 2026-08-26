@@ -1,0 +1,8 @@
+{
+  "ordering": "n_sites asc, sample_id asc",
+  "cut_fraction": 0.75,
+  "train_used": 700,
+  "ood_test_used": 180,
+  "train_n_sites_max": 8,
+  "ood_n_sites_min": 10
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "MS01-Q2",
+  "files": [
+    {
+      "path": "inputs/jarvis_ehull_subset.csv",
+      "bytes": 4058,
+      "sha256": "0E0F7F864C01083A543D2F3F6F83C4220113FCA951603147774EA28AA7477FDF"
+    },
+    {
+      "path": "inputs/source_manifest.json",
+      "bytes": 705,
+      "sha256": "3777D7F5D4ACA359D626F4BA3B1FB2EB98E23F06498A564DF616F10C8E4B8DD6"
+    }
+  ]
+}

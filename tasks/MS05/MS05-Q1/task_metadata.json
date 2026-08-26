@@ -1,0 +1,14 @@
+{
+  "id": "MS05-Q1",
+  "title": "AlchemyBench 锂富层状正极原料预测",
+  "task_id": "MS05",
+  "task_name": "电池与电化学材料性能评估及配方筛选",
+  "priority": "P0",
+  "subdomain": "electrochemistry_and_energy_materials",
+  "level": "L3",
+  "time_minutes": 65,
+  "provenance_class": "AlchemyBench 原料预测任务直接实例",
+  "plot_required": "",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

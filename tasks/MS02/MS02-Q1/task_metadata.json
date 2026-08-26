@@ -1,0 +1,14 @@
+{
+  "id": "MS02-Q1",
+  "title": "AlchemyBench 纳米氧化铈合成原料预测",
+  "task_id": "MS02",
+  "task_name": "材料合成路线设计、配方计算与实验条件规划",
+  "priority": "P0",
+  "subdomain": "synthesis_planning",
+  "level": "L3",
+  "time_minutes": 60,
+  "provenance_class": "AlchemyBench 原料预测任务直接实例",
+  "plot_required": "",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

@@ -1,0 +1,8 @@
+{
+  "type": "paired_regression",
+  "metrics": [
+    "mae_a",
+    "mae_b",
+    "delta_mae"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "regression",
+  "metrics": [
+    "mae",
+    "rmse",
+    "r2"
+  ]
+}

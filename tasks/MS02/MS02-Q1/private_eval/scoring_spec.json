@@ -1,0 +1,5 @@
+{
+  "type": "entity_role_f1",
+  "normalization": "casefold+formula_alias",
+  "manual_anchor_required": true
+}

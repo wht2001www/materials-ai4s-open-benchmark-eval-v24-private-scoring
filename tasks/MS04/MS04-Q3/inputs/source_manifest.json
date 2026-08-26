@@ -1,0 +1,17 @@
+{
+  "question_id": "MS04-Q3",
+  "version": "24.0.0",
+  "provenance_class": "LLM4Mat-Bench 官方测试记录固定子集",
+  "sources": [
+    {
+      "benchmark": "LLM4Mat-Bench",
+      "repository": "https://github.com/vertaix/LLM4Mat-Bench",
+      "snapshot": "3991ae696bb772e5d3ead4bd6cabe176546631d5",
+      "upstream_path": "data/mp/test.csv first 24 rows",
+      "reuse_mode": "direct_subset",
+      "transformation": "保留 structure、cif_structure、formula、density、volume、e_hull；不改写字段。",
+      "license_or_terms": "repository citation/terms"
+    }
+  ],
+  "note": "题目只声明真实采用的上游文件。固定子集和情境化改编均不冒充上游原题。"
+}

@@ -1,0 +1,19 @@
+{
+  "test_labels": [
+    {
+      "sample_id": "simxrd-07",
+      "space_group_number": 2,
+      "space_group_symbol": "P"
+    },
+    {
+      "sample_id": "simxrd-08",
+      "space_group_number": 71,
+      "space_group_symbol": "I"
+    },
+    {
+      "sample_id": "simxrd-09",
+      "space_group_number": 62,
+      "space_group_symbol": "P"
+    }
+  ]
+}

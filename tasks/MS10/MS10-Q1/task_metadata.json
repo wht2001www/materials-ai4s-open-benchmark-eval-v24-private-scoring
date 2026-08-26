@@ -1,0 +1,14 @@
+{
+  "id": "MS10-Q1",
+  "title": "AlchemyBench 纳米氧化铈流程危险触发项审查",
+  "task_id": "MS10",
+  "task_name": "材料合成与应用过程的化学安全及环境风险审查",
+  "priority": "P1",
+  "subdomain": "chemical_safety_and_environment",
+  "level": "L3",
+  "time_minutes": 65,
+  "provenance_class": "真实 Benchmark 合成文本的透明 EHS 情境化改编",
+  "plot_required": "",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

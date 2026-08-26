@@ -1,0 +1,25 @@
+{
+  "question_id": "MS03-Q1",
+  "files": [
+    {
+      "path": "inputs/sample_metadata.json",
+      "bytes": 1775,
+      "sha256": "B72C1728F04431ED862BF861D3E09629D3AC847ED79BC54067AB23DBFBAD2999"
+    },
+    {
+      "path": "inputs/source_manifest.json",
+      "bytes": 639,
+      "sha256": "CB637C51A16DBCF44C53911E1D723E05EEC9D458237B520C560E652B314532D3"
+    },
+    {
+      "path": "inputs/test_patterns.csv",
+      "bytes": 553664,
+      "sha256": "7E5B4EB9FFDF4A0F99A07AB1A2DDCBEB0B4A7187CDE6AF0B5D9D75EC516A0233"
+    },
+    {
+      "path": "inputs/train_patterns.csv",
+      "bytes": 1218792,
+      "sha256": "28E4E91EC8D8FBF9C3D6938B54A78480EEDB15DD99669B73AF32D26A40F99AD8"
+    }
+  ]
+}

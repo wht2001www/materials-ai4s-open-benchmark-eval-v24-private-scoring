@@ -1,0 +1,14 @@
+{
+  "id": "MS04-Q3",
+  "title": "LLM4Mat 晶体 JSON—CIF—性质记录一致性核验",
+  "task_id": "MS04",
+  "task_name": "晶体、MOF与多孔材料结构解析及性质评估",
+  "priority": "P0",
+  "subdomain": "crystallography_and_structure",
+  "level": "L3",
+  "time_minutes": 80,
+  "provenance_class": "LLM4Mat-Bench 官方测试记录固定子集",
+  "plot_required": "",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

@@ -1,0 +1,17 @@
+{
+  "question_id": "MS01-Q2",
+  "version": "24.0.0",
+  "provenance_class": "官方任务记录直接固定子集",
+  "sources": [
+    {
+      "benchmark": "JARVIS-Leaderboard",
+      "repository": "https://github.com/usnistgov/jarvis_leaderboard",
+      "snapshot": "57afc55f94c8a6f4562f73a3173968cd4b2f83b1",
+      "upstream_path": "benchmarks/AI/SinglePropertyPrediction/dft_3d_ehull.json.zip",
+      "reuse_mode": "direct_subset",
+      "transformation": "保留官方 split、JID 与标签；仅抽取前 60 val + 60 test。",
+      "license_or_terms": "NIST/JARVIS terms"
+    }
+  ],
+  "note": "题目只声明真实采用的上游文件。固定子集和情境化改编均不冒充上游原题。"
+}

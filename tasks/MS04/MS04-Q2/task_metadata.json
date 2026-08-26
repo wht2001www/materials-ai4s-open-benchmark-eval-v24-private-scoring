@@ -1,0 +1,14 @@
+{
+  "id": "MS04-Q2",
+  "title": "CSPBenchmark 预测结构归档的覆盖率与 CIF 完整性审计",
+  "task_id": "MS04",
+  "task_name": "晶体、MOF与多孔材料结构解析及性质评估",
+  "priority": "P0",
+  "subdomain": "crystal_structure_prediction",
+  "level": "L2",
+  "time_minutes": 60,
+  "provenance_class": "CSPBenchmark 官方 23 结构预测包直接采用",
+  "plot_required": "",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

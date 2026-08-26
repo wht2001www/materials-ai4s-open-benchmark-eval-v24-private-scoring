@@ -1,0 +1,9 @@
+{
+  "seed": 20260922,
+  "n_train": 800,
+  "n_test": 200,
+  "source_columns": [
+    "composition",
+    "gfa"
+  ]
+}

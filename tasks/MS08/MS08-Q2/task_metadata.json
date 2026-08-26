@@ -1,0 +1,14 @@
+{
+  "id": "MS08-Q2",
+  "title": "LLM4Mat 化学式—晶体描述联合带隙预测",
+  "task_id": "MS08",
+  "task_name": "半导体与光电材料电子输运及光学响应评估",
+  "priority": "P1",
+  "subdomain": "electronic_magnetic_optical_properties",
+  "level": "L3",
+  "time_minutes": 100,
+  "provenance_class": "LLM4Mat-Bench 官方 train/test 固定子集",
+  "plot_required": "",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

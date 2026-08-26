@@ -1,0 +1,31 @@
+{
+  "flags": [
+    {
+      "code": "FLAMMABLE_SOLVENT_CONTEXT",
+      "hits": [
+        "ethanol"
+      ]
+    },
+    {
+      "code": "CORROSIVE_ACID_BASE_CONTEXT",
+      "hits": [
+        "HCl",
+        "HNO3"
+      ]
+    },
+    {
+      "code": "TOXIC_METAL_CONTEXT",
+      "hits": [
+        "Hg"
+      ]
+    },
+    {
+      "code": "INERT_OR_REACTIVE_GAS_CONTEXT",
+      "hits": [
+        "hydrogen"
+      ]
+    }
+  ],
+  "severity": "high",
+  "reference_text_sha256": "15306e0c80c33a52ed4da0642ebd682e518f4ed0a3bff6f0e53a1b19d71dcc11"
+}

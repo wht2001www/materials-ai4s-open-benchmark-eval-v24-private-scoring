@@ -1,0 +1,17 @@
+{
+  "question_id": "MS09-Q1",
+  "version": "24.0.0",
+  "provenance_class": "Matbench phonons 原任务固定重划分",
+  "sources": [
+    {
+      "benchmark": "Matbench",
+      "repository": "https://github.com/materialsproject/matbench",
+      "snapshot": "936176db18ca4cd7b38cbd957c017a5bac770c6b",
+      "upstream_path": "matbench_phonons",
+      "reuse_mode": "fixed_resplit",
+      "transformation": "固定 seed 700 train/200 hidden test；结构转换为几何/组成摘要，标签不变。",
+      "license_or_terms": "MIT"
+    }
+  ],
+  "note": "题目只声明真实采用的上游文件。固定子集和情境化改编均不冒充上游原题。"
+}

@@ -1,0 +1,726 @@
+{
+  "rows": [
+    {
+      "jid": "JVASP-101868",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 4.51264919
+    },
+    {
+      "jid": "JVASP-110765",
+      "stability_class": "stable",
+      "energy_above_hull_ev_atom": 0.0
+    },
+    {
+      "jid": "JVASP-115476",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 4.0340682970833335
+    },
+    {
+      "jid": "JVASP-22381",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.621909758181818
+    },
+    {
+      "jid": "JVASP-28366",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.6170662377777776
+    },
+    {
+      "jid": "JVASP-74940",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.9083989000000003
+    },
+    {
+      "jid": "JVASP-70911",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 3.2429016625
+    },
+    {
+      "jid": "JVASP-44532",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 2.8463315302955667
+    },
+    {
+      "jid": "JVASP-101129",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 2.4255125357142857
+    },
+    {
+      "jid": "JVASP-41287",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.4390649100000001
+    },
+    {
+      "jid": "JVASP-7863",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.4584889749999999
+    },
+    {
+      "jid": "JVASP-50060",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.7511615250000001
+    },
+    {
+      "jid": "JVASP-58233",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 5.196412850000001
+    },
+    {
+      "jid": "JVASP-29212",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 3.821165830555556
+    },
+    {
+      "jid": "JVASP-75625",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 3.8499564543749996
+    },
+    {
+      "jid": "JVASP-105613",
+      "stability_class": "stable",
+      "energy_above_hull_ev_atom": 0.0
+    },
+    {
+      "jid": "JVASP-20429",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.13094400000000006
+    },
+    {
+      "jid": "JVASP-24951",
+      "stability_class": "stable",
+      "energy_above_hull_ev_atom": 0.0
+    },
+    {
+      "jid": "JVASP-100557",
+      "stability_class": "stable",
+      "energy_above_hull_ev_atom": 0.0
+    },
+    {
+      "jid": "JVASP-50835",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.3758434833333334
+    },
+    {
+      "jid": "JVASP-106348",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 2.0966710853448274
+    },
+    {
+      "jid": "JVASP-28628",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 4.208982175
+    },
+    {
+      "jid": "JVASP-39037",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 5.52232911875
+    },
+    {
+      "jid": "JVASP-18078",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.442839775
+    },
+    {
+      "jid": "JVASP-25665",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 2.500279172222222
+    },
+    {
+      "jid": "JVASP-52234",
+      "stability_class": "stable",
+      "energy_above_hull_ev_atom": 0.0
+    },
+    {
+      "jid": "JVASP-1567",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.54678625
+    },
+    {
+      "jid": "JVASP-110092",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.0098441783333332
+    },
+    {
+      "jid": "JVASP-35074",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.7121418694444444
+    },
+    {
+      "jid": "JVASP-14736",
+      "stability_class": "near_stable",
+      "energy_above_hull_ev_atom": 0.041360986111111164
+    },
+    {
+      "jid": "JVASP-66053",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.18396146500000002
+    },
+    {
+      "jid": "JVASP-109671",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 3.1339639
+    },
+    {
+      "jid": "JVASP-5566",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.1434154250000002
+    },
+    {
+      "jid": "JVASP-106930",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.62426855
+    },
+    {
+      "jid": "JVASP-8026",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 2.0125513333333336
+    },
+    {
+      "jid": "JVASP-67171",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 4.270187833333333
+    },
+    {
+      "jid": "JVASP-18642",
+      "stability_class": "stable",
+      "energy_above_hull_ev_atom": 0.0
+    },
+    {
+      "jid": "JVASP-101525",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.07785
+    },
+    {
+      "jid": "JVASP-21731",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 2.3237613500000007
+    },
+    {
+      "jid": "JVASP-37355",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.6324759719999999
+    },
+    {
+      "jid": "JVASP-99964",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.455641768275862
+    },
+    {
+      "jid": "JVASP-10711",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.9506451466666668
+    },
+    {
+      "jid": "JVASP-210",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 2.1772143333333336
+    },
+    {
+      "jid": "JVASP-15847",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.24003549999999985
+    },
+    {
+      "jid": "JVASP-17320",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 3.6314339361111116
+    },
+    {
+      "jid": "JVASP-53085",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.8600457525000001
+    },
+    {
+      "jid": "JVASP-42106",
+      "stability_class": "stable",
+      "energy_above_hull_ev_atom": 0.0
+    },
+    {
+      "jid": "JVASP-86184",
+      "stability_class": "near_stable",
+      "energy_above_hull_ev_atom": 0.0035589579999999177
+    },
+    {
+      "jid": "JVASP-18784",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 3.2565125500000005
+    },
+    {
+      "jid": "JVASP-104",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.4768151111111112
+    },
+    {
+      "jid": "JVASP-37806",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 3.203054566666667
+    },
+    {
+      "jid": "JVASP-27532",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 2.3284441336363635
+    },
+    {
+      "jid": "JVASP-111592",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 2.7100717
+    },
+    {
+      "jid": "JVASP-17660",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.22950655666666675
+    },
+    {
+      "jid": "JVASP-15338",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.7569330066666667
+    },
+    {
+      "jid": "JVASP-8052",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.5443093642857142
+    },
+    {
+      "jid": "JVASP-116186",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.2151230187499997
+    },
+    {
+      "jid": "JVASP-28640",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 4.125949575000001
+    },
+    {
+      "jid": "JVASP-65689",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.3862356841666667
+    },
+    {
+      "jid": "JVASP-116328",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.8117227500000002
+    },
+    {
+      "jid": "JVASP-8413",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.9672935799999998
+    },
+    {
+      "jid": "JVASP-110205",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 2.7337453999999997
+    },
+    {
+      "jid": "JVASP-118267",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.5632093999999999
+    },
+    {
+      "jid": "JVASP-119208",
+      "stability_class": "stable",
+      "energy_above_hull_ev_atom": 0.0
+    },
+    {
+      "jid": "JVASP-44231",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.1346204714285717
+    },
+    {
+      "jid": "JVASP-105860",
+      "stability_class": "stable",
+      "energy_above_hull_ev_atom": 0.00015750000000000486
+    },
+    {
+      "jid": "JVASP-13022",
+      "stability_class": "stable",
+      "energy_above_hull_ev_atom": 0.0
+    },
+    {
+      "jid": "JVASP-78313",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.5854794117647057
+    },
+    {
+      "jid": "JVASP-5491",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 2.3005462454545453
+    },
+    {
+      "jid": "JVASP-93894",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.44071095
+    },
+    {
+      "jid": "JVASP-74584",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.4890693166666664
+    },
+    {
+      "jid": "JVASP-100871",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.0367898608333332
+    },
+    {
+      "jid": "JVASP-30163",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.2912160275000002
+    },
+    {
+      "jid": "JVASP-64640",
+      "stability_class": "near_stable",
+      "energy_above_hull_ev_atom": 0.008977077777777745
+    },
+    {
+      "jid": "JVASP-41214",
+      "stability_class": "stable",
+      "energy_above_hull_ev_atom": 0.0
+    },
+    {
+      "jid": "JVASP-43732",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.34663306189655174
+    },
+    {
+      "jid": "JVASP-118511",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.7058449699999996
+    },
+    {
+      "jid": "JVASP-116329",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.5479255833333336
+    },
+    {
+      "jid": "JVASP-110901",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 4.79678472
+    },
+    {
+      "jid": "JVASP-65038",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 3.4214971999999997
+    },
+    {
+      "jid": "JVASP-112284",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 2.052540883333333
+    },
+    {
+      "jid": "JVASP-66298",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.4251931566666667
+    },
+    {
+      "jid": "JVASP-7728",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.08581449583333338
+    },
+    {
+      "jid": "JVASP-69752",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 2.79538455
+    },
+    {
+      "jid": "JVASP-114556",
+      "stability_class": "stable",
+      "energy_above_hull_ev_atom": 0.0
+    },
+    {
+      "jid": "JVASP-36348",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 3.15438785
+    },
+    {
+      "jid": "JVASP-117650",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.22875734
+    },
+    {
+      "jid": "JVASP-4186",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.45868654611111115
+    },
+    {
+      "jid": "JVASP-119445",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.9453570000000003
+    },
+    {
+      "jid": "JVASP-103033",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 2.8406634124999997
+    },
+    {
+      "jid": "JVASP-115744",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 3.269424849999999
+    },
+    {
+      "jid": "JVASP-105701",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.8964277999999999
+    },
+    {
+      "jid": "JVASP-108806",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.5135797209999997
+    },
+    {
+      "jid": "JVASP-11394",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.3190041937499999
+    },
+    {
+      "jid": "JVASP-109529",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.5448278874999999
+    },
+    {
+      "jid": "JVASP-108950",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.6492864233333333
+    },
+    {
+      "jid": "JVASP-105097",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 2.7538267166666675
+    },
+    {
+      "jid": "JVASP-45322",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 2.9816522645454544
+    },
+    {
+      "jid": "JVASP-33935",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 2.408157888888889
+    },
+    {
+      "jid": "JVASP-93180",
+      "stability_class": "stable",
+      "energy_above_hull_ev_atom": 0.0
+    },
+    {
+      "jid": "JVASP-91325",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 2.937891222222223
+    },
+    {
+      "jid": "JVASP-7761",
+      "stability_class": "near_stable",
+      "energy_above_hull_ev_atom": 0.012415000000000065
+    },
+    {
+      "jid": "JVASP-37185",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 3.5259874853448276
+    },
+    {
+      "jid": "JVASP-39045",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 2.51351884375
+    },
+    {
+      "jid": "JVASP-34525",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.7795480340000003
+    },
+    {
+      "jid": "JVASP-71745",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 2.7745253375
+    },
+    {
+      "jid": "JVASP-16235",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 4.590625873333332
+    },
+    {
+      "jid": "JVASP-52504",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 3.9784741961538463
+    },
+    {
+      "jid": "JVASP-112753",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.18493192
+    },
+    {
+      "jid": "JVASP-103098",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 1.6730962833333332
+    },
+    {
+      "jid": "JVASP-50802",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 3.774667489318181
+    },
+    {
+      "jid": "JVASP-17181",
+      "stability_class": "stable",
+      "energy_above_hull_ev_atom": 0.0
+    },
+    {
+      "jid": "JVASP-86371",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 0.3094116250000001
+    },
+    {
+      "jid": "JVASP-106422",
+      "stability_class": "stable",
+      "energy_above_hull_ev_atom": 0.0
+    },
+    {
+      "jid": "JVASP-61617",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 3.3448273235344823
+    },
+    {
+      "jid": "JVASP-90723",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 2.1548014675
+    },
+    {
+      "jid": "JVASP-71073",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 2.08270115
+    },
+    {
+      "jid": "JVASP-116584",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 4.7468860444444445
+    },
+    {
+      "jid": "JVASP-39855",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 3.5527684666666666
+    },
+    {
+      "jid": "JVASP-101047",
+      "stability_class": "metastable",
+      "energy_above_hull_ev_atom": 2.2552477239999997
+    }
+  ],
+  "ranked_ids": [
+    "JVASP-100557",
+    "JVASP-105613",
+    "JVASP-106422",
+    "JVASP-110765",
+    "JVASP-114556",
+    "JVASP-119208",
+    "JVASP-13022",
+    "JVASP-17181",
+    "JVASP-18642",
+    "JVASP-24951",
+    "JVASP-41214",
+    "JVASP-42106",
+    "JVASP-52234",
+    "JVASP-93180",
+    "JVASP-105860",
+    "JVASP-86184",
+    "JVASP-64640",
+    "JVASP-7761",
+    "JVASP-14736",
+    "JVASP-101525",
+    "JVASP-7728",
+    "JVASP-20429",
+    "JVASP-66053",
+    "JVASP-17660",
+    "JVASP-15847",
+    "JVASP-30163",
+    "JVASP-86371",
+    "JVASP-43732",
+    "JVASP-50835",
+    "JVASP-65689",
+    "JVASP-41287",
+    "JVASP-4186",
+    "JVASP-1567",
+    "JVASP-78313",
+    "JVASP-28366",
+    "JVASP-37355",
+    "JVASP-108950",
+    "JVASP-35074",
+    "JVASP-50060",
+    "JVASP-15338",
+    "JVASP-53085",
+    "JVASP-119445",
+    "JVASP-10711",
+    "JVASP-110092",
+    "JVASP-100871",
+    "JVASP-44231",
+    "JVASP-5566",
+    "JVASP-112753",
+    "JVASP-116186",
+    "JVASP-117650",
+    "JVASP-11394",
+    "JVASP-66298",
+    "JVASP-93894",
+    "JVASP-18078",
+    "JVASP-99964",
+    "JVASP-7863",
+    "JVASP-104",
+    "JVASP-74584",
+    "JVASP-108806",
+    "JVASP-8052",
+    "JVASP-109529",
+    "JVASP-116329",
+    "JVASP-118267",
+    "JVASP-22381",
+    "JVASP-106930",
+    "JVASP-103098",
+    "JVASP-118511",
+    "JVASP-34525",
+    "JVASP-116328",
+    "JVASP-105701",
+    "JVASP-74940",
+    "JVASP-8413",
+    "JVASP-8026",
+    "JVASP-112284",
+    "JVASP-71073",
+    "JVASP-106348",
+    "JVASP-90723",
+    "JVASP-210",
+    "JVASP-101047",
+    "JVASP-5491",
+    "JVASP-21731",
+    "JVASP-27532",
+    "JVASP-33935",
+    "JVASP-101129",
+    "JVASP-25665",
+    "JVASP-39045",
+    "JVASP-111592",
+    "JVASP-110205",
+    "JVASP-105097",
+    "JVASP-71745",
+    "JVASP-69752",
+    "JVASP-103033",
+    "JVASP-44532",
+    "JVASP-91325",
+    "JVASP-45322",
+    "JVASP-109671",
+    "JVASP-36348",
+    "JVASP-37806",
+    "JVASP-70911",
+    "JVASP-18784",
+    "JVASP-115744",
+    "JVASP-61617",
+    "JVASP-65038",
+    "JVASP-37185",
+    "JVASP-39855",
+    "JVASP-17320",
+    "JVASP-50802",
+    "JVASP-29212",
+    "JVASP-75625",
+    "JVASP-52504",
+    "JVASP-115476",
+    "JVASP-28640",
+    "JVASP-28628",
+    "JVASP-67171",
+    "JVASP-101868",
+    "JVASP-16235",
+    "JVASP-116584",
+    "JVASP-110901",
+    "JVASP-58233",
+    "JVASP-39037"
+  ]
+}

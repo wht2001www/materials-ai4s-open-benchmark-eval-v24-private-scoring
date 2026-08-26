@@ -1,0 +1,14 @@
+{
+  "id": "MS03-Q3",
+  "title": "Matbench 结构尺度与折射率的关联分析",
+  "task_id": "MS03",
+  "task_name": "材料实验数据处理、性能表征与结构—性能关联分析",
+  "priority": "P0",
+  "subdomain": "structure_property_relationship",
+  "level": "L2",
+  "time_minutes": 55,
+  "provenance_class": "Matbench dielectric 官方记录固定子集",
+  "plot_required": "association.png",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

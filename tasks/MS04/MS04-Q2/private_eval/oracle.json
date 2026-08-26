@@ -1,0 +1,235 @@
+{
+  "coverage": [
+    {
+      "algorithm": "CALYPSO",
+      "formula": "Ca3SnO",
+      "file_present": true
+    },
+    {
+      "algorithm": "CALYPSO",
+      "formula": "Co2Ni2Sn2",
+      "file_present": true
+    },
+    {
+      "algorithm": "CALYPSO",
+      "formula": "Co2Te2",
+      "file_present": true
+    },
+    {
+      "algorithm": "CALYPSO",
+      "formula": "Cr6Ga2",
+      "file_present": true
+    },
+    {
+      "algorithm": "CALYPSO",
+      "formula": "Hf4Mn8",
+      "file_present": true
+    },
+    {
+      "algorithm": "CALYPSO",
+      "formula": "Hf4Ni2",
+      "file_present": true
+    },
+    {
+      "algorithm": "CALYPSO",
+      "formula": "HfCo2Sn",
+      "file_present": true
+    },
+    {
+      "algorithm": "CALYPSO",
+      "formula": "InHg",
+      "file_present": true
+    },
+    {
+      "algorithm": "CALYPSO",
+      "formula": "Li2CuSn",
+      "file_present": true
+    },
+    {
+      "algorithm": "CALYPSO",
+      "formula": "LiMg2Ga",
+      "file_present": true
+    },
+    {
+      "algorithm": "CALYPSO",
+      "formula": "MgCu4Sn",
+      "file_present": true
+    },
+    {
+      "algorithm": "CALYPSO",
+      "formula": "MgInCu4",
+      "file_present": true
+    },
+    {
+      "algorithm": "CALYPSO",
+      "formula": "NaGa4",
+      "file_present": true
+    },
+    {
+      "algorithm": "CALYPSO",
+      "formula": "ScCu",
+      "file_present": true
+    },
+    {
+      "algorithm": "CALYPSO",
+      "formula": "SrGa4",
+      "file_present": true
+    },
+    {
+      "algorithm": "CALYPSO",
+      "formula": "SrGaCu2",
+      "file_present": true
+    },
+    {
+      "algorithm": "CALYPSO",
+      "formula": "Ti2Cd",
+      "file_present": true
+    },
+    {
+      "algorithm": "CALYPSO",
+      "formula": "TiGa3",
+      "file_present": true
+    },
+    {
+      "algorithm": "CALYPSO",
+      "formula": "Y3Al9",
+      "file_present": true
+    },
+    {
+      "algorithm": "CALYPSO",
+      "formula": "YHg2",
+      "file_present": true
+    },
+    {
+      "algorithm": "CALYPSO",
+      "formula": "Zn2C2O6",
+      "file_present": true
+    },
+    {
+      "algorithm": "CALYPSO",
+      "formula": "ZnCdPt2",
+      "file_present": true
+    },
+    {
+      "algorithm": "CALYPSO",
+      "formula": "ZrHg",
+      "file_present": true
+    },
+    {
+      "algorithm": "USPEX",
+      "formula": "Ca3SnO",
+      "file_present": true
+    },
+    {
+      "algorithm": "USPEX",
+      "formula": "Co2Ni2Sn2",
+      "file_present": true
+    },
+    {
+      "algorithm": "USPEX",
+      "formula": "Co2Te2",
+      "file_present": true
+    },
+    {
+      "algorithm": "USPEX",
+      "formula": "Cr6Ga2",
+      "file_present": true
+    },
+    {
+      "algorithm": "USPEX",
+      "formula": "Hf4Mn8",
+      "file_present": true
+    },
+    {
+      "algorithm": "USPEX",
+      "formula": "Hf4Ni2",
+      "file_present": true
+    },
+    {
+      "algorithm": "USPEX",
+      "formula": "HfCo2Sn",
+      "file_present": true
+    },
+    {
+      "algorithm": "USPEX",
+      "formula": "InHg",
+      "file_present": true
+    },
+    {
+      "algorithm": "USPEX",
+      "formula": "Li2CuSn",
+      "file_present": true
+    },
+    {
+      "algorithm": "USPEX",
+      "formula": "LiMg2Ga",
+      "file_present": true
+    },
+    {
+      "algorithm": "USPEX",
+      "formula": "MgCu4Sn",
+      "file_present": true
+    },
+    {
+      "algorithm": "USPEX",
+      "formula": "MgInCu4",
+      "file_present": true
+    },
+    {
+      "algorithm": "USPEX",
+      "formula": "NaGa4",
+      "file_present": true
+    },
+    {
+      "algorithm": "USPEX",
+      "formula": "ScCu",
+      "file_present": true
+    },
+    {
+      "algorithm": "USPEX",
+      "formula": "SrGa4",
+      "file_present": true
+    },
+    {
+      "algorithm": "USPEX",
+      "formula": "SrGaCu2",
+      "file_present": true
+    },
+    {
+      "algorithm": "USPEX",
+      "formula": "Ti2Cd",
+      "file_present": true
+    },
+    {
+      "algorithm": "USPEX",
+      "formula": "TiGa3",
+      "file_present": true
+    },
+    {
+      "algorithm": "USPEX",
+      "formula": "Y3Al9",
+      "file_present": true
+    },
+    {
+      "algorithm": "USPEX",
+      "formula": "YHg2",
+      "file_present": true
+    },
+    {
+      "algorithm": "USPEX",
+      "formula": "Zn2C2O6",
+      "file_present": true
+    },
+    {
+      "algorithm": "USPEX",
+      "formula": "ZnCdPt2",
+      "file_present": true
+    },
+    {
+      "algorithm": "USPEX",
+      "formula": "ZrHg",
+      "file_present": true
+    }
+  ],
+  "expected_rows": 46
+}

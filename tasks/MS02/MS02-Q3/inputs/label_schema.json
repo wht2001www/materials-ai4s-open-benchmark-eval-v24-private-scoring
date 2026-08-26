@@ -1,0 +1,48 @@
+{
+  "entity_types": [
+    "number",
+    "apparatus-property-type",
+    "amount-unit",
+    "amount-misc",
+    "property-misc",
+    "property-unit",
+    "condition-type",
+    "synthesis-apparatus",
+    "brand",
+    "material",
+    "apparatus-descriptor",
+    "nonrecipe-material",
+    "meta",
+    "operation",
+    "reference",
+    "property-type",
+    "material-descriptor",
+    "characterization-apparatus",
+    "apparatus-unit",
+    "condition-misc",
+    "condition-unit"
+  ],
+  "relation_types": [
+    "next_operation",
+    "number_of",
+    "apparatus_of",
+    "amount_of",
+    "property_of",
+    "descriptor_of",
+    "condition_of",
+    "type_of",
+    "coref_of",
+    "brand_of",
+    "apparatus_attr_of"
+  ],
+  "event_types": [
+    "operation"
+  ],
+  "event_roles": [
+    "recipe_precursor",
+    "solvent_material",
+    "atmospheric_material",
+    "recipe_target",
+    "participant_material"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "41b869d11327e459eb9523f907f3f739ae986795",
+  "title": "Dual Stimuli-Responsive P(NIPAAm-co-SPA) Copolymers: Synthesis and Response in Solution and in Films",
+  "abstract": "We present the synthesis and solution properties of dual stimuli-responsive poly(N-isopropylacrylamide-co-spiropyran acrylate) (P(NIPAAm-co-SPA)) copolymers of varying composition prepared via nitroxide-mediated copolymerization. The resulting copolymers feature molar masses from 40,000 to 100,000 g/mol according to static light scattering and an SPA content of up to 5.3%. The latter was determined by 1H NMR spectroscopy and UV–Vis spectroscopy. These materials exhibit reversible response upon irradiation in polymeric films for a minimum of three cycles; their response in solution to both light and temperature was also investigated in an aqueous TRIS buffer (pH 8). Irradiation was carried out using LED setups with wavelengths of 365 and 590 nm. In aqueous solution, a custom-made setup using a fiber-coupled 200 W Hg(Xe) lamp with 340 and 540 nm filters was used and additional heating of the copolymer solutions during irradiation allowed to study influence of the presence of either the spiropyran or merocyanine form on the cloud point temperature. Hereby, it was found that increasing the SPA content leads to a more pronounced difference between both states and decreasing cloud points in general.",
+  "Material_Name": "Poly(N-isopropylacrylamide-co-spiropyran acrylate) (P(NIPAAm-co-SPA))",
+  "Chemical_Formula": "N/A",
+  "Material_Class": "Copolymer",
+  "Synthesis_Process": "Solution-Based (controlled radical polymerization)",
+  "Target": "Material",
+  "Application_Domain": "Healthcare (drug delivery, sensing), Others (actuators, controlled wetting surfaces)",
+  "materials_context": "## Key Contributions\n- Novel materials or compounds: Dual stimuli-responsive poly(N-isopropylacrylamide-co-spiropyran acrylate) (P(NIPAAm-co-SPA)) copolymers.\n- Unique synthesis methods: Nitroxide-mediated polymerization (NMP) was used to prepare the copolymers.\n- Specific applications or domains: The study focuses on applications in stimuli-responsive materials which can be used in drug delivery, sensing, and actuators."
+}

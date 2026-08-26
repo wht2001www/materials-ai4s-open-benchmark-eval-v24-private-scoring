@@ -1,0 +1,5 @@
+{
+  "type": "multiclass_and_peak_detection",
+  "peak_threshold": 0.1,
+  "plot_required": true
+}

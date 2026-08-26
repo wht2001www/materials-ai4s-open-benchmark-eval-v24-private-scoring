@@ -1,0 +1,30 @@
+{
+  "question_id": "MS04-Q1",
+  "files": [
+    {
+      "path": "inputs/GdB2_gt.cif",
+      "bytes": 1185,
+      "sha256": "123725B833CB7697E3C17D3D52472B7F56DA967E2B31AE59019EAAE1742F4C32"
+    },
+    {
+      "path": "inputs/GdB2_pred.cif",
+      "bytes": 804,
+      "sha256": "A794840CA73F91B794366C4C61758B315909E7D75B7F3D620CB03B554EE6E28D"
+    },
+    {
+      "path": "inputs/source_manifest.json",
+      "bytes": 700,
+      "sha256": "E0681BA94A29AEE18D2E8E853E2497CDA909AF5129281C88EC1DC1DFDE26AEF0"
+    },
+    {
+      "path": "inputs/SrTiO3_gt.cif",
+      "bytes": 1013,
+      "sha256": "1537DA657638515E659E3572515B54041EE4E16C3B04033EEAB5150EDA4EC3B8"
+    },
+    {
+      "path": "inputs/SrTiO3_pred.cif",
+      "bytes": 914,
+      "sha256": "4B1E5D3F272F6EE858EA0963D038547BE531244F80885AB00C7E77FD1427C9D6"
+    }
+  ]
+}

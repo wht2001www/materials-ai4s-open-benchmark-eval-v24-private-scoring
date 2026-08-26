@@ -1,0 +1,554 @@
+{
+  "version": "24.0.0",
+  "question_count": 30,
+  "source_archive": "C:\\Users\\73571\\Documents\\科研发现平台报告\\materials-ai4s-open-benchmark-eval-v24-private.zip",
+  "source_archive_sha256": "6A8B75D8381E80D7C841A03FF044103FFE6A0A835C79CED4DC559025B027A48B",
+  "layout": "tasks/<MSxx>/<MSxx-Qx>/private_eval/",
+  "source_file_types": [
+    "oracle.json",
+    "scoring_spec.json"
+  ],
+  "source_contains_python_files": false,
+  "questions": [
+    {
+      "id": "MS01-Q1",
+      "private_eval_dir": "tasks/MS01/MS01-Q1/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "4F89F58203206DF294AB335982F9734DCEDF3319A7A9A88D4D20C5F4A131AD69",
+          "bytes": 1900,
+          "source_member": "tasks/MS01/MS01-Q1/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "26B2266490D98110352EA43FEA088786B827702516F300F804F861E7EC6EFC52",
+          "bytes": 58,
+          "source_member": "tasks/MS01/MS01-Q1/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS01-Q2",
+      "private_eval_dir": "tasks/MS01/MS01-Q2/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "421E777C1FA6409F87966A2EE70119043BE0E79B743F3654A1B541A0C3DD98E0",
+          "bytes": 18038,
+          "source_member": "tasks/MS01/MS01-Q2/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "BB043D513B0063A61A69BF17AA9838325078F0E73A8A4EA65C909FBBE6FC0F31",
+          "bytes": 64,
+          "source_member": "tasks/MS01/MS01-Q2/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS01-Q3",
+      "private_eval_dir": "tasks/MS01/MS01-Q3/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "FFFFD88DE7F15ECFBAF7CD9BA2C55A9848FFFE0A9B9AFD342FAC85CAD191C467",
+          "bytes": 10991,
+          "source_member": "tasks/MS01/MS01-Q3/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "2E16A954EE46D71ED11224F78E5C0ACF65622EA92595AA6CF22D4608C05B8F98",
+          "bytes": 113,
+          "source_member": "tasks/MS01/MS01-Q3/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS02-Q1",
+      "private_eval_dir": "tasks/MS02/MS02-Q1/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "E0CB208A7FD8CE01633B67D63205AEEAAB931794DD420F82338BF684A229BD7B",
+          "bytes": 2410,
+          "source_member": "tasks/MS02/MS02-Q1/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "9EF0DCD270487F13E44FE08DFF1416B39EC943B93CFB6ED9E83B841B439CDA68",
+          "bytes": 110,
+          "source_member": "tasks/MS02/MS02-Q1/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS02-Q2",
+      "private_eval_dir": "tasks/MS02/MS02-Q2/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "8744268F8F3D2F2FC9C86C26AB3990B950D1FAE97F8B3FD33FF9BA4A8D6E273C",
+          "bytes": 2287,
+          "source_member": "tasks/MS02/MS02-Q2/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "A95DDF19712D880DD7DE95F39B7DF4A2443F24110FB8CA13DB10651F003AE285",
+          "bytes": 164,
+          "source_member": "tasks/MS02/MS02-Q2/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS02-Q3",
+      "private_eval_dir": "tasks/MS02/MS02-Q3/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "AAD8E4D5F20654B4110F7C940A2CAC2569641F55A07260860A0198FB20CF98F0",
+          "bytes": 23629,
+          "source_member": "tasks/MS02/MS02-Q3/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "F114F40918520B60C9B1112DE60C2132C35845C331C5944742321819F03668F0",
+          "bytes": 75,
+          "source_member": "tasks/MS02/MS02-Q3/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS03-Q1",
+      "private_eval_dir": "tasks/MS03/MS03-Q1/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "481A2002D499D7C05B50A8FF6821E972460023E804D691088AE220C8F5DA6952",
+          "bytes": 352,
+          "source_member": "tasks/MS03/MS03-Q1/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "5B33A401AB8CD8123BD0DA039B98169B9C508E0436FB1D7138FE2343646F2801",
+          "bytes": 96,
+          "source_member": "tasks/MS03/MS03-Q1/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS03-Q2",
+      "private_eval_dir": "tasks/MS03/MS03-Q2/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "960F3E306783599FD8D2703DD209D1B1FFED2EE3D61ADAE8FA156038B3C7AF0B",
+          "bytes": 132481,
+          "source_member": "tasks/MS03/MS03-Q2/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "084F9D80658153415D2CECFBB8DE4EC666DB2617B0FBEF4973EBE8401915360D",
+          "bytes": 94,
+          "source_member": "tasks/MS03/MS03-Q2/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS03-Q3",
+      "private_eval_dir": "tasks/MS03/MS03-Q3/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "0DC91D60106DA970C2449A0023F07FB802622633BD344B226326D049BF595FFD",
+          "bytes": 100,
+          "source_member": "tasks/MS03/MS03-Q3/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "CFB0550016B42B2EB571E7833C689C552581EFDDAF4C804374BBBD957CCD6C92",
+          "bytes": 128,
+          "source_member": "tasks/MS03/MS03-Q3/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS04-Q1",
+      "private_eval_dir": "tasks/MS04/MS04-Q1/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "E87BCCEFF7DA03EA62584A1C69B22502C09D3F98DF4DE7F59F8110AE3E8E5698",
+          "bytes": 942,
+          "source_member": "tasks/MS04/MS04-Q1/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "54C813ABEC7098C925F9670EF7F9325CA7EA2A805F310FE7B52B984ED21F308C",
+          "bytes": 95,
+          "source_member": "tasks/MS04/MS04-Q1/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS04-Q2",
+      "private_eval_dir": "tasks/MS04/MS04-Q2/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "2D6B1205E268D4551508A7DEB5F7AD063A4957EFB04A25B5AEA018A8E9FEA807",
+          "bytes": 4458,
+          "source_member": "tasks/MS04/MS04-Q2/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "2449FEF0C1A71F16E54F3AEEE0398C0AEF184C10F9918FBC49443DD6AD6703E6",
+          "bytes": 64,
+          "source_member": "tasks/MS04/MS04-Q2/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS04-Q3",
+      "private_eval_dir": "tasks/MS04/MS04-Q3/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "6C38269B782CAA06AFCFE38742D8DE8EC34DE888723F7E9E0948AED27A7AF908",
+          "bytes": 4119,
+          "source_member": "tasks/MS04/MS04-Q3/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "68FA71000284E3A409872077635727F4C2A17F3EE12332EE109B226EBA5CD266",
+          "bytes": 68,
+          "source_member": "tasks/MS04/MS04-Q3/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS05-Q1",
+      "private_eval_dir": "tasks/MS05/MS05-Q1/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "B40B4E2E965FF0BC23F3B19B9334B972A63166B49CDAD294CD5C3502C86A08F1",
+          "bytes": 2465,
+          "source_member": "tasks/MS05/MS05-Q1/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "4A8AB467926B0E66A496D5D6F07E11572BC12D23C45BB2F79ED9A50E6F5C4CEB",
+          "bytes": 71,
+          "source_member": "tasks/MS05/MS05-Q1/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS05-Q2",
+      "private_eval_dir": "tasks/MS05/MS05-Q2/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "99B2D33ECC2A2AD86C013C8599589E2D724AD6329D4005A88B8C6E560078B0F4",
+          "bytes": 2269,
+          "source_member": "tasks/MS05/MS05-Q2/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "5442088190AD3D5CBA24C78C754D0A0A114A3EDD1080F826B80015D33844A3CA",
+          "bytes": 148,
+          "source_member": "tasks/MS05/MS05-Q2/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS05-Q3",
+      "private_eval_dir": "tasks/MS05/MS05-Q3/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "E8E506ECF89FF8B2D27E64B6E12ED3E06DCDBE2D009EC3D415550350E67A81B7",
+          "bytes": 281841,
+          "source_member": "tasks/MS05/MS05-Q3/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "5CC8065EDD736BC909E9170525EA57B9D061FDAB25D89F9356C2679CBA5C0B31",
+          "bytes": 121,
+          "source_member": "tasks/MS05/MS05-Q3/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS06-Q1",
+      "private_eval_dir": "tasks/MS06/MS06-Q1/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "764D297FC2C9F3045A0C9EDEDD58FF7671EFA442B2E0131F039DBE8F845A9364",
+          "bytes": 5326,
+          "source_member": "tasks/MS06/MS06-Q1/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "BC06F7755332AD3C6E40E0CDEE19E713033908D909C07C633060A62631E11DEE",
+          "bytes": 104,
+          "source_member": "tasks/MS06/MS06-Q1/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS06-Q2",
+      "private_eval_dir": "tasks/MS06/MS06-Q2/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "D2525139248E6CD051F7354E01B5FF9F4C95566709A1717C2883C5011FDFE0A9",
+          "bytes": 17294,
+          "source_member": "tasks/MS06/MS06-Q2/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "0C3E4B4E8E2F31FC0E2BA8159AEBE33276882664C2A98B9C7569CE8E3DD7CF43",
+          "bytes": 63,
+          "source_member": "tasks/MS06/MS06-Q2/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS06-Q3",
+      "private_eval_dir": "tasks/MS06/MS06-Q3/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "7AD0354A6B81F8720DF1FE93AF1B7EF4EE315E356578934D0C3482B1482D01DD",
+          "bytes": 12771,
+          "source_member": "tasks/MS06/MS06-Q3/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "CCAACDB8430B5D0F70253EB07093776F1DD4CA8688B7B31D8C640F8AB9EAE508",
+          "bytes": 70,
+          "source_member": "tasks/MS06/MS06-Q3/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS07-Q1",
+      "private_eval_dir": "tasks/MS07/MS07-Q1/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "FED5FB17203A2DE990A76BC1CDB9323E0529473F14525935CE59A8763BDD0CCB",
+          "bytes": 3989,
+          "source_member": "tasks/MS07/MS07-Q1/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "1485F2DFB9717DD22FB6586A8EF653A687742399A1385C13D5A60240213CDB9C",
+          "bytes": 64,
+          "source_member": "tasks/MS07/MS07-Q1/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS07-Q2",
+      "private_eval_dir": "tasks/MS07/MS07-Q2/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "14592243792CA494D4AD1FA3E534776D326BDBD22535A878DBF83C87E7718126",
+          "bytes": 1973,
+          "source_member": "tasks/MS07/MS07-Q2/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "A4A3ABABD68EAEF07DE446D0E3A634B77EDDE48BBDC8277971A5A9AAA83BC0FA",
+          "bytes": 60,
+          "source_member": "tasks/MS07/MS07-Q2/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS07-Q3",
+      "private_eval_dir": "tasks/MS07/MS07-Q3/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "4CD0F95A45FD07EAAEADB13AB1696FD8205B6D98C6544205B01E46405B808462",
+          "bytes": 2851,
+          "source_member": "tasks/MS07/MS07-Q3/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "3A8D7F26F7301D6E5047E58F77F32EA384F669B1A8B48548F57273A9EDB3031B",
+          "bytes": 67,
+          "source_member": "tasks/MS07/MS07-Q3/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS08-Q1",
+      "private_eval_dir": "tasks/MS08/MS08-Q1/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "CEDF872DD6ABED8662ACCAB3FEED502EC23C44085BF6AC4A6818A2F439F56A13",
+          "bytes": 13046,
+          "source_member": "tasks/MS08/MS08-Q1/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "BC06F7755332AD3C6E40E0CDEE19E713033908D909C07C633060A62631E11DEE",
+          "bytes": 104,
+          "source_member": "tasks/MS08/MS08-Q1/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS08-Q2",
+      "private_eval_dir": "tasks/MS08/MS08-Q2/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "973B955C2E2770C9FAF73C62C76735357C84B0D34B8073E691A293B56FC467AE",
+          "bytes": 765,
+          "source_member": "tasks/MS08/MS08-Q2/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "20630DA386F37DE3041EE4DE433BF97D737838BCCD8C17190E15C5DBB567C593",
+          "bytes": 96,
+          "source_member": "tasks/MS08/MS08-Q2/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS08-Q3",
+      "private_eval_dir": "tasks/MS08/MS08-Q3/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "F7F3CEE2DA6F4471BAAC512F7792EB38EE1EEB25BA018D9F5F5DE7AE59F92456",
+          "bytes": 592,
+          "source_member": "tasks/MS08/MS08-Q3/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "E361EEBEB26F655FEB8F603B4B89E78B3E02D85E20D55D56314E36DF7039C3BB",
+          "bytes": 80,
+          "source_member": "tasks/MS08/MS08-Q3/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS09-Q1",
+      "private_eval_dir": "tasks/MS09/MS09-Q1/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "AC05802F4A75C2C1D46014689DCF6169E250E3F85E4EE4A9CDD189ABA8E376F1",
+          "bytes": 17300,
+          "source_member": "tasks/MS09/MS09-Q1/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "B9B210F07B3FE8E05694912ECE77793E8FFC64406423F8031C5424891CB49A98",
+          "bytes": 79,
+          "source_member": "tasks/MS09/MS09-Q1/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS09-Q2",
+      "private_eval_dir": "tasks/MS09/MS09-Q2/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "7E3E7B687686D41DD8700DE8C6D24B97BA0AF189C0CBBD8B22E130E1DFFCB4D4",
+          "bytes": 9860,
+          "source_member": "tasks/MS09/MS09-Q2/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "B6208080C4FBF179BDEDCAEBE9467BDF97ECD5F4E8263BB2CBEF73CB7922EFD2",
+          "bytes": 58,
+          "source_member": "tasks/MS09/MS09-Q2/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS09-Q3",
+      "private_eval_dir": "tasks/MS09/MS09-Q3/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "66F62CD7B82884D2D86B25BEA1A3CB749EB1233F5593B551D2993FD64AF4BDEB",
+          "bytes": 15573,
+          "source_member": "tasks/MS09/MS09-Q3/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "EF6E472BD3D09A1DFC84F7126FEF24B453E6DA5DDE96402F1846E560A74CAAC9",
+          "bytes": 73,
+          "source_member": "tasks/MS09/MS09-Q3/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS10-Q1",
+      "private_eval_dir": "tasks/MS10/MS10-Q1/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "3EA13C891103A5212D3051A1DF180746CEF44C269D39EF8DC3E881D2862D1DE7",
+          "bytes": 585,
+          "source_member": "tasks/MS10/MS10-Q1/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "70D3DD4478AD5F867A959D131F4E29A31D5542E173FCBE22AC405EEF189B944E",
+          "bytes": 116,
+          "source_member": "tasks/MS10/MS10-Q1/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS10-Q2",
+      "private_eval_dir": "tasks/MS10/MS10-Q2/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "D49C0F56C8C36E629B487A1750CACEFDB5DF6B34A2023737FA60481001D33E69",
+          "bytes": 537,
+          "source_member": "tasks/MS10/MS10-Q2/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "70D3DD4478AD5F867A959D131F4E29A31D5542E173FCBE22AC405EEF189B944E",
+          "bytes": 116,
+          "source_member": "tasks/MS10/MS10-Q2/scoring_spec.json"
+        }
+      ]
+    },
+    {
+      "id": "MS10-Q3",
+      "private_eval_dir": "tasks/MS10/MS10-Q3/private_eval",
+      "files": [
+        {
+          "file": "oracle.json",
+          "sha256": "870FA0D5C5D03DF09B7E29A64359BF7CACAF84CE5272F3AD6414507553750CF0",
+          "bytes": 328,
+          "source_member": "tasks/MS10/MS10-Q3/oracle.json"
+        },
+        {
+          "file": "scoring_spec.json",
+          "sha256": "70D3DD4478AD5F867A959D131F4E29A31D5542E173FCBE22AC405EEF189B944E",
+          "bytes": 116,
+          "source_member": "tasks/MS10/MS10-Q3/scoring_spec.json"
+        }
+      ]
+    }
+  ]
+}

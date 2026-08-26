@@ -1,0 +1,15 @@
+{
+  "question_id": "MS06-Q3",
+  "files": [
+    {
+      "path": "inputs/jarvis_elastic.csv",
+      "bytes": 3057,
+      "sha256": "6DA7EE5941373B1052C3B333233FD89BCD510EDE352A211879A612E99984C969"
+    },
+    {
+      "path": "inputs/source_manifest.json",
+      "bytes": 701,
+      "sha256": "E234441F747ABB35BB56DD05A6D20ADDEAF21A8C9BECC028E073BD78CA5BED4E"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "type": "token_classification",
+  "metrics": [
+    "macro_f1",
+    "non_o_micro_f1"
+  ]
+}

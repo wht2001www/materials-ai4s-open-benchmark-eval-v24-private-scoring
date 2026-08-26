@@ -1,0 +1,14 @@
+{
+  "id": "MS04-Q1",
+  "title": "CSPBenchMetrics 晶体预测—真值多距离评估",
+  "task_id": "MS04",
+  "task_name": "晶体、MOF与多孔材料结构解析及性质评估",
+  "priority": "P0",
+  "subdomain": "crystallography_and_structure",
+  "level": "L3",
+  "time_minutes": 100,
+  "provenance_class": "CSPBenchMetrics 官方示例直接采用",
+  "plot_required": "",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

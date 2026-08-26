@@ -1,0 +1,20 @@
+{
+  "question_id": "MS01-Q1",
+  "files": [
+    {
+      "path": "inputs/candidates.csv",
+      "bytes": 13010,
+      "sha256": "BD7E71D567BA27AC10028ABEA46C6A719CBCD8146FAC313818AB6EAA26ECE3E6"
+    },
+    {
+      "path": "inputs/constraints.json",
+      "bytes": 278,
+      "sha256": "15FC9EB4FD300DD6FE070B27451F0744171FB5B1D107A4C0FC02042423683F33"
+    },
+    {
+      "path": "inputs/source_manifest.json",
+      "bytes": 665,
+      "sha256": "165C6FB837E51602C3F6C39191EED0DDC0217D5CDDD3844BD183A6A468D002C3"
+    }
+  ]
+}

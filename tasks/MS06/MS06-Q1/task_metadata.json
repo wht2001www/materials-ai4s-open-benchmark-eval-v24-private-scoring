@@ -1,0 +1,14 @@
+{
+  "id": "MS06-Q1",
+  "title": "Matbench 钢屈服强度成分回归",
+  "task_id": "MS06",
+  "task_name": "材料力学性能验证与断裂失效诊断",
+  "priority": "P0",
+  "subdomain": "mechanics_and_fracture",
+  "level": "L3",
+  "time_minutes": 90,
+  "provenance_class": "Matbench steels 原任务固定重划分",
+  "plot_required": "parity.png",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

@@ -1,0 +1,704 @@
+{
+  "rows": [
+    {
+      "sample_id": "0",
+      "k_gpa": 50.999999999999986,
+      "g_gpa": 28.0,
+      "pugh_k_over_g": 1.821428571428571,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "10",
+      "k_gpa": 77.0,
+      "g_gpa": 59.00000000000001,
+      "pugh_k_over_g": 1.3050847457627117,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "20",
+      "k_gpa": 35.0,
+      "g_gpa": 21.999999999999996,
+      "pugh_k_over_g": 1.5909090909090913,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "30",
+      "k_gpa": 58.00000000000001,
+      "g_gpa": 28.0,
+      "pugh_k_over_g": 2.0714285714285716,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "40",
+      "k_gpa": 26.0,
+      "g_gpa": 29.0,
+      "pugh_k_over_g": 0.896551724137931,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "50",
+      "k_gpa": 28.0,
+      "g_gpa": 12.000000000000002,
+      "pugh_k_over_g": 2.333333333333333,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "60",
+      "k_gpa": 81.0,
+      "g_gpa": 37.99999999999999,
+      "pugh_k_over_g": 2.1315789473684212,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "70",
+      "k_gpa": 12.000000000000002,
+      "g_gpa": 7.0,
+      "pugh_k_over_g": 1.7142857142857146,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "80",
+      "k_gpa": 101.00000000000001,
+      "g_gpa": 52.999999999999986,
+      "pugh_k_over_g": 1.9056603773584913,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "90",
+      "k_gpa": 181.00000000000003,
+      "g_gpa": 109.99999999999997,
+      "pugh_k_over_g": 1.6454545454545462,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "100",
+      "k_gpa": 29.999999999999996,
+      "g_gpa": 3.0,
+      "pugh_k_over_g": 9.999999999999998,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "110",
+      "k_gpa": 98.0,
+      "g_gpa": 73.0,
+      "pugh_k_over_g": 1.3424657534246576,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "120",
+      "k_gpa": 93.99999999999997,
+      "g_gpa": 47.99999999999999,
+      "pugh_k_over_g": 1.958333333333333,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "130",
+      "k_gpa": 63.0,
+      "g_gpa": 21.999999999999996,
+      "pugh_k_over_g": 2.863636363636364,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "140",
+      "k_gpa": 11.000000000000002,
+      "g_gpa": 3.0,
+      "pugh_k_over_g": 3.6666666666666674,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "150",
+      "k_gpa": 34.0,
+      "g_gpa": 29.999999999999996,
+      "pugh_k_over_g": 1.1333333333333335,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "160",
+      "k_gpa": 50.999999999999986,
+      "g_gpa": 37.99999999999999,
+      "pugh_k_over_g": 1.3421052631578947,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "170",
+      "k_gpa": 36.0,
+      "g_gpa": 26.0,
+      "pugh_k_over_g": 1.3846153846153846,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "180",
+      "k_gpa": 79.99999999999999,
+      "g_gpa": 2.0,
+      "pugh_k_over_g": 39.99999999999999,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "190",
+      "k_gpa": 116.00000000000003,
+      "g_gpa": 72.00000000000001,
+      "pugh_k_over_g": 1.6111111111111112,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "200",
+      "k_gpa": 26.0,
+      "g_gpa": 16.0,
+      "pugh_k_over_g": 1.625,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "210",
+      "k_gpa": 126.99999999999999,
+      "g_gpa": 38.99999999999999,
+      "pugh_k_over_g": 3.256410256410257,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "220",
+      "k_gpa": 75.00000000000001,
+      "g_gpa": 50.999999999999986,
+      "pugh_k_over_g": 1.4705882352941184,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "230",
+      "k_gpa": 115.00000000000003,
+      "g_gpa": 58.00000000000001,
+      "pugh_k_over_g": 1.9827586206896555,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "240",
+      "k_gpa": 55.00000000000001,
+      "g_gpa": 23.999999999999993,
+      "pugh_k_over_g": 2.291666666666668,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "250",
+      "k_gpa": 78.99999999999999,
+      "g_gpa": 50.999999999999986,
+      "pugh_k_over_g": 1.5490196078431373,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "260",
+      "k_gpa": 91.00000000000001,
+      "g_gpa": 36.0,
+      "pugh_k_over_g": 2.527777777777778,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "270",
+      "k_gpa": 54.000000000000014,
+      "g_gpa": 25.000000000000007,
+      "pugh_k_over_g": 2.16,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "280",
+      "k_gpa": 44.0,
+      "g_gpa": 17.999999999999996,
+      "pugh_k_over_g": 2.444444444444445,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "290",
+      "k_gpa": 52.999999999999986,
+      "g_gpa": 39.99999999999999,
+      "pugh_k_over_g": 1.325,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "300",
+      "k_gpa": 135.99999999999997,
+      "g_gpa": 74.00000000000001,
+      "pugh_k_over_g": 1.837837837837837,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "310",
+      "k_gpa": 42.99999999999999,
+      "g_gpa": 30.999999999999996,
+      "pugh_k_over_g": 1.3870967741935483,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "320",
+      "k_gpa": 111.99999999999997,
+      "g_gpa": 58.00000000000001,
+      "pugh_k_over_g": 1.9310344827586199,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "330",
+      "k_gpa": 32.00000000000001,
+      "g_gpa": 18.999999999999996,
+      "pugh_k_over_g": 1.6842105263157903,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "340",
+      "k_gpa": 17.999999999999996,
+      "g_gpa": 7.0,
+      "pugh_k_over_g": 2.5714285714285707,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "350",
+      "k_gpa": 189.99999999999994,
+      "g_gpa": 81.0,
+      "pugh_k_over_g": 2.3456790123456783,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "360",
+      "k_gpa": 55.00000000000001,
+      "g_gpa": 27.000000000000004,
+      "pugh_k_over_g": 2.037037037037037,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "370",
+      "k_gpa": 55.00000000000001,
+      "g_gpa": 23.999999999999993,
+      "pugh_k_over_g": 2.291666666666668,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "380",
+      "k_gpa": 52.00000000000001,
+      "g_gpa": 36.0,
+      "pugh_k_over_g": 1.4444444444444446,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "390",
+      "k_gpa": 55.00000000000001,
+      "g_gpa": 25.000000000000007,
+      "pugh_k_over_g": 2.1999999999999997,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "400",
+      "k_gpa": 12.000000000000002,
+      "g_gpa": 7.0,
+      "pugh_k_over_g": 1.7142857142857146,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "410",
+      "k_gpa": 52.00000000000001,
+      "g_gpa": 27.000000000000004,
+      "pugh_k_over_g": 1.925925925925926,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "420",
+      "k_gpa": 296.0000000000001,
+      "g_gpa": 179.00000000000006,
+      "pugh_k_over_g": 1.6536312849162011,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "430",
+      "k_gpa": 111.99999999999997,
+      "g_gpa": 46.0,
+      "pugh_k_over_g": 2.4347826086956514,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "440",
+      "k_gpa": 12.000000000000002,
+      "g_gpa": 10.0,
+      "pugh_k_over_g": 1.2000000000000002,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "450",
+      "k_gpa": 197.99999999999991,
+      "g_gpa": 99.0,
+      "pugh_k_over_g": 1.9999999999999991,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "460",
+      "k_gpa": 143.00000000000003,
+      "g_gpa": 66.00000000000001,
+      "pugh_k_over_g": 2.1666666666666665,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "470",
+      "k_gpa": 27.000000000000004,
+      "g_gpa": 27.000000000000004,
+      "pugh_k_over_g": 1.0,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "480",
+      "k_gpa": 158.99999999999994,
+      "g_gpa": 72.00000000000001,
+      "pugh_k_over_g": 2.208333333333332,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "490",
+      "k_gpa": 38.99999999999999,
+      "g_gpa": 23.999999999999993,
+      "pugh_k_over_g": 1.6250000000000002,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "500",
+      "k_gpa": 138.99999999999997,
+      "g_gpa": 59.00000000000001,
+      "pugh_k_over_g": 2.3559322033898296,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "510",
+      "k_gpa": 83.99999999999999,
+      "g_gpa": 48.99999999999999,
+      "pugh_k_over_g": 1.7142857142857142,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "520",
+      "k_gpa": 148.00000000000003,
+      "g_gpa": 91.00000000000001,
+      "pugh_k_over_g": 1.6263736263736264,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "530",
+      "k_gpa": 118.00000000000003,
+      "g_gpa": 91.00000000000001,
+      "pugh_k_over_g": 1.2967032967032968,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "540",
+      "k_gpa": 17.0,
+      "g_gpa": 9.0,
+      "pugh_k_over_g": 1.8888888888888888,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "550",
+      "k_gpa": 44.0,
+      "g_gpa": 17.999999999999996,
+      "pugh_k_over_g": 2.444444444444445,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "560",
+      "k_gpa": 52.00000000000001,
+      "g_gpa": 25.000000000000007,
+      "pugh_k_over_g": 2.0799999999999996,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "570",
+      "k_gpa": 66.00000000000001,
+      "g_gpa": 37.99999999999999,
+      "pugh_k_over_g": 1.7368421052631586,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "580",
+      "k_gpa": 67.0,
+      "g_gpa": 36.0,
+      "pugh_k_over_g": 1.8611111111111112,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "590",
+      "k_gpa": 108.00000000000004,
+      "g_gpa": 35.0,
+      "pugh_k_over_g": 3.0857142857142867,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "600",
+      "k_gpa": 167.0,
+      "g_gpa": 101.00000000000001,
+      "pugh_k_over_g": 1.6534653465346532,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "610",
+      "k_gpa": 36.0,
+      "g_gpa": 26.0,
+      "pugh_k_over_g": 1.3846153846153846,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "620",
+      "k_gpa": 140.99999999999991,
+      "g_gpa": 84.99999999999999,
+      "pugh_k_over_g": 1.658823529411764,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "630",
+      "k_gpa": 170.00000000000006,
+      "g_gpa": 60.0,
+      "pugh_k_over_g": 2.8333333333333344,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "640",
+      "k_gpa": 70.00000000000001,
+      "g_gpa": 16.0,
+      "pugh_k_over_g": 4.375000000000001,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "650",
+      "k_gpa": 92.00000000000001,
+      "g_gpa": 47.00000000000001,
+      "pugh_k_over_g": 1.9574468085106382,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "660",
+      "k_gpa": 47.99999999999999,
+      "g_gpa": 22.999999999999996,
+      "pugh_k_over_g": 2.0869565217391304,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "670",
+      "k_gpa": 60.0,
+      "g_gpa": 47.99999999999999,
+      "pugh_k_over_g": 1.2500000000000002,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "680",
+      "k_gpa": 68.99999999999999,
+      "g_gpa": 22.999999999999996,
+      "pugh_k_over_g": 3.0,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "690",
+      "k_gpa": 68.00000000000001,
+      "g_gpa": 39.99999999999999,
+      "pugh_k_over_g": 1.7000000000000006,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "700",
+      "k_gpa": 118.99999999999996,
+      "g_gpa": 59.00000000000001,
+      "pugh_k_over_g": 2.016949152542372,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "710",
+      "k_gpa": 167.0,
+      "g_gpa": 72.00000000000001,
+      "pugh_k_over_g": 2.319444444444444,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "720",
+      "k_gpa": 100.0,
+      "g_gpa": 52.999999999999986,
+      "pugh_k_over_g": 1.8867924528301891,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "730",
+      "k_gpa": 70.00000000000001,
+      "g_gpa": 42.00000000000001,
+      "pugh_k_over_g": 1.6666666666666667,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "740",
+      "k_gpa": 174.00000000000009,
+      "g_gpa": 58.00000000000001,
+      "pugh_k_over_g": 3.000000000000001,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "750",
+      "k_gpa": 73.0,
+      "g_gpa": 34.0,
+      "pugh_k_over_g": 2.1470588235294117,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "760",
+      "k_gpa": 89.0,
+      "g_gpa": 52.999999999999986,
+      "pugh_k_over_g": 1.6792452830188684,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "770",
+      "k_gpa": 29.999999999999996,
+      "g_gpa": 20.000000000000004,
+      "pugh_k_over_g": 1.4999999999999996,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "780",
+      "k_gpa": 26.0,
+      "g_gpa": 10.0,
+      "pugh_k_over_g": 2.6,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "790",
+      "k_gpa": 90.00000000000003,
+      "g_gpa": 39.99999999999999,
+      "pugh_k_over_g": 2.2500000000000013,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "800",
+      "k_gpa": 98.0,
+      "g_gpa": 47.00000000000001,
+      "pugh_k_over_g": 2.085106382978723,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "810",
+      "k_gpa": 103.99999999999997,
+      "g_gpa": 76.0,
+      "pugh_k_over_g": 1.3684210526315785,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "820",
+      "k_gpa": 103.99999999999997,
+      "g_gpa": 54.000000000000014,
+      "pugh_k_over_g": 1.925925925925925,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "830",
+      "k_gpa": 103.99999999999997,
+      "g_gpa": 75.00000000000001,
+      "pugh_k_over_g": 1.386666666666666,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "840",
+      "k_gpa": 52.00000000000001,
+      "g_gpa": 29.999999999999996,
+      "pugh_k_over_g": 1.7333333333333338,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "850",
+      "k_gpa": 52.00000000000001,
+      "g_gpa": 17.0,
+      "pugh_k_over_g": 3.058823529411765,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "860",
+      "k_gpa": 105.00000000000004,
+      "g_gpa": 52.00000000000001,
+      "pugh_k_over_g": 2.0192307692307696,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "870",
+      "k_gpa": 79.99999999999999,
+      "g_gpa": 36.0,
+      "pugh_k_over_g": 2.222222222222222,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "880",
+      "k_gpa": 45.00000000000001,
+      "g_gpa": 30.999999999999996,
+      "pugh_k_over_g": 1.451612903225807,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "890",
+      "k_gpa": 122.00000000000004,
+      "g_gpa": 70.00000000000001,
+      "pugh_k_over_g": 1.742857142857143,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "900",
+      "k_gpa": 28.0,
+      "g_gpa": 15.000000000000004,
+      "pugh_k_over_g": 1.8666666666666663,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "910",
+      "k_gpa": 159.99999999999991,
+      "g_gpa": 111.00000000000004,
+      "pugh_k_over_g": 1.44144144144144,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "920",
+      "k_gpa": 62.0,
+      "g_gpa": 13.999999999999998,
+      "pugh_k_over_g": 4.428571428571429,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "930",
+      "k_gpa": 209.0000000000001,
+      "g_gpa": 59.00000000000001,
+      "pugh_k_over_g": 3.542372881355934,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "940",
+      "k_gpa": 89.0,
+      "g_gpa": 34.0,
+      "pugh_k_over_g": 2.6176470588235294,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "950",
+      "k_gpa": 78.99999999999999,
+      "g_gpa": 54.000000000000014,
+      "pugh_k_over_g": 1.4629629629629624,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "960",
+      "k_gpa": 115.00000000000003,
+      "g_gpa": 72.00000000000001,
+      "pugh_k_over_g": 1.5972222222222223,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "970",
+      "k_gpa": 234.00000000000006,
+      "g_gpa": 140.00000000000006,
+      "pugh_k_over_g": 1.6714285714285713,
+      "class": "brittle_proxy"
+    },
+    {
+      "sample_id": "980",
+      "k_gpa": 82.0,
+      "g_gpa": 33.0,
+      "pugh_k_over_g": 2.484848484848485,
+      "class": "ductile_proxy"
+    },
+    {
+      "sample_id": "990",
+      "k_gpa": 135.0,
+      "g_gpa": 77.99999999999999,
+      "pugh_k_over_g": 1.730769230769231,
+      "class": "brittle_proxy"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "question_id": "MS02-Q3",
+  "version": "24.0.0",
+  "provenance_class": "MatSci-NLP structured synthesis 原始实例",
+  "sources": [
+    {
+      "benchmark": "MatSci-NLP",
+      "repository": "https://github.com/BangLab-UdeM-Mila/NLP4MatSci-ACL23",
+      "snapshot": "f9042f5c90394861d05e767143bcfbdbd71ba4ab",
+      "upstream_path": "dataset/synthesis_procedures.json record 0",
+      "reuse_mode": "direct_instance",
+      "transformation": "公开文本与标签本体；实体/关系/事件标注移入私有 oracle。",
+      "license_or_terms": "research dataset; repository citation required"
+    }
+  ],
+  "note": "题目只声明真实采用的上游文件。固定子集和情境化改编均不冒充上游原题。"
+}

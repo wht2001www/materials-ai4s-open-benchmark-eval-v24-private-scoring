@@ -1,0 +1,17 @@
+{
+  "question_id": "MS07-Q2",
+  "version": "24.0.0",
+  "provenance_class": "AlchemyBench procedure 任务直接实例",
+  "sources": [
+    {
+      "benchmark": "AlchemyBench-dataset",
+      "repository": "https://huggingface.co/datasets/iknow-lab/open-materials-guide-2024",
+      "snapshot": "4c4456583d177f43873d63314c3f00f722f2788c",
+      "upstream_path": "train row 3",
+      "reuse_mode": "direct_instance",
+      "transformation": "保留目标/摘要等公开条件；隐藏 recipe 作为私有参考。",
+      "license_or_terms": "CC BY 4.0"
+    }
+  ],
+  "note": "题目只声明真实采用的上游文件。固定子集和情境化改编均不冒充上游原题。"
+}

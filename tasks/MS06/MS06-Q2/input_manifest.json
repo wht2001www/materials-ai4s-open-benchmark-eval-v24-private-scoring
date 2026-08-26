@@ -1,0 +1,15 @@
+{
+  "question_id": "MS06-Q2",
+  "files": [
+    {
+      "path": "inputs/elastic_log_values.csv",
+      "bytes": 5306,
+      "sha256": "7A7C9F589F9FDD8A8A9C19E16A01F890DEAAF9CF9BFF679731ACBDEF79856208"
+    },
+    {
+      "path": "inputs/source_manifest.json",
+      "bytes": 673,
+      "sha256": "0A02C4CB470E6EEB6C56D581442199FC8C9DACA1DC3946DF4F89DFBA927D51BA"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "MS01-Q1",
+  "title": "MADE 热力学稳定候选的硬约束筛选与 Top-k 排序",
+  "task_id": "MS01",
+  "task_name": "目标性能约束下的新材料候选发现与优先级排序",
+  "priority": "P0",
+  "subdomain": "materials_discovery",
+  "level": "L2",
+  "time_minutes": 45,
+  "provenance_class": "官方数据固定子集 + 约束筛选改编",
+  "plot_required": "",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

@@ -1,0 +1,31 @@
+id,task_id,task_name,priority,title,subdomain,level,time_minutes,provenance_class,plot_required,deterministic_score,judge_score
+MS01-Q1,MS01,目标性能约束下的新材料候选发现与优先级排序,P0,MADE 热力学稳定候选的硬约束筛选与 Top-k 排序,materials_discovery,L2,45,官方数据固定子集 + 约束筛选改编,,80,20
+MS01-Q2,MS01,目标性能约束下的新材料候选发现与优先级排序,P0,JARVIS energy-above-hull 稳定性分级与候选优先级,materials_informatics,L2,40,官方任务记录直接固定子集,,80,20
+MS01-Q3,MS01,目标性能约束下的新材料候选发现与优先级排序,P0,Matbench 玻璃形成能力成分分类基线,materials_property_prediction,L3,90,官方 Matbench 任务固定重划分,,80,20
+MS02-Q1,MS02,材料合成路线设计、配方计算与实验条件规划,P0,AlchemyBench 纳米氧化铈合成原料预测,synthesis_planning,L3,60,AlchemyBench 原料预测任务直接实例,,80,20
+MS02-Q2,MS02,材料合成路线设计、配方计算与实验条件规划,P0,AlchemyBench MIL-100(Fe) 功能化合成流程生成,synthesis_planning,L3,75,AlchemyBench 流程生成任务直接实例,,80,20
+MS02-Q3,MS02,材料合成路线设计、配方计算与实验条件规划,P0,MatSci-NLP 溶胶—凝胶合成实体、关系与事件抽取,synthesis_information_extraction,L3,90,MatSci-NLP structured synthesis 原始实例,,80,20
+MS03-Q1,MS03,材料实验数据处理、性能表征与结构—性能关联分析,P0,SimXRD 模拟衍射谱空间群识别与峰表生成,characterization_and_spectroscopy,L3,100,SimXRD 官方示例数据库直接划分,patterns.png,80,20
+MS03-Q2,MS03,材料实验数据处理、性能表征与结构—性能关联分析,P0,MatSci-NLP 合成操作词序列标注,experimental_data_processing,L3,80,MatSci-NLP synthesis action 原任务固定重划分,,80,20
+MS03-Q3,MS03,材料实验数据处理、性能表征与结构—性能关联分析,P0,Matbench 结构尺度与折射率的关联分析,structure_property_relationship,L2,55,Matbench dielectric 官方记录固定子集,association.png,80,20
+MS04-Q1,MS04,晶体、MOF与多孔材料结构解析及性质评估,P0,CSPBenchMetrics 晶体预测—真值多距离评估,crystallography_and_structure,L3,100,CSPBenchMetrics 官方示例直接采用,,80,20
+MS04-Q2,MS04,晶体、MOF与多孔材料结构解析及性质评估,P0,CSPBenchmark 预测结构归档的覆盖率与 CIF 完整性审计,crystal_structure_prediction,L2,60,CSPBenchmark 官方 23 结构预测包直接采用,,80,20
+MS04-Q3,MS04,晶体、MOF与多孔材料结构解析及性质评估,P0,LLM4Mat 晶体 JSON—CIF—性质记录一致性核验,crystallography_and_structure,L3,80,LLM4Mat-Bench 官方测试记录固定子集,,80,20
+MS05-Q1,MS05,电池与电化学材料性能评估及配方筛选,P0,AlchemyBench 锂富层状正极原料预测,electrochemistry_and_energy_materials,L3,65,AlchemyBench 原料预测任务直接实例,,80,20
+MS05-Q2,MS05,电池与电化学材料性能评估及配方筛选,P0,AlchemyBench 镁离子固态聚合物电解质流程生成,electrochemistry_and_energy_materials,L3,80,AlchemyBench 流程生成任务直接实例,,80,20
+MS05-Q3,MS05,电池与电化学材料性能评估及配方筛选,P0,MatSci-NLP SOFC 材料、工况与性能槽位抽取,electrochemistry_and_energy_materials,L3,90,MatSci-NLP SOFC token/slot 原任务固定切片,,80,20
+MS06-Q1,MS06,材料力学性能验证与断裂失效诊断,P0,Matbench 钢屈服强度成分回归,mechanics_and_fracture,L3,90,Matbench steels 原任务固定重划分,parity.png,80,20
+MS06-Q2,MS06,材料力学性能验证与断裂失效诊断,P0,Matbench 体积模量—剪切模量还原与 Pugh 代理判定,mechanics_and_fracture,L2,55,Matbench K/G 两个官方任务按共同索引配对,,80,20
+MS06-Q3,MS06,材料力学性能验证与断裂失效诊断,P0,JARVIS 弹性模量物理有效性与脆韧代理筛查,mechanics_and_fracture,L2,50,JARVIS bulk/shear 官方测试标签配对,,80,20
+MS07-Q1,MS07,聚合物配方与重复单元结构—性能评估,P1,AlchemyBench 环氧官能共聚物原料与角色预测,polymer_science,L3,70,AlchemyBench raw_materials 任务直接实例,,80,20
+MS07-Q2,MS07,聚合物配方与重复单元结构—性能评估,P1,AlchemyBench 生物基聚酯有序合成流程生成,polymer_science,L3,85,AlchemyBench procedure 任务直接实例,,80,20
+MS07-Q3,MS07,聚合物配方与重复单元结构—性能评估,P1,AlchemyBench 双响应共聚物表征结果预测,polymer_science,L3,70,AlchemyBench characterization 任务直接实例,,80,20
+MS08-Q1,MS08,半导体与光电材料电子输运及光学响应评估,P1,Matbench 实验带隙成分回归,electronic_magnetic_optical_properties,L3,90,Matbench expt_gap 原任务固定重划分,parity.png,80,20
+MS08-Q2,MS08,半导体与光电材料电子输运及光学响应评估,P1,LLM4Mat 化学式—晶体描述联合带隙预测,electronic_magnetic_optical_properties,L3,100,LLM4Mat-Bench 官方 train/test 固定子集,,80,20
+MS08-Q3,MS08,半导体与光电材料电子输运及光学响应评估,P1,JARVIS 介电函数谱峰值与谱形比较,electronic_magnetic_optical_properties,L2,55,JARVIS dielectric_function 官方测试谱固定子集,dielectric_spectra.png,80,20
+MS09-Q1,MS09,热管理材料传热性能与服役边界评估,P1,Matbench 声子态密度末峰位置回归,thermal_properties,L3,90,Matbench phonons 原任务固定重划分,,80,20
+MS09-Q2,MS09,热管理材料传热性能与服役边界评估,P1,JARVIS 声子热容记录的物理审计与高热容候选排序,thermal_properties,L2,45,JARVIS ph_heat_capacity 官方测试标签固定子集,,80,20
+MS09-Q3,MS09,热管理材料传热性能与服役边界评估,P1,Matbench 声子峰结构规模分布外泛化,thermal_properties_ood,L3,100,Matbench 数据 + Structure-OOD 思路的透明改编,,80,20
+MS10-Q1,MS10,材料合成与应用过程的化学安全及环境风险审查,P1,AlchemyBench 纳米氧化铈流程危险触发项审查,chemical_safety_and_environment,L3,65,真实 Benchmark 合成文本的透明 EHS 情境化改编,,80,20
+MS10-Q2,MS10,材料合成与应用过程的化学安全及环境风险审查,P1,MatSci-NLP TEOS 溶胶—凝胶流程危险触发项审查,chemical_safety_and_environment,L3,65,真实 Benchmark 合成文本的透明 EHS 情境化改编,,80,20
+MS10-Q3,MS10,材料合成与应用过程的化学安全及环境风险审查,P1,AlchemyBench 锂富正极合成流程危险与关键元素审查,chemical_safety_and_environment,L3,65,真实 Benchmark 合成文本的透明 EHS 情境化改编,,80,20

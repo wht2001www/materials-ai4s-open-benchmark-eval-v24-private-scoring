@@ -1,0 +1,17 @@
+{
+  "question_id": "MS03-Q2",
+  "version": "24.0.0",
+  "provenance_class": "MatSci-NLP synthesis action 原任务固定重划分",
+  "sources": [
+    {
+      "benchmark": "MatSci-NLP",
+      "repository": "https://github.com/BangLab-UdeM-Mila/NLP4MatSci-ACL23",
+      "snapshot": "f9042f5c90394861d05e767143bcfbdbd71ba4ab",
+      "upstream_path": "dataset/synthesis_actions.json",
+      "reuse_mode": "fixed_resplit",
+      "transformation": "固定随机抽取 180 train/60 hidden test；官方 token 与 tag 不变。",
+      "license_or_terms": "research dataset; repository citation required"
+    }
+  ],
+  "note": "题目只声明真实采用的上游文件。固定子集和情境化改编均不冒充上游原题。"
+}

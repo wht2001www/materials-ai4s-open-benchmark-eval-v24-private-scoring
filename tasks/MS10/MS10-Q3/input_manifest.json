@@ -1,0 +1,20 @@
+{
+  "question_id": "MS10-Q3",
+  "files": [
+    {
+      "path": "inputs/hazard_rules.json",
+      "bytes": 1116,
+      "sha256": "1C625840A2F79D045E2AE43AF6C7A2A968D77CF21AC8F4308536DB887E41C0F9"
+    },
+    {
+      "path": "inputs/procedure.txt",
+      "bytes": 2359,
+      "sha256": "C998F142024B3299FD381FB9324FEF155C9C400ADFF6D5728CEA0C16B285DD1F"
+    },
+    {
+      "path": "inputs/source_manifest.json",
+      "bytes": 727,
+      "sha256": "47C5CB731BF75A332109029DBB3026B4B3E57D176095BF08995C0DD400B14B80"
+    }
+  ]
+}

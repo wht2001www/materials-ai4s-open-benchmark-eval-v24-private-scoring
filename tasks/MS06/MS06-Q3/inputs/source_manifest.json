@@ -1,0 +1,17 @@
+{
+  "question_id": "MS06-Q3",
+  "version": "24.0.0",
+  "provenance_class": "JARVIS bulk/shear 官方测试标签配对",
+  "sources": [
+    {
+      "benchmark": "JARVIS-Leaderboard",
+      "repository": "https://github.com/usnistgov/jarvis_leaderboard",
+      "snapshot": "57afc55f94c8a6f4562f73a3173968cd4b2f83b1",
+      "upstream_path": "dft_3d_bulk_modulus_kv.json.zip + dft_3d_shear_modulus_gv.json.zip",
+      "reuse_mode": "paired_subset",
+      "transformation": "按共同 test JID 抽取前 120；数值不改写。",
+      "license_or_terms": "NIST/JARVIS terms"
+    }
+  ],
+  "note": "题目只声明真实采用的上游文件。固定子集和情境化改编均不冒充上游原题。"
+}

@@ -1,0 +1,5 @@
+{
+  "type": "ood_regression",
+  "metric": "mae",
+  "no_test_fit": true
+}

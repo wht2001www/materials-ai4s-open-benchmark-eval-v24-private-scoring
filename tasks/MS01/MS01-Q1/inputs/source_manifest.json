@@ -1,0 +1,17 @@
+{
+  "question_id": "MS01-Q1",
+  "version": "24.0.0",
+  "provenance_class": "官方数据固定子集 + 约束筛选改编",
+  "sources": [
+    {
+      "benchmark": "MADE",
+      "repository": "https://github.com/diffractivelabs/MADE",
+      "snapshot": "bffda0c9a1fa1904b35c0ef67b455881c975df86",
+      "upstream_path": "data/2025-02-01-mp-energies.csv",
+      "reuse_mode": "fixed_subset",
+      "transformation": "按原始顺序抽取 240 个具有完整热力学字段的条目；未改写数值。",
+      "license_or_terms": "MIT"
+    }
+  ],
+  "note": "题目只声明真实采用的上游文件。固定子集和情境化改编均不冒充上游原题。"
+}

@@ -1,0 +1,16 @@
+{
+  "energy_above_hull_max_ev_atom": 0.05,
+  "n_sites_max": 20,
+  "required_energy_type": "GGA",
+  "forbidden_elements": [
+    "Hg",
+    "Cd",
+    "Pb"
+  ],
+  "top_k": 20,
+  "sort": [
+    "energy_above_hull asc",
+    "formation_energy_per_atom asc",
+    "material_id asc"
+  ]
+}

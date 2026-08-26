@@ -1,0 +1,604 @@
+{
+  "rows": [
+    {
+      "jid": "JVASP-93829",
+      "status": "ok",
+      "pugh_k_over_g": 1.9130103014116748
+    },
+    {
+      "jid": "JVASP-102090",
+      "status": "invalid_nonpositive_modulus",
+      "pugh_k_over_g": null
+    },
+    {
+      "jid": "JVASP-30450",
+      "status": "ok",
+      "pugh_k_over_g": 1.2270765911542612
+    },
+    {
+      "jid": "JVASP-110328",
+      "status": "invalid_nonpositive_modulus",
+      "pugh_k_over_g": null
+    },
+    {
+      "jid": "JVASP-117800",
+      "status": "ok",
+      "pugh_k_over_g": 3.0543478260869565
+    },
+    {
+      "jid": "JVASP-30242",
+      "status": "ok",
+      "pugh_k_over_g": 1.1158822426401651
+    },
+    {
+      "jid": "JVASP-3882",
+      "status": "ok",
+      "pugh_k_over_g": 2.168410041841004
+    },
+    {
+      "jid": "JVASP-113553",
+      "status": "invalid_nonpositive_modulus",
+      "pugh_k_over_g": null
+    },
+    {
+      "jid": "JVASP-40729",
+      "status": "ok",
+      "pugh_k_over_g": 1.397454165479244
+    },
+    {
+      "jid": "JVASP-18469",
+      "status": "ok",
+      "pugh_k_over_g": 1.504541701073493
+    },
+    {
+      "jid": "JVASP-40067",
+      "status": "ok",
+      "pugh_k_over_g": 1.245906267645398
+    },
+    {
+      "jid": "JVASP-62681",
+      "status": "ok",
+      "pugh_k_over_g": 1.3794210407749494
+    },
+    {
+      "jid": "JVASP-29843",
+      "status": "ok",
+      "pugh_k_over_g": 1.4462209302325582
+    },
+    {
+      "jid": "JVASP-16541",
+      "status": "ok",
+      "pugh_k_over_g": 1.9781670693821194
+    },
+    {
+      "jid": "JVASP-64331",
+      "status": "ok",
+      "pugh_k_over_g": 16.67105263157895
+    },
+    {
+      "jid": "JVASP-14049",
+      "status": "ok",
+      "pugh_k_over_g": 2.691910499139415
+    },
+    {
+      "jid": "JVASP-42357",
+      "status": "ok",
+      "pugh_k_over_g": 1.5046515174622541
+    },
+    {
+      "jid": "JVASP-111647",
+      "status": "ok",
+      "pugh_k_over_g": 1.7067285382830626
+    },
+    {
+      "jid": "JVASP-100408",
+      "status": "invalid_nonpositive_modulus",
+      "pugh_k_over_g": null
+    },
+    {
+      "jid": "JVASP-113683",
+      "status": "invalid_nonpositive_modulus",
+      "pugh_k_over_g": null
+    },
+    {
+      "jid": "JVASP-71252",
+      "status": "ok",
+      "pugh_k_over_g": 3.2517525144772934
+    },
+    {
+      "jid": "JVASP-54893",
+      "status": "ok",
+      "pugh_k_over_g": 81.73880597014924
+    },
+    {
+      "jid": "JVASP-34294",
+      "status": "ok",
+      "pugh_k_over_g": 10.233367451381781
+    },
+    {
+      "jid": "JVASP-47538",
+      "status": "ok",
+      "pugh_k_over_g": 1.751482340809487
+    },
+    {
+      "jid": "JVASP-56178",
+      "status": "ok",
+      "pugh_k_over_g": 2.0405536668285578
+    },
+    {
+      "jid": "JVASP-121276",
+      "status": "ok",
+      "pugh_k_over_g": 3.9704433497536953
+    },
+    {
+      "jid": "JVASP-86434",
+      "status": "ok",
+      "pugh_k_over_g": 1.4827307795819504
+    },
+    {
+      "jid": "JVASP-120080",
+      "status": "invalid_nonpositive_modulus",
+      "pugh_k_over_g": null
+    },
+    {
+      "jid": "JVASP-103434",
+      "status": "ok",
+      "pugh_k_over_g": 2.1858780929390464
+    },
+    {
+      "jid": "JVASP-68960",
+      "status": "ok",
+      "pugh_k_over_g": 1.804555473916238
+    },
+    {
+      "jid": "JVASP-93416",
+      "status": "invalid_nonpositive_modulus",
+      "pugh_k_over_g": null
+    },
+    {
+      "jid": "JVASP-105494",
+      "status": "ok",
+      "pugh_k_over_g": 1.6256457003950169
+    },
+    {
+      "jid": "JVASP-16565",
+      "status": "ok",
+      "pugh_k_over_g": 1.8252969951083158
+    },
+    {
+      "jid": "JVASP-10687",
+      "status": "ok",
+      "pugh_k_over_g": 1.8619123325005678
+    },
+    {
+      "jid": "JVASP-37783",
+      "status": "ok",
+      "pugh_k_over_g": 1.8887451487710218
+    },
+    {
+      "jid": "JVASP-36673",
+      "status": "ok",
+      "pugh_k_over_g": 2.4516996820738566
+    },
+    {
+      "jid": "JVASP-35744",
+      "status": "ok",
+      "pugh_k_over_g": 1.8860623432461483
+    },
+    {
+      "jid": "JVASP-110430",
+      "status": "ok",
+      "pugh_k_over_g": 2.30982905982906
+    },
+    {
+      "jid": "JVASP-78649",
+      "status": "ok",
+      "pugh_k_over_g": 1.293281057810578
+    },
+    {
+      "jid": "JVASP-121193",
+      "status": "ok",
+      "pugh_k_over_g": 1.339297548045063
+    },
+    {
+      "jid": "JVASP-35672",
+      "status": "ok",
+      "pugh_k_over_g": 1.5020630710285885
+    },
+    {
+      "jid": "JVASP-25144",
+      "status": "ok",
+      "pugh_k_over_g": 1.345739471106758
+    },
+    {
+      "jid": "JVASP-114282",
+      "status": "invalid_nonpositive_modulus",
+      "pugh_k_over_g": null
+    },
+    {
+      "jid": "JVASP-19809",
+      "status": "ok",
+      "pugh_k_over_g": 2.737223756906077
+    },
+    {
+      "jid": "JVASP-39744",
+      "status": "ok",
+      "pugh_k_over_g": 2.6630938586326764
+    },
+    {
+      "jid": "JVASP-36914",
+      "status": "ok",
+      "pugh_k_over_g": 1.7303030303030302
+    },
+    {
+      "jid": "JVASP-29244",
+      "status": "ok",
+      "pugh_k_over_g": 1.802781917536016
+    },
+    {
+      "jid": "JVASP-103033",
+      "status": "ok",
+      "pugh_k_over_g": 1.474233673922701
+    },
+    {
+      "jid": "JVASP-26331",
+      "status": "ok",
+      "pugh_k_over_g": 1.794854280510018
+    },
+    {
+      "jid": "JVASP-54758",
+      "status": "ok",
+      "pugh_k_over_g": 1.5261979399910435
+    },
+    {
+      "jid": "JVASP-16547",
+      "status": "ok",
+      "pugh_k_over_g": 2.208480565371025
+    },
+    {
+      "jid": "JVASP-15302",
+      "status": "ok",
+      "pugh_k_over_g": 1.508199018920813
+    },
+    {
+      "jid": "JVASP-18097",
+      "status": "ok",
+      "pugh_k_over_g": 2.1179636207082124
+    },
+    {
+      "jid": "JVASP-103049",
+      "status": "ok",
+      "pugh_k_over_g": 1.8133719247467437
+    },
+    {
+      "jid": "JVASP-65508",
+      "status": "ok",
+      "pugh_k_over_g": 2.6139817629179336
+    },
+    {
+      "jid": "JVASP-38746",
+      "status": "ok",
+      "pugh_k_over_g": 2.6563981042654032
+    },
+    {
+      "jid": "JVASP-16048",
+      "status": "ok",
+      "pugh_k_over_g": 1.5815324165029472
+    },
+    {
+      "jid": "JVASP-74406",
+      "status": "ok",
+      "pugh_k_over_g": 2.665866272626524
+    },
+    {
+      "jid": "JVASP-56280",
+      "status": "ok",
+      "pugh_k_over_g": 3.4972677595628414
+    },
+    {
+      "jid": "JVASP-8257",
+      "status": "ok",
+      "pugh_k_over_g": 1.692746658657456
+    },
+    {
+      "jid": "JVASP-17848",
+      "status": "ok",
+      "pugh_k_over_g": 9.333693304535638
+    },
+    {
+      "jid": "JVASP-7992",
+      "status": "ok",
+      "pugh_k_over_g": 1.656140350877193
+    },
+    {
+      "jid": "JVASP-122915",
+      "status": "ok",
+      "pugh_k_over_g": 2.195150501672241
+    },
+    {
+      "jid": "JVASP-11038",
+      "status": "ok",
+      "pugh_k_over_g": 0.8397994768962511
+    },
+    {
+      "jid": "JVASP-87240",
+      "status": "invalid_nonpositive_modulus",
+      "pugh_k_over_g": null
+    },
+    {
+      "jid": "JVASP-37334",
+      "status": "ok",
+      "pugh_k_over_g": 1.8936631944444446
+    },
+    {
+      "jid": "JVASP-35748",
+      "status": "ok",
+      "pugh_k_over_g": 1.7513908205841444
+    },
+    {
+      "jid": "JVASP-115819",
+      "status": "invalid_nonpositive_modulus",
+      "pugh_k_over_g": null
+    },
+    {
+      "jid": "JVASP-17212",
+      "status": "ok",
+      "pugh_k_over_g": 2.0289961013645224
+    },
+    {
+      "jid": "JVASP-113690",
+      "status": "ok",
+      "pugh_k_over_g": 2.4726530612244897
+    },
+    {
+      "jid": "JVASP-8311",
+      "status": "ok",
+      "pugh_k_over_g": 0.683294960347915
+    },
+    {
+      "jid": "JVASP-16629",
+      "status": "ok",
+      "pugh_k_over_g": 1.546861053257959
+    },
+    {
+      "jid": "JVASP-116134",
+      "status": "invalid_nonpositive_modulus",
+      "pugh_k_over_g": null
+    },
+    {
+      "jid": "JVASP-9094",
+      "status": "ok",
+      "pugh_k_over_g": 2.3945706371191138
+    },
+    {
+      "jid": "JVASP-17417",
+      "status": "ok",
+      "pugh_k_over_g": 2.3946856772521063
+    },
+    {
+      "jid": "JVASP-65011",
+      "status": "ok",
+      "pugh_k_over_g": 2.786890436985434
+    },
+    {
+      "jid": "JVASP-62561",
+      "status": "ok",
+      "pugh_k_over_g": 2.236735520453625
+    },
+    {
+      "jid": "JVASP-65252",
+      "status": "ok",
+      "pugh_k_over_g": 5.720299884659746
+    },
+    {
+      "jid": "JVASP-35761",
+      "status": "ok",
+      "pugh_k_over_g": 2.0463306152705707
+    },
+    {
+      "jid": "JVASP-840",
+      "status": "ok",
+      "pugh_k_over_g": 1.4357262103505841
+    },
+    {
+      "jid": "JVASP-35190",
+      "status": "ok",
+      "pugh_k_over_g": 1.62994708994709
+    },
+    {
+      "jid": "JVASP-16446",
+      "status": "ok",
+      "pugh_k_over_g": 5.4115
+    },
+    {
+      "jid": "JVASP-114013",
+      "status": "ok",
+      "pugh_k_over_g": 1.7380600689315608
+    },
+    {
+      "jid": "JVASP-18695",
+      "status": "ok",
+      "pugh_k_over_g": 2.901084875558392
+    },
+    {
+      "jid": "JVASP-21770",
+      "status": "ok",
+      "pugh_k_over_g": 2.3069637883008354
+    },
+    {
+      "jid": "JVASP-25049",
+      "status": "ok",
+      "pugh_k_over_g": 1.4172963895885808
+    },
+    {
+      "jid": "JVASP-85427",
+      "status": "ok",
+      "pugh_k_over_g": 3.1603750308413523
+    },
+    {
+      "jid": "JVASP-21521",
+      "status": "ok",
+      "pugh_k_over_g": 2.3626271970397776
+    },
+    {
+      "jid": "JVASP-116427",
+      "status": "invalid_nonpositive_modulus",
+      "pugh_k_over_g": null
+    },
+    {
+      "jid": "JVASP-117986",
+      "status": "ok",
+      "pugh_k_over_g": 2.503844182470528
+    },
+    {
+      "jid": "JVASP-2244",
+      "status": "ok",
+      "pugh_k_over_g": 1.5559105431309905
+    },
+    {
+      "jid": "JVASP-51280",
+      "status": "invalid_nonpositive_modulus",
+      "pugh_k_over_g": null
+    },
+    {
+      "jid": "JVASP-25398",
+      "status": "ok",
+      "pugh_k_over_g": 2.5146579804560263
+    },
+    {
+      "jid": "JVASP-85547",
+      "status": "ok",
+      "pugh_k_over_g": 2.1227650288610445
+    },
+    {
+      "jid": "JVASP-100187",
+      "status": "ok",
+      "pugh_k_over_g": 2.372002820874471
+    },
+    {
+      "jid": "JVASP-74679",
+      "status": "ok",
+      "pugh_k_over_g": 2.152894606630381
+    },
+    {
+      "jid": "JVASP-57447",
+      "status": "ok",
+      "pugh_k_over_g": 1.3858212329799526
+    },
+    {
+      "jid": "JVASP-64581",
+      "status": "ok",
+      "pugh_k_over_g": 3.406862745098039
+    },
+    {
+      "jid": "JVASP-66503",
+      "status": "invalid_nonpositive_modulus",
+      "pugh_k_over_g": null
+    },
+    {
+      "jid": "JVASP-40202",
+      "status": "ok",
+      "pugh_k_over_g": 2.4588155207624234
+    },
+    {
+      "jid": "JVASP-114371",
+      "status": "ok",
+      "pugh_k_over_g": 1.8661957199252024
+    },
+    {
+      "jid": "JVASP-22576",
+      "status": "ok",
+      "pugh_k_over_g": 0.8187396742978522
+    },
+    {
+      "jid": "JVASP-106036",
+      "status": "ok",
+      "pugh_k_over_g": 2.711355311355311
+    },
+    {
+      "jid": "JVASP-118490",
+      "status": "invalid_nonpositive_modulus",
+      "pugh_k_over_g": null
+    },
+    {
+      "jid": "JVASP-17843",
+      "status": "ok",
+      "pugh_k_over_g": 2.540692762602084
+    },
+    {
+      "jid": "JVASP-113678",
+      "status": "ok",
+      "pugh_k_over_g": 1.9885057471264371
+    },
+    {
+      "jid": "JVASP-118126",
+      "status": "ok",
+      "pugh_k_over_g": 1.4290399522957662
+    },
+    {
+      "jid": "JVASP-74908",
+      "status": "ok",
+      "pugh_k_over_g": 5.282969432314411
+    },
+    {
+      "jid": "JVASP-68196",
+      "status": "ok",
+      "pugh_k_over_g": 4.224648089629417
+    },
+    {
+      "jid": "JVASP-69239",
+      "status": "ok",
+      "pugh_k_over_g": 1.5289575289575292
+    },
+    {
+      "jid": "JVASP-99127",
+      "status": "ok",
+      "pugh_k_over_g": 2.2207413577675967
+    },
+    {
+      "jid": "JVASP-66180",
+      "status": "invalid_nonpositive_modulus",
+      "pugh_k_over_g": null
+    },
+    {
+      "jid": "JVASP-18155",
+      "status": "ok",
+      "pugh_k_over_g": 2.615633912367125
+    },
+    {
+      "jid": "JVASP-102888",
+      "status": "invalid_nonpositive_modulus",
+      "pugh_k_over_g": null
+    },
+    {
+      "jid": "JVASP-115161",
+      "status": "ok",
+      "pugh_k_over_g": 3.711026615969582
+    },
+    {
+      "jid": "JVASP-16271",
+      "status": "ok",
+      "pugh_k_over_g": 1.536256323777403
+    },
+    {
+      "jid": "JVASP-67118",
+      "status": "ok",
+      "pugh_k_over_g": 4.836651352730986
+    },
+    {
+      "jid": "JVASP-7726",
+      "status": "ok",
+      "pugh_k_over_g": 1.7464424320827943
+    },
+    {
+      "jid": "JVASP-106196",
+      "status": "ok",
+      "pugh_k_over_g": 2.5104540023894866
+    },
+    {
+      "jid": "JVASP-40826",
+      "status": "ok",
+      "pugh_k_over_g": 2.194926140012845
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "type": "structured_ie",
+  "span_match": "exact",
+  "micro_f1": true
+}

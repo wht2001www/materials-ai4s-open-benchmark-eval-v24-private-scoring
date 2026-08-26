@@ -1,0 +1,4 @@
+{
+  "type": "gate_rank_quantiles",
+  "tolerance": 1e-10
+}

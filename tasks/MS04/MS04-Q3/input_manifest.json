@@ -1,0 +1,15 @@
+{
+  "question_id": "MS04-Q3",
+  "files": [
+    {
+      "path": "inputs/source_manifest.json",
+      "bytes": 701,
+      "sha256": "9D8FF8542CEFD3BE141463CB1D00DD8A8566D61DFCDA786CF54026B332F1F327"
+    },
+    {
+      "path": "inputs/structures.csv",
+      "bytes": 92039,
+      "sha256": "1B485853BACCAABDEA1EB88E7C64F85F1A13F25F90F2639558E52D50CC147212"
+    }
+  ]
+}

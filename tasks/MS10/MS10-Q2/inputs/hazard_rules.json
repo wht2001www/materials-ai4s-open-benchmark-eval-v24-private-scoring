@@ -1,0 +1,59 @@
+{
+  "rule_version": "v24-rule-1",
+  "flags": [
+    {
+      "code": "HIGH_TEMPERATURE",
+      "condition": "temperature_C >= 300"
+    },
+    {
+      "code": "PRESSURIZED_OR_SEALED",
+      "keywords": [
+        "autoclave",
+        "sealed",
+        "hydrothermal",
+        "solvothermal"
+      ]
+    },
+    {
+      "code": "FLAMMABLE_SOLVENT_CONTEXT",
+      "keywords": [
+        "ethanol",
+        "methanol",
+        "isopropanol",
+        "acetone",
+        "toluene"
+      ]
+    },
+    {
+      "code": "CORROSIVE_ACID_BASE_CONTEXT",
+      "keywords": [
+        "HCl",
+        "HNO3",
+        "H2SO4",
+        "NaOH",
+        "KOH",
+        "ammonia"
+      ]
+    },
+    {
+      "code": "TOXIC_METAL_CONTEXT",
+      "keywords": [
+        "Hg",
+        "Cd",
+        "Pb",
+        "Cr(VI)"
+      ]
+    },
+    {
+      "code": "INERT_OR_REACTIVE_GAS_CONTEXT",
+      "keywords": [
+        "hydrogen",
+        "H2",
+        "argon",
+        "nitrogen",
+        "ammonia"
+      ]
+    }
+  ],
+  "severity": "count distinct flags: 0=low, 1-2=medium, >=3=high; this is a benchmark triage rule, not a regulatory conclusion"
+}

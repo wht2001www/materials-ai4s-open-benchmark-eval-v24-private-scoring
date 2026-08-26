@@ -1,0 +1,36 @@
+{
+  "distance_rows": [
+    {
+      "structure": "SrTiO3_pred.cif",
+      "energy_distance": "39.9298",
+      "wyckoff_rmse": "0.3702",
+      "wyckoff_mae": "0.2654",
+      "rms_anonymous": "",
+      "rms_dist": "None",
+      "sinkhorn_dist": "13.2096",
+      "chamfer_dist": "4.3629",
+      "hausdorff_dist": "3.7809",
+      "superpose_rmsd": "1.1436",
+      "edit_graph_distance": "6",
+      "fingerPrint": "2.5924",
+      "XRD_dist": "2.0702",
+      "OFM_dist": "0.4755"
+    },
+    {
+      "structure": "GdB2_pred.cif",
+      "energy_distance": "4.4822",
+      "wyckoff_rmse": "5555",
+      "wyckoff_mae": "5555",
+      "rms_anonymous": "0.5408",
+      "rms_dist": "0.5408",
+      "sinkhorn_dist": "5.2826",
+      "chamfer_dist": "2.8139",
+      "hausdorff_dist": "2.0505",
+      "superpose_rmsd": "0.2487",
+      "edit_graph_distance": "1",
+      "fingerPrint": "2.3997",
+      "XRD_dist": "2.1448",
+      "OFM_dist": "1.1279"
+    }
+  ]
+}

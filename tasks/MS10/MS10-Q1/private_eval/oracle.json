@@ -1,0 +1,33 @@
+{
+  "flags": [
+    {
+      "code": "PRESSURIZED_OR_SEALED",
+      "hits": [
+        "autoclave",
+        "hydrothermal"
+      ]
+    },
+    {
+      "code": "FLAMMABLE_SOLVENT_CONTEXT",
+      "hits": [
+        "ethanol"
+      ]
+    },
+    {
+      "code": "CORROSIVE_ACID_BASE_CONTEXT",
+      "hits": [
+        "HNO3",
+        "NaOH"
+      ]
+    },
+    {
+      "code": "INERT_OR_REACTIVE_GAS_CONTEXT",
+      "hits": [
+        "H2",
+        "nitrogen"
+      ]
+    }
+  ],
+  "severity": "high",
+  "reference_text_sha256": "da85191d27318af3e258b5a2ee7e9d6ce6e57ccc92ae95df34b2515b51e39a11"
+}

@@ -1,0 +1,17 @@
+{
+  "question_id": "MS05-Q3",
+  "version": "24.0.0",
+  "provenance_class": "MatSci-NLP SOFC token/slot 原任务固定切片",
+  "sources": [
+    {
+      "benchmark": "MatSci-NLP",
+      "repository": "https://github.com/BangLab-UdeM-Mila/NLP4MatSci-ACL23",
+      "snapshot": "f9042f5c90394861d05e767143bcfbdbd71ba4ab",
+      "upstream_path": "dataset/sofc_token.json rows 0:240",
+      "reuse_mode": "fixed_slice",
+      "transformation": "前 180 训练、后 60 hidden test；token/标签不改写。",
+      "license_or_terms": "research dataset; repository citation required"
+    }
+  ],
+  "note": "题目只声明真实采用的上游文件。固定子集和情境化改编均不冒充上游原题。"
+}

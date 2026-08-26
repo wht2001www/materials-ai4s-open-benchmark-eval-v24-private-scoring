@@ -1,0 +1,14 @@
+{
+  "id": "MS02-Q3",
+  "title": "MatSci-NLP 溶胶—凝胶合成实体、关系与事件抽取",
+  "task_id": "MS02",
+  "task_name": "材料合成路线设计、配方计算与实验条件规划",
+  "priority": "P0",
+  "subdomain": "synthesis_information_extraction",
+  "level": "L3",
+  "time_minutes": 90,
+  "provenance_class": "MatSci-NLP structured synthesis 原始实例",
+  "plot_required": "",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

@@ -1,0 +1,9 @@
+{
+  "type": "regression",
+  "metrics": [
+    "mae",
+    "rmse",
+    "r2"
+  ],
+  "plot_required": true
+}

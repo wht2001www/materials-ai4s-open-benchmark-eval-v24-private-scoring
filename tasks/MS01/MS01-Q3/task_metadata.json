@@ -1,0 +1,14 @@
+{
+  "id": "MS01-Q3",
+  "title": "Matbench 玻璃形成能力成分分类基线",
+  "task_id": "MS01",
+  "task_name": "目标性能约束下的新材料候选发现与优先级排序",
+  "priority": "P0",
+  "subdomain": "materials_property_prediction",
+  "level": "L3",
+  "time_minutes": 90,
+  "provenance_class": "官方 Matbench 任务固定重划分",
+  "plot_required": "",
+  "deterministic_score": 80,
+  "judge_score": 20
+}

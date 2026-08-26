@@ -1,0 +1,20 @@
+{
+  "question_id": "MS08-Q1",
+  "files": [
+    {
+      "path": "inputs/source_manifest.json",
+      "bytes": 646,
+      "sha256": "E7E0A47E5DCCAA03DA7EF465D81E4212F23833A1EE1E18602F0557E77502C301"
+    },
+    {
+      "path": "inputs/test.csv",
+      "bytes": 3029,
+      "sha256": "8A7F90CFA94FE85902FD067E9789F4549C1F00B691B75E7E74C8CE0EAF80AF83"
+    },
+    {
+      "path": "inputs/train.csv",
+      "bytes": 17444,
+      "sha256": "DCC698E6963ECE0EE7CDC810A7F0F59CB10109B842793B691917F445E294CC3B"
+    }
+  ]
+}

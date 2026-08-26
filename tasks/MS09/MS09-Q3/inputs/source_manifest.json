@@ -1,0 +1,26 @@
+{
+  "question_id": "MS09-Q3",
+  "version": "24.0.0",
+  "provenance_class": "Matbench 数据 + Structure-OOD 思路的透明改编",
+  "sources": [
+    {
+      "benchmark": "Matbench",
+      "repository": "https://github.com/materialsproject/matbench",
+      "snapshot": "936176db18ca4cd7b38cbd957c017a5bac770c6b",
+      "upstream_path": "matbench_phonons",
+      "reuse_mode": "ood_resplit",
+      "transformation": "按 n_sites 排序构造规模 OOD；官方结构与标签不变。",
+      "license_or_terms": "MIT"
+    },
+    {
+      "benchmark": "OOD-Materials-Benchmark",
+      "repository": "https://github.com/sadmanomee/OOD_Materials_Benchmark",
+      "snapshot": "conceptual reference",
+      "upstream_path": "structure-based OOD split concept",
+      "reuse_mode": "method_inspiration",
+      "transformation": "未复制其数据；仅采用结构分布外评测思想。",
+      "license_or_terms": "repository terms"
+    }
+  ],
+  "note": "题目只声明真实采用的上游文件。固定子集和情境化改编均不冒充上游原题。"
+}
