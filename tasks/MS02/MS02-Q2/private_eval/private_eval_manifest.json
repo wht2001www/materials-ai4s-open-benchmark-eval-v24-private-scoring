@@ -16,8 +16,24 @@
       "sha256": "A95DDF19712D880DD7DE95F39B7DF4A2443F24110FB8CA13DB10651F003AE285",
       "bytes": 164,
       "source_member": "tasks/MS02/MS02-Q2/scoring_spec.json"
+    },
+    {
+      "file": "oracle.py",
+      "sha256": "C4DF1EFB5EFB1C43ED2E770129564F34C7883DEBAFDBCBD2D001C3401A74D5F6",
+      "bytes": 58440,
+      "source_member": null,
+      "source": "generated_fully_standalone"
     }
   ],
-  "contains_python_oracle": false,
-  "note": "Source ZIP contains JSON oracle data and scoring specification only; no Python oracle/scorer was supplied."
+  "contains_python_oracle": true,
+  "note": "oracle.py embeds this question's gold data, tolerances, input hashes and deterministic scoring logic; it has no repository-local imports.",
+  "oracle_contract": {
+    "cli": "python oracle.py --workspace WORKSPACE",
+    "stdout": "JSON",
+    "exit_codes": {
+      "0": "hard gates pass",
+      "1": "hard gates fail",
+      "2": "invalid input or invocation"
+    }
+  }
 }

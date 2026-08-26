@@ -550,5 +550,7 @@
         }
       ]
     }
-  ]
+  ],
+  "standalone_python_oracle_count": 30,
+  "standalone_contract": "python oracle.py --workspace WORKSPACE"
 }

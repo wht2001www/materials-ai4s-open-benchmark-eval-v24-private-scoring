@@ -1,7 +1,8 @@
 {
-  "version": "24.0.0",
+  "version": "24.0.1-standalone-oracles",
   "question_count": 30,
   "task_count": 10,
+  "standalone_oracle_count": 30,
   "files": [
     {
       "path": ".gitignore",
@@ -17,6 +18,31 @@
       "path": "NOTICE.md",
       "bytes": 194,
       "sha256": "1C5E51D70B775AD5ADC761802F0FE73124D091EA37B539902E157169627FA338"
+    },
+    {
+      "path": "private_eval/layout_manifest.json",
+      "bytes": 18689,
+      "sha256": "2881C943D54D33C6B4A8D00CC54384C0CDCC6790AF80B7A4134395B9800AD41F"
+    },
+    {
+      "path": "private_eval/private_manifest.json",
+      "bytes": 210,
+      "sha256": "ACD68E5D0EACAA4D28C4662595ED8912663A529364C297AF5D765C4D64BB17DF"
+    },
+    {
+      "path": "private_eval/README.md",
+      "bytes": 718,
+      "sha256": "936EB998124674E57CD4F689C1648A9FDE23E15CAAA1EFC7321534AB76E24060"
+    },
+    {
+      "path": "private_eval/test_all_oracles.py",
+      "bytes": 2056,
+      "sha256": "3FC7DCC3A24469969804012854124698BF9595774A90958800C5519B0C36782F"
+    },
+    {
+      "path": "PRIVATE_EVAL_NOTICE.md",
+      "bytes": 543,
+      "sha256": "D755D051DF8691E4EBE2A03F00C32D5446E08152CB3F165CDC0AE5FA91153AD9"
     },
     {
       "path": "README.md",
@@ -49,6 +75,31 @@
       "sha256": "165C6FB837E51602C3F6C39191EED0DDC0217D5CDDD3844BD183A6A468D002C3"
     },
     {
+      "path": "tasks/MS01/MS01-Q1/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 105318,
+      "sha256": "2E0B970B6D42E0677F512D55875B7D07FE786A6CFA805269E4CB8A450B5B0ED9"
+    },
+    {
+      "path": "tasks/MS01/MS01-Q1/private_eval/oracle.json",
+      "bytes": 1900,
+      "sha256": "4F89F58203206DF294AB335982F9734DCEDF3319A7A9A88D4D20C5F4A131AD69"
+    },
+    {
+      "path": "tasks/MS01/MS01-Q1/private_eval/oracle.py",
+      "bytes": 57047,
+      "sha256": "4EDB469997A41CF161C827BDC9B6C295E508E6AF689857648EB9826D2C5F6F20"
+    },
+    {
+      "path": "tasks/MS01/MS01-Q1/private_eval/private_eval_manifest.json",
+      "bytes": 1367,
+      "sha256": "8CC5348727E46C74B0D9A8F6CA1039957DBBE88C53D27E4DDAE6E3BEE7FC4F22"
+    },
+    {
+      "path": "tasks/MS01/MS01-Q1/private_eval/scoring_spec.json",
+      "bytes": 58,
+      "sha256": "26B2266490D98110352EA43FEA088786B827702516F300F804F861E7EC6EFC52"
+    },
+    {
       "path": "tasks/MS01/MS01-Q1/prompt.md",
       "bytes": 1974,
       "sha256": "4DD336367D41A20C62FE1284F8134BDC8ED81965A70BA1E5895B0A6F20D5552F"
@@ -72,6 +123,31 @@
       "path": "tasks/MS01/MS01-Q2/inputs/source_manifest.json",
       "bytes": 705,
       "sha256": "3777D7F5D4ACA359D626F4BA3B1FB2EB98E23F06498A564DF616F10C8E4B8DD6"
+    },
+    {
+      "path": "tasks/MS01/MS01-Q2/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 117260,
+      "sha256": "2326355694F1C082B562BEBB88AEBC77FDAD3C2BCB495231217EC2BF29B5D3CC"
+    },
+    {
+      "path": "tasks/MS01/MS01-Q2/private_eval/oracle.json",
+      "bytes": 18038,
+      "sha256": "421E777C1FA6409F87966A2EE70119043BE0E79B743F3654A1B541A0C3DD98E0"
+    },
+    {
+      "path": "tasks/MS01/MS01-Q2/private_eval/oracle.py",
+      "bytes": 68983,
+      "sha256": "C256F56CB0B329A4C6A5F6B99F7FC1DBB192416A8CFBAF67E82F720D8D63761C"
+    },
+    {
+      "path": "tasks/MS01/MS01-Q2/private_eval/private_eval_manifest.json",
+      "bytes": 1368,
+      "sha256": "7A84AF3A52E1929909F92D02AB7E7A82770CA2B94E3177DF4B177C09CB497DA5"
+    },
+    {
+      "path": "tasks/MS01/MS01-Q2/private_eval/scoring_spec.json",
+      "bytes": 64,
+      "sha256": "BB043D513B0063A61A69BF17AA9838325078F0E73A8A4EA65C909FBBE6FC0F31"
     },
     {
       "path": "tasks/MS01/MS01-Q2/prompt.md",
@@ -109,6 +185,31 @@
       "sha256": "706F34129FB0209E6DF003677339B5AA47062646D5DAE040F161258EA2B2528C"
     },
     {
+      "path": "tasks/MS01/MS01-Q3/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 109934,
+      "sha256": "8A89E0891F82512D1F9F5106279006384671C7ED1F46F0C22C1ECDF49D3F4C52"
+    },
+    {
+      "path": "tasks/MS01/MS01-Q3/private_eval/oracle.json",
+      "bytes": 10991,
+      "sha256": "FFFFD88DE7F15ECFBAF7CD9BA2C55A9848FFFE0A9B9AFD342FAC85CAD191C467"
+    },
+    {
+      "path": "tasks/MS01/MS01-Q3/private_eval/oracle.py",
+      "bytes": 61715,
+      "sha256": "F2D0A5D8FA3479C80915B7460B53B2697F467F54E29E03E98E0723D2A9FDEEDE"
+    },
+    {
+      "path": "tasks/MS01/MS01-Q3/private_eval/private_eval_manifest.json",
+      "bytes": 1369,
+      "sha256": "5AE8CBC1804594AC8C4B40C88A9A07DDA422015C552D5BB1EEA9BF9F6AD889DB"
+    },
+    {
+      "path": "tasks/MS01/MS01-Q3/private_eval/scoring_spec.json",
+      "bytes": 113,
+      "sha256": "2E16A954EE46D71ED11224F78E5C0ACF65622EA92595AA6CF22D4608C05B8F98"
+    },
+    {
       "path": "tasks/MS01/MS01-Q3/prompt.md",
       "bytes": 2017,
       "sha256": "A536A2BDAA31CA95D0D1F718E939BCF0685097C11F2B1FC651CDA218D0620C05"
@@ -134,6 +235,31 @@
       "sha256": "94FBF08256FBF6A1111AD93898A37AE31BD9BA9C5286406A2446EF8B37B4B0C3"
     },
     {
+      "path": "tasks/MS02/MS02-Q1/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 106824,
+      "sha256": "A38F8A127B6D33FB8F20576ED59B3F7B4DDD9CC002D39D0356CC50FBB32C82BC"
+    },
+    {
+      "path": "tasks/MS02/MS02-Q1/private_eval/oracle.json",
+      "bytes": 2410,
+      "sha256": "E0CB208A7FD8CE01633B67D63205AEEAAB931794DD420F82338BF684A229BD7B"
+    },
+    {
+      "path": "tasks/MS02/MS02-Q1/private_eval/oracle.py",
+      "bytes": 58600,
+      "sha256": "61BC06ED8EC3C7CA0AE21C20D9EEFDF593FA685BB142537F1C81A7E355CCFB0B"
+    },
+    {
+      "path": "tasks/MS02/MS02-Q1/private_eval/private_eval_manifest.json",
+      "bytes": 1368,
+      "sha256": "72A737B76FF6540E3300D5162E067FB336E41B89898407004BD862B5D2507610"
+    },
+    {
+      "path": "tasks/MS02/MS02-Q1/private_eval/scoring_spec.json",
+      "bytes": 110,
+      "sha256": "9EF0DCD270487F13E44FE08DFF1416B39EC943B93CFB6ED9E83B841B439CDA68"
+    },
+    {
       "path": "tasks/MS02/MS02-Q1/prompt.md",
       "bytes": 1917,
       "sha256": "D03C31B181080F672055D60EB2740C58BA683266A0D1A42583FC9AC6F9D81BDA"
@@ -157,6 +283,31 @@
       "path": "tasks/MS02/MS02-Q2/inputs/source_manifest.json",
       "bytes": 694,
       "sha256": "5A88AC66DCBCD208D328D1DBA0F69068ABF39D057EAACE1FA643EE8FA57A3F70"
+    },
+    {
+      "path": "tasks/MS02/MS02-Q2/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 106675,
+      "sha256": "FF7126BAF8FE313E647CEEE3B7EE8007917F5B0F0738D4DF5F964ED935A5C98E"
+    },
+    {
+      "path": "tasks/MS02/MS02-Q2/private_eval/oracle.json",
+      "bytes": 2287,
+      "sha256": "8744268F8F3D2F2FC9C86C26AB3990B950D1FAE97F8B3FD33FF9BA4A8D6E273C"
+    },
+    {
+      "path": "tasks/MS02/MS02-Q2/private_eval/oracle.py",
+      "bytes": 58440,
+      "sha256": "C4DF1EFB5EFB1C43ED2E770129564F34C7883DEBAFDBCBD2D001C3401A74D5F6"
+    },
+    {
+      "path": "tasks/MS02/MS02-Q2/private_eval/private_eval_manifest.json",
+      "bytes": 1368,
+      "sha256": "05039EA00813BA2DDD23D90E2FA312CFF2D2B959E7DA048F8C21E031335CB234"
+    },
+    {
+      "path": "tasks/MS02/MS02-Q2/private_eval/scoring_spec.json",
+      "bytes": 164,
+      "sha256": "A95DDF19712D880DD7DE95F39B7DF4A2443F24110FB8CA13DB10651F003AE285"
     },
     {
       "path": "tasks/MS02/MS02-Q2/prompt.md",
@@ -187,6 +338,31 @@
       "path": "tasks/MS02/MS02-Q3/inputs/source_manifest.json",
       "bytes": 733,
       "sha256": "B160FFC0069DCB4CBA351851753F6270ED6AA1328C234075822FC70A677BEDA2"
+    },
+    {
+      "path": "tasks/MS02/MS02-Q3/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 116967,
+      "sha256": "88956785964B1E2F082DC00EBC198CE486C0C47806851F3EFCCCF2B449242548"
+    },
+    {
+      "path": "tasks/MS02/MS02-Q3/private_eval/oracle.json",
+      "bytes": 23629,
+      "sha256": "AAD8E4D5F20654B4110F7C940A2CAC2569641F55A07260860A0198FB20CF98F0"
+    },
+    {
+      "path": "tasks/MS02/MS02-Q3/private_eval/oracle.py",
+      "bytes": 68709,
+      "sha256": "3D26AC5C011307507261589FDF497A12043F04CEA2627333C0B414045F6CCE9B"
+    },
+    {
+      "path": "tasks/MS02/MS02-Q3/private_eval/private_eval_manifest.json",
+      "bytes": 1368,
+      "sha256": "6E4D71C9266B9642462DC12DDA41C4AB31BF087C76388B7D1440F5C55BB11974"
+    },
+    {
+      "path": "tasks/MS02/MS02-Q3/private_eval/scoring_spec.json",
+      "bytes": 75,
+      "sha256": "F114F40918520B60C9B1112DE60C2132C35845C331C5944742321819F03668F0"
     },
     {
       "path": "tasks/MS02/MS02-Q3/prompt.md",
@@ -224,6 +400,31 @@
       "sha256": "28E4E91EC8D8FBF9C3D6938B54A78480EEDB15DD99669B73AF32D26A40F99AD8"
     },
     {
+      "path": "tasks/MS03/MS03-Q1/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 435646,
+      "sha256": "EF50A659C95552436FFD9CA3D38F40C61DAE05B7053DAFFECBB58D31DE0B8E60"
+    },
+    {
+      "path": "tasks/MS03/MS03-Q1/private_eval/oracle.json",
+      "bytes": 352,
+      "sha256": "481A2002D499D7C05B50A8FF6821E972460023E804D691088AE220C8F5DA6952"
+    },
+    {
+      "path": "tasks/MS03/MS03-Q1/private_eval/oracle.py",
+      "bytes": 387396,
+      "sha256": "E6C06294C6253E0DD09536FD0E50F64B2B9F1F6391C6525BA65F963229F9B041"
+    },
+    {
+      "path": "tasks/MS03/MS03-Q1/private_eval/private_eval_manifest.json",
+      "bytes": 1367,
+      "sha256": "2EA4A97B873CAF7B21B60DA965DED8CABB2DA3027248F2557B605CB43FEDC124"
+    },
+    {
+      "path": "tasks/MS03/MS03-Q1/private_eval/scoring_spec.json",
+      "bytes": 96,
+      "sha256": "5B33A401AB8CD8123BD0DA039B98169B9C508E0436FB1D7138FE2343646F2801"
+    },
+    {
       "path": "tasks/MS03/MS03-Q1/prompt.md",
       "bytes": 1993,
       "sha256": "8A5F3C0D7E7133AAB1401D56FA35880193F6CBCC51C2D68292F5C538EC49C88B"
@@ -259,6 +460,31 @@
       "sha256": "9C65487D9CBC7E752FBA790269DE85496BA2C336BCAD81C3B9028C919350CFFF"
     },
     {
+      "path": "tasks/MS03/MS03-Q2/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 179573,
+      "sha256": "056C393582998F3E0F0B71EB683102C80C50B99DC8F2D0B95AAE0909D9BA9F4C"
+    },
+    {
+      "path": "tasks/MS03/MS03-Q2/private_eval/oracle.json",
+      "bytes": 132481,
+      "sha256": "960F3E306783599FD8D2703DD209D1B1FFED2EE3D61ADAE8FA156038B3C7AF0B"
+    },
+    {
+      "path": "tasks/MS03/MS03-Q2/private_eval/oracle.py",
+      "bytes": 131320,
+      "sha256": "9A25148F068531F6B7BC9C1F63373F9FB9CBD303A88047941FA9EB5B38AF6A25"
+    },
+    {
+      "path": "tasks/MS03/MS03-Q2/private_eval/private_eval_manifest.json",
+      "bytes": 1370,
+      "sha256": "86ED08FAFA009DFA688B1D2942141F50243A409E8B7D8B5626364A7DB31C35FF"
+    },
+    {
+      "path": "tasks/MS03/MS03-Q2/private_eval/scoring_spec.json",
+      "bytes": 94,
+      "sha256": "084F9D80658153415D2CECFBB8DE4EC666DB2617B0FBEF4973EBE8401915360D"
+    },
+    {
       "path": "tasks/MS03/MS03-Q2/prompt.md",
       "bytes": 1861,
       "sha256": "6FF0139ECDC6571AC2F14FA235A365F5A1E56DBD14EDD2EF349BBC6BCD707D91"
@@ -282,6 +508,31 @@
       "path": "tasks/MS03/MS03-Q3/inputs/structure_property.csv",
       "bytes": 24002,
       "sha256": "663D5B7B5E9E157E2A372E54FA29627A476A94860EEA7278D5D97C25AF63340C"
+    },
+    {
+      "path": "tasks/MS03/MS03-Q3/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 104186,
+      "sha256": "170529F5E9BBA38483C2CD552E99AFF66263B4F7E7B7A34E81C0FC9E6404B275"
+    },
+    {
+      "path": "tasks/MS03/MS03-Q3/private_eval/oracle.json",
+      "bytes": 100,
+      "sha256": "0DC91D60106DA970C2449A0023F07FB802622633BD344B226326D049BF595FFD"
+    },
+    {
+      "path": "tasks/MS03/MS03-Q3/private_eval/oracle.py",
+      "bytes": 55934,
+      "sha256": "712D8F7C223DB5899F65705EE9A8DA5ED2CB362EA7761BA8A8D666C82D9ADBE9"
+    },
+    {
+      "path": "tasks/MS03/MS03-Q3/private_eval/private_eval_manifest.json",
+      "bytes": 1367,
+      "sha256": "6A02A5663FAE80C5F97AC59053F54720374425E6AF179006B7D99694B02C15FC"
+    },
+    {
+      "path": "tasks/MS03/MS03-Q3/private_eval/scoring_spec.json",
+      "bytes": 128,
+      "sha256": "CFB0550016B42B2EB571E7833C689C552581EFDDAF4C804374BBBD957CCD6C92"
     },
     {
       "path": "tasks/MS03/MS03-Q3/prompt.md",
@@ -324,6 +575,31 @@
       "sha256": "4B1E5D3F272F6EE858EA0963D038547BE531244F80885AB00C7E77FD1427C9D6"
     },
     {
+      "path": "tasks/MS04/MS04-Q1/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 104979,
+      "sha256": "CBB6DA955022DCA152FF1A880CC1C4717EB678F7D936D03B7AA26D8463A5ED7A"
+    },
+    {
+      "path": "tasks/MS04/MS04-Q1/private_eval/oracle.json",
+      "bytes": 942,
+      "sha256": "E87BCCEFF7DA03EA62584A1C69B22502C09D3F98DF4DE7F59F8110AE3E8E5698"
+    },
+    {
+      "path": "tasks/MS04/MS04-Q1/private_eval/oracle.py",
+      "bytes": 56796,
+      "sha256": "B68D9D354D3AA4E721865B0CCE404A6B862F549EFE0214AC42ACFE837DF40024"
+    },
+    {
+      "path": "tasks/MS04/MS04-Q1/private_eval/private_eval_manifest.json",
+      "bytes": 1366,
+      "sha256": "FE91C86BB3329E23B27172FF2BF362DF40C63FD5D210D5F19214BB7B942A0C33"
+    },
+    {
+      "path": "tasks/MS04/MS04-Q1/private_eval/scoring_spec.json",
+      "bytes": 95,
+      "sha256": "54C813ABEC7098C925F9670EF7F9325CA7EA2A805F310FE7B52B984ED21F308C"
+    },
+    {
       "path": "tasks/MS04/MS04-Q1/prompt.md",
       "bytes": 1970,
       "sha256": "8B22720C67DD4493155B3E6C42191D5E569198FCE5ACCF424369A23161510621"
@@ -354,6 +630,31 @@
       "sha256": "F8858722E8006137394BA569931996F8ACE844D7975B6DB0E32CD01C9AF9CBB0"
     },
     {
+      "path": "tasks/MS04/MS04-Q2/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 106901,
+      "sha256": "C8B31D87E0D87AC069E202D0B2D7089BBF858DC3D1378BE5EADAF4D3B88EFD1A"
+    },
+    {
+      "path": "tasks/MS04/MS04-Q2/private_eval/oracle.json",
+      "bytes": 4458,
+      "sha256": "2D6B1205E268D4551508A7DEB5F7AD063A4957EFB04A25B5AEA018A8E9FEA807"
+    },
+    {
+      "path": "tasks/MS04/MS04-Q2/private_eval/oracle.py",
+      "bytes": 58667,
+      "sha256": "774650C75C50BE3659F93EE9544FF49FA332B7DF2EEE75C7EF390D23ECF82C9E"
+    },
+    {
+      "path": "tasks/MS04/MS04-Q2/private_eval/private_eval_manifest.json",
+      "bytes": 1367,
+      "sha256": "C8E67F75EE2092A84C4109FBB05691E15B0B2DB260D82DAA9A2289B368F929E8"
+    },
+    {
+      "path": "tasks/MS04/MS04-Q2/private_eval/scoring_spec.json",
+      "bytes": 64,
+      "sha256": "2449FEF0C1A71F16E54F3AEEE0398C0AEF184C10F9918FBC49443DD6AD6703E6"
+    },
+    {
       "path": "tasks/MS04/MS04-Q2/prompt.md",
       "bytes": 1977,
       "sha256": "59960853868E356756FF96FDEB318C8ABF15BB18EAEA69E9887978963E54EE87"
@@ -377,6 +678,31 @@
       "path": "tasks/MS04/MS04-Q3/inputs/structures.csv",
       "bytes": 92039,
       "sha256": "1B485853BACCAABDEA1EB88E7C64F85F1A13F25F90F2639558E52D50CC147212"
+    },
+    {
+      "path": "tasks/MS04/MS04-Q3/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 106986,
+      "sha256": "30410E610F2317F87BAA908BC3FFF6C04134CF7021802F4A1D4AE76FBA600338"
+    },
+    {
+      "path": "tasks/MS04/MS04-Q3/private_eval/oracle.json",
+      "bytes": 4119,
+      "sha256": "6C38269B782CAA06AFCFE38742D8DE8EC34DE888723F7E9E0948AED27A7AF908"
+    },
+    {
+      "path": "tasks/MS04/MS04-Q3/private_eval/oracle.py",
+      "bytes": 58796,
+      "sha256": "D614662C459E918B12F00FCC1694C1FC7204B4B2B56FEA898AB19B29D4E4DF3A"
+    },
+    {
+      "path": "tasks/MS04/MS04-Q3/private_eval/private_eval_manifest.json",
+      "bytes": 1367,
+      "sha256": "009D09B33A0B074E7C8FC1D11CD127A03FD002CEDF526029A2C9F8400F33C32E"
+    },
+    {
+      "path": "tasks/MS04/MS04-Q3/private_eval/scoring_spec.json",
+      "bytes": 68,
+      "sha256": "68FA71000284E3A409872077635727F4C2A17F3EE12332EE109B226EBA5CD266"
     },
     {
       "path": "tasks/MS04/MS04-Q3/prompt.md",
@@ -404,6 +730,31 @@
       "sha256": "2CC9B5DE096DDE88E18C4C956B2D7FFC2099D89753025AFB4DB1FC35E208E96A"
     },
     {
+      "path": "tasks/MS05/MS05-Q1/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 107007,
+      "sha256": "6234A27F7B7048935862004A3C2AB67C913F9126D81AA8EE4D26B808A7894818"
+    },
+    {
+      "path": "tasks/MS05/MS05-Q1/private_eval/oracle.json",
+      "bytes": 2465,
+      "sha256": "B40B4E2E965FF0BC23F3B19B9334B972A63166B49CDAD294CD5C3502C86A08F1"
+    },
+    {
+      "path": "tasks/MS05/MS05-Q1/private_eval/oracle.py",
+      "bytes": 58761,
+      "sha256": "2F62DBC773266D015759ABBE1A68B7EF38595426D4A1ACCF1ED53C8CC65633CD"
+    },
+    {
+      "path": "tasks/MS05/MS05-Q1/private_eval/private_eval_manifest.json",
+      "bytes": 1367,
+      "sha256": "F2962009DBA604D991CABC426CBF5A755947BE8C3D69FBD1A92D00F573962AEB"
+    },
+    {
+      "path": "tasks/MS05/MS05-Q1/private_eval/scoring_spec.json",
+      "bytes": 71,
+      "sha256": "4A8AB467926B0E66A496D5D6F07E11572BC12D23C45BB2F79ED9A50E6F5C4CEB"
+    },
+    {
       "path": "tasks/MS05/MS05-Q1/prompt.md",
       "bytes": 1793,
       "sha256": "40CAC3CA9E21FD372FEB4A85356635B6B1DE24D4095FD7D9630D4AEB5AFE96A3"
@@ -427,6 +778,31 @@
       "path": "tasks/MS05/MS05-Q2/inputs/source_manifest.json",
       "bytes": 665,
       "sha256": "61CCA229D37850C370F4E220684C739AEBE637A22D6A52CBCD9DB4FFBAD24565"
+    },
+    {
+      "path": "tasks/MS05/MS05-Q2/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 106468,
+      "sha256": "FF0B6C8D06FC9C4041BD35BB1C06D6CF8FEA0EE4328A97BBD0F51361FABAC041"
+    },
+    {
+      "path": "tasks/MS05/MS05-Q2/private_eval/oracle.json",
+      "bytes": 2269,
+      "sha256": "99B2D33ECC2A2AD86C013C8599589E2D724AD6329D4005A88B8C6E560078B0F4"
+    },
+    {
+      "path": "tasks/MS05/MS05-Q2/private_eval/oracle.py",
+      "bytes": 58235,
+      "sha256": "1F5FAF289E8CB4FA2B2C05BDF537C6D89CB64F59363C68912F3790B2CDBC6775"
+    },
+    {
+      "path": "tasks/MS05/MS05-Q2/private_eval/private_eval_manifest.json",
+      "bytes": 1368,
+      "sha256": "23F8DDB6E647A7E1709B19B1F232D20E0AE49298650E50AB296442E55D0E3513"
+    },
+    {
+      "path": "tasks/MS05/MS05-Q2/private_eval/scoring_spec.json",
+      "bytes": 148,
+      "sha256": "5442088190AD3D5CBA24C78C754D0A0A114A3EDD1080F826B80015D33844A3CA"
     },
     {
       "path": "tasks/MS05/MS05-Q2/prompt.md",
@@ -459,6 +835,31 @@
       "sha256": "F5B6B3D2F2D1F99171F8B04B8833E99075D336D7E44038BDC383D9DD821A9242"
     },
     {
+      "path": "tasks/MS05/MS05-Q3/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 284644,
+      "sha256": "F0FF3063DE454D4802A0F70FD0B09E4BCDDAA86E80B7F7C0C2FFB92E2EA3B494"
+    },
+    {
+      "path": "tasks/MS05/MS05-Q3/private_eval/oracle.json",
+      "bytes": 281841,
+      "sha256": "E8E506ECF89FF8B2D27E64B6E12ED3E06DCDBE2D009EC3D415550350E67A81B7"
+    },
+    {
+      "path": "tasks/MS05/MS05-Q3/private_eval/oracle.py",
+      "bytes": 236398,
+      "sha256": "AED7E7F0D51691A46835BF55BB8D553D911A6F24E6EAB047D3A4108DDF661550"
+    },
+    {
+      "path": "tasks/MS05/MS05-Q3/private_eval/private_eval_manifest.json",
+      "bytes": 1371,
+      "sha256": "D13F5425519A0BA60973D39CFD7712C775264EABE2CE95B17C9278FE256A7F17"
+    },
+    {
+      "path": "tasks/MS05/MS05-Q3/private_eval/scoring_spec.json",
+      "bytes": 121,
+      "sha256": "5CC8065EDD736BC909E9170525EA57B9D061FDAB25D89F9356C2679CBA5C0B31"
+    },
+    {
       "path": "tasks/MS05/MS05-Q3/prompt.md",
       "bytes": 1851,
       "sha256": "7F32B1AC0A707ADBB8648595DABC3C61054FFA9ED5AC1153210105BEA4F22025"
@@ -489,6 +890,31 @@
       "sha256": "255120640CA8D35CF98582367F0B8A3D9430132F2DA66B0BD6DF15AD04F07E24"
     },
     {
+      "path": "tasks/MS06/MS06-Q1/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 107838,
+      "sha256": "A4A953FE2CA2F94A5A0313FB4EA1C2B09EE6B7E3F557102A074C210ABE2E8761"
+    },
+    {
+      "path": "tasks/MS06/MS06-Q1/private_eval/oracle.json",
+      "bytes": 5326,
+      "sha256": "764D297FC2C9F3045A0C9EDEDD58FF7671EFA442B2E0131F039DBE8F845A9364"
+    },
+    {
+      "path": "tasks/MS06/MS06-Q1/private_eval/oracle.py",
+      "bytes": 59540,
+      "sha256": "7DE59F3B604110F161BEE6BBDC2802C91204D06F8AECE9EF4E6F9561562901AF"
+    },
+    {
+      "path": "tasks/MS06/MS06-Q1/private_eval/private_eval_manifest.json",
+      "bytes": 1368,
+      "sha256": "4F7B4707AF2005B74AD2D576A79354A5CEA1A8C4DC513BC1BC504C7D595E9BD1"
+    },
+    {
+      "path": "tasks/MS06/MS06-Q1/private_eval/scoring_spec.json",
+      "bytes": 104,
+      "sha256": "BC06F7755332AD3C6E40E0CDEE19E713033908D909C07C633060A62631E11DEE"
+    },
+    {
       "path": "tasks/MS06/MS06-Q1/prompt.md",
       "bytes": 1839,
       "sha256": "9218BD81A7CFADDA3F92AE7B76E03532FFD75F36680F094B5A0C5D1C3D53D985"
@@ -512,6 +938,31 @@
       "path": "tasks/MS06/MS06-Q2/inputs/source_manifest.json",
       "bytes": 673,
       "sha256": "0A02C4CB470E6EEB6C56D581442199FC8C9DACA1DC3946DF4F89DFBA927D51BA"
+    },
+    {
+      "path": "tasks/MS06/MS06-Q2/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 116182,
+      "sha256": "4C58D857C3EAB51EE6405C9548F86B73260A7A3BEB5AA648A31A33180C70AC82"
+    },
+    {
+      "path": "tasks/MS06/MS06-Q2/private_eval/oracle.json",
+      "bytes": 17294,
+      "sha256": "D2525139248E6CD051F7354E01B5FF9F4C95566709A1717C2883C5011FDFE0A9"
+    },
+    {
+      "path": "tasks/MS06/MS06-Q2/private_eval/oracle.py",
+      "bytes": 67903,
+      "sha256": "27A12AA8611B8BAB098BC2DCA4F7C5D711B7335176366B1EE71637D17D0EEB70"
+    },
+    {
+      "path": "tasks/MS06/MS06-Q2/private_eval/private_eval_manifest.json",
+      "bytes": 1368,
+      "sha256": "C1962B4CD4181451D8F5F7866190C2367E0CB01F7CD9AAF39BD7998283C4A6BC"
+    },
+    {
+      "path": "tasks/MS06/MS06-Q2/private_eval/scoring_spec.json",
+      "bytes": 63,
+      "sha256": "0C3E4B4E8E2F31FC0E2BA8159AEBE33276882664C2A98B9C7569CE8E3DD7CF43"
     },
     {
       "path": "tasks/MS06/MS06-Q2/prompt.md",
@@ -539,6 +990,31 @@
       "sha256": "E234441F747ABB35BB56DD05A6D20ADDEAF21A8C9BECC028E073BD78CA5BED4E"
     },
     {
+      "path": "tasks/MS06/MS06-Q3/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 112582,
+      "sha256": "8A24C53E79980D88F2D06E58372E920B23046E969DA747065992466B4F7A90D0"
+    },
+    {
+      "path": "tasks/MS06/MS06-Q3/private_eval/oracle.json",
+      "bytes": 12771,
+      "sha256": "7AD0354A6B81F8720DF1FE93AF1B7EF4EE315E356578934D0C3482B1482D01DD"
+    },
+    {
+      "path": "tasks/MS06/MS06-Q3/private_eval/oracle.py",
+      "bytes": 64321,
+      "sha256": "C0C21437957E11EF0EABF7CC73750442FEB9966B3D6CEF18F6842538E4D7D403"
+    },
+    {
+      "path": "tasks/MS06/MS06-Q3/private_eval/private_eval_manifest.json",
+      "bytes": 1368,
+      "sha256": "E4EF6C01D6BDBBE206FDB77BC723687D051E955C758968BB2EC8D177DB75DB27"
+    },
+    {
+      "path": "tasks/MS06/MS06-Q3/private_eval/scoring_spec.json",
+      "bytes": 70,
+      "sha256": "CCAACDB8430B5D0F70253EB07093776F1DD4CA8688B7B31D8C640F8AB9EAE508"
+    },
+    {
       "path": "tasks/MS06/MS06-Q3/prompt.md",
       "bytes": 1768,
       "sha256": "2B77DE87C040161266E96BBA75611324F0B1E57DBC92BB5F4BD31EAB2A2EBE9C"
@@ -562,6 +1038,31 @@
       "path": "tasks/MS07/MS07-Q1/inputs/source_manifest.json",
       "bytes": 684,
       "sha256": "A40E41E13D095924EDFF37AA75A0F97528698134AEBA52DE6319920AF1421211"
+    },
+    {
+      "path": "tasks/MS07/MS07-Q1/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 108401,
+      "sha256": "B635FFF46DAE452C89EDC4DFE423F4256B9D5B69DDC1888232727AC5BA9D25AF"
+    },
+    {
+      "path": "tasks/MS07/MS07-Q1/private_eval/oracle.json",
+      "bytes": 3989,
+      "sha256": "FED5FB17203A2DE990A76BC1CDB9323E0529473F14525935CE59A8763BDD0CCB"
+    },
+    {
+      "path": "tasks/MS07/MS07-Q1/private_eval/oracle.py",
+      "bytes": 60200,
+      "sha256": "466CCC18D53B22790535B8503B096E7DD63C7AB0B44BD13522B105A5D5DE991D"
+    },
+    {
+      "path": "tasks/MS07/MS07-Q1/private_eval/private_eval_manifest.json",
+      "bytes": 1367,
+      "sha256": "C6DEA77AEA04A4DB7652188B4C3188C59DBDFC2B9461C24C13843B9B7FE551C9"
+    },
+    {
+      "path": "tasks/MS07/MS07-Q1/private_eval/scoring_spec.json",
+      "bytes": 64,
+      "sha256": "1485F2DFB9717DD22FB6586A8EF653A687742399A1385C13D5A60240213CDB9C"
     },
     {
       "path": "tasks/MS07/MS07-Q1/prompt.md",
@@ -589,6 +1090,31 @@
       "sha256": "B8B2755DDB2CBE6FFC5C992EF78374917C274D87B25CFE677C8C7A36FA4A6C8D"
     },
     {
+      "path": "tasks/MS07/MS07-Q2/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 106187,
+      "sha256": "63C5F630C111B2E175B69ABAA7BC805AF1574FB69BE5787D36CF04857B6C9D59"
+    },
+    {
+      "path": "tasks/MS07/MS07-Q2/private_eval/oracle.json",
+      "bytes": 1973,
+      "sha256": "14592243792CA494D4AD1FA3E534776D326BDBD22535A878DBF83C87E7718126"
+    },
+    {
+      "path": "tasks/MS07/MS07-Q2/private_eval/oracle.py",
+      "bytes": 57965,
+      "sha256": "37FB596C826F5925A2C881FA6A8855D81354544C8C3F3A21C8E629115967AD09"
+    },
+    {
+      "path": "tasks/MS07/MS07-Q2/private_eval/private_eval_manifest.json",
+      "bytes": 1367,
+      "sha256": "26C68F08B7CF496BB01D9919E8D685C0EBC1FBD5A45184002F244B4041AB36B9"
+    },
+    {
+      "path": "tasks/MS07/MS07-Q2/private_eval/scoring_spec.json",
+      "bytes": 60,
+      "sha256": "A4A3ABABD68EAEF07DE446D0E3A634B77EDDE48BBDC8277971A5A9AAA83BC0FA"
+    },
+    {
       "path": "tasks/MS07/MS07-Q2/prompt.md",
       "bytes": 1755,
       "sha256": "A76438214D30AD93AFD94CD9C2C0A4B50D9BF8F0082BA41A7663299C47305A78"
@@ -612,6 +1138,31 @@
       "path": "tasks/MS07/MS07-Q3/inputs/source_manifest.json",
       "bytes": 687,
       "sha256": "4C0113A43757D0B76B74504AC9AEF514EA95CA3570F2B1A5779BFA9CE9DECDC3"
+    },
+    {
+      "path": "tasks/MS07/MS07-Q3/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 107086,
+      "sha256": "FFFB319AB543B7ED6B018BD9FBE447FE335D5EB72C6D3E846D18FE9CDB310BE6"
+    },
+    {
+      "path": "tasks/MS07/MS07-Q3/private_eval/oracle.json",
+      "bytes": 2851,
+      "sha256": "4CD0F95A45FD07EAAEADB13AB1696FD8205B6D98C6544205B01E46405B808462"
+    },
+    {
+      "path": "tasks/MS07/MS07-Q3/private_eval/oracle.py",
+      "bytes": 58887,
+      "sha256": "D265D5BAC5400424F6B9073313FAE1BD3520FFBE4BDE1FC8DF534D8B9C3149F5"
+    },
+    {
+      "path": "tasks/MS07/MS07-Q3/private_eval/private_eval_manifest.json",
+      "bytes": 1367,
+      "sha256": "BA63723BFDA1051DF84B9D06B5D28B99F6CD2785924E7E873AF2DE7156CC3637"
+    },
+    {
+      "path": "tasks/MS07/MS07-Q3/private_eval/scoring_spec.json",
+      "bytes": 67,
+      "sha256": "3A8D7F26F7301D6E5047E58F77F32EA384F669B1A8B48548F57273A9EDB3031B"
     },
     {
       "path": "tasks/MS07/MS07-Q3/prompt.md",
@@ -644,6 +1195,31 @@
       "sha256": "DCC698E6963ECE0EE7CDC810A7F0F59CB10109B842793B691917F445E294CC3B"
     },
     {
+      "path": "tasks/MS08/MS08-Q1/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 112215,
+      "sha256": "A62B399EF3F0C19EA1D5D60D6BF7F7901D0CE3A90621B4DE060A880B8F3140C2"
+    },
+    {
+      "path": "tasks/MS08/MS08-Q1/private_eval/oracle.json",
+      "bytes": 13046,
+      "sha256": "CEDF872DD6ABED8662ACCAB3FEED502EC23C44085BF6AC4A6818A2F439F56A13"
+    },
+    {
+      "path": "tasks/MS08/MS08-Q1/private_eval/oracle.py",
+      "bytes": 63916,
+      "sha256": "EC39E92620B0C3E8F0B1347FF593521B541B6625D0AF3C65454B0E4D4EDB5BBA"
+    },
+    {
+      "path": "tasks/MS08/MS08-Q1/private_eval/private_eval_manifest.json",
+      "bytes": 1369,
+      "sha256": "DB18F05D0263B6B810B5614ECB9E1D4C0A343B73B21B4A78F018E10D10A37F17"
+    },
+    {
+      "path": "tasks/MS08/MS08-Q1/private_eval/scoring_spec.json",
+      "bytes": 104,
+      "sha256": "BC06F7755332AD3C6E40E0CDEE19E713033908D909C07C633060A62631E11DEE"
+    },
+    {
       "path": "tasks/MS08/MS08-Q1/prompt.md",
       "bytes": 1810,
       "sha256": "4B492991416E2BF9EC3AD9F48E12770A01D4826B3E32CC3D498D7DD6E9F5556D"
@@ -674,6 +1250,31 @@
       "sha256": "320DDB7DBED50DAECB59BCD7478216E7CB77A7438A91E8EE26935D1C044AACD3"
     },
     {
+      "path": "tasks/MS08/MS08-Q2/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 104512,
+      "sha256": "08129D310D9F469AFEE0835993123540A7571489AEA16911E5F3C029A6D85524"
+    },
+    {
+      "path": "tasks/MS08/MS08-Q2/private_eval/oracle.json",
+      "bytes": 765,
+      "sha256": "973B955C2E2770C9FAF73C62C76735357C84B0D34B8073E691A293B56FC467AE"
+    },
+    {
+      "path": "tasks/MS08/MS08-Q2/private_eval/oracle.py",
+      "bytes": 56305,
+      "sha256": "4A5BC28A0067F50279E62DF518298210688E80466FF1B5FBDB0B973532E4443A"
+    },
+    {
+      "path": "tasks/MS08/MS08-Q2/private_eval/private_eval_manifest.json",
+      "bytes": 1366,
+      "sha256": "9F080FA112329F1396FB3326E129ABC108F3DDBC35FD6D99E87F26083F271F8E"
+    },
+    {
+      "path": "tasks/MS08/MS08-Q2/private_eval/scoring_spec.json",
+      "bytes": 96,
+      "sha256": "20630DA386F37DE3041EE4DE433BF97D737838BCCD8C17190E15C5DBB567C593"
+    },
+    {
       "path": "tasks/MS08/MS08-Q2/prompt.md",
       "bytes": 2000,
       "sha256": "FC370C3F328E08F21206DD129D55599FA87EA34FC05F315FED7A0216E8005170"
@@ -697,6 +1298,31 @@
       "path": "tasks/MS08/MS08-Q3/inputs/source_manifest.json",
       "bytes": 721,
       "sha256": "DC701642328C2DCE4C34B7E08AD6887D0482043A79E9AAA41830077F1CA33CD4"
+    },
+    {
+      "path": "tasks/MS08/MS08-Q3/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 104870,
+      "sha256": "A1893AE76602458867DB74E66572A979353F59535FDA70253283E081CF374D0B"
+    },
+    {
+      "path": "tasks/MS08/MS08-Q3/private_eval/oracle.json",
+      "bytes": 592,
+      "sha256": "F7F3CEE2DA6F4471BAAC512F7792EB38EE1EEB25BA018D9F5F5DE7AE59F92456"
+    },
+    {
+      "path": "tasks/MS08/MS08-Q3/private_eval/oracle.py",
+      "bytes": 56614,
+      "sha256": "66F9606146E2231EA9725D66973D675D0011DC3B45780912A02F182CE3689B27"
+    },
+    {
+      "path": "tasks/MS08/MS08-Q3/private_eval/private_eval_manifest.json",
+      "bytes": 1366,
+      "sha256": "F971AFEFAD173CD1BEC50AA51F3D6751CC615DEBC932E5310BE12E6DE370B6D9"
+    },
+    {
+      "path": "tasks/MS08/MS08-Q3/private_eval/scoring_spec.json",
+      "bytes": 80,
+      "sha256": "E361EEBEB26F655FEB8F603B4B89E78B3E02D85E20D55D56314E36DF7039C3BB"
     },
     {
       "path": "tasks/MS08/MS08-Q3/prompt.md",
@@ -729,6 +1355,31 @@
       "sha256": "F439A274D14E3523100125808B8B8F7CB1DCA928677F1A1FA10ED93C607EEF5F"
     },
     {
+      "path": "tasks/MS09/MS09-Q1/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 116451,
+      "sha256": "3F23ADE743193F3D4590EC85D11A88D0E86FF90F9B9CFFA1F3CC57ED9503BC96"
+    },
+    {
+      "path": "tasks/MS09/MS09-Q1/private_eval/oracle.json",
+      "bytes": 17300,
+      "sha256": "AC05802F4A75C2C1D46014689DCF6169E250E3F85E4EE4A9CDD189ABA8E376F1"
+    },
+    {
+      "path": "tasks/MS09/MS09-Q1/private_eval/oracle.py",
+      "bytes": 68140,
+      "sha256": "F9309AB8C343EB2F34E5BEE62AC205BA5029CB14A6D6192869E7159E9AF80614"
+    },
+    {
+      "path": "tasks/MS09/MS09-Q1/private_eval/private_eval_manifest.json",
+      "bytes": 1368,
+      "sha256": "F2EBA844CF72A371EC09611015C956855002217FE0475F7B5520370E6500DB33"
+    },
+    {
+      "path": "tasks/MS09/MS09-Q1/private_eval/scoring_spec.json",
+      "bytes": 79,
+      "sha256": "B9B210F07B3FE8E05694912ECE77793E8FFC64406423F8031C5424891CB49A98"
+    },
+    {
       "path": "tasks/MS09/MS09-Q1/prompt.md",
       "bytes": 1756,
       "sha256": "660DB86BC9AFDCEE97DA8AC95BD1B5A2665234B049CCF764DC6335D52C424B01"
@@ -752,6 +1403,31 @@
       "path": "tasks/MS09/MS09-Q2/inputs/source_manifest.json",
       "bytes": 686,
       "sha256": "69A55F2169AB68010407F67F2E0DCC847A001FECC310F29D9D1567DFA7040D33"
+    },
+    {
+      "path": "tasks/MS09/MS09-Q2/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 110808,
+      "sha256": "A8F69395A19DBF6218C290EE01E7FC78B46C47F1084C13B0C6E32D2624D86A9E"
+    },
+    {
+      "path": "tasks/MS09/MS09-Q2/private_eval/oracle.json",
+      "bytes": 9860,
+      "sha256": "7E3E7B687686D41DD8700DE8C6D24B97BA0AF189C0CBBD8B22E130E1DFFCB4D4"
+    },
+    {
+      "path": "tasks/MS09/MS09-Q2/private_eval/oracle.py",
+      "bytes": 62518,
+      "sha256": "11E54AD5A0EFC373569EBCB3C51A55C4CEE57467B4C92B6483A044823E81B663"
+    },
+    {
+      "path": "tasks/MS09/MS09-Q2/private_eval/private_eval_manifest.json",
+      "bytes": 1367,
+      "sha256": "3141A6F7532B19276350BB9ADE198C0D5716D110740E05B913469DA5294403DF"
+    },
+    {
+      "path": "tasks/MS09/MS09-Q2/private_eval/scoring_spec.json",
+      "bytes": 58,
+      "sha256": "B6208080C4FBF179BDEDCAEBE9467BDF97ECD5F4E8263BB2CBEF73CB7922EFD2"
     },
     {
       "path": "tasks/MS09/MS09-Q2/prompt.md",
@@ -789,6 +1465,31 @@
       "sha256": "104BBACC49DFFA5075C7B3157E5AAB36756C0C8B17C17A575F42B63A10C0C38B"
     },
     {
+      "path": "tasks/MS09/MS09-Q3/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 115387,
+      "sha256": "EE0FFED983442417A479B5C3B7F80A77BA777AE350EAF5EB547BB12FCFE8D8F3"
+    },
+    {
+      "path": "tasks/MS09/MS09-Q3/private_eval/oracle.json",
+      "bytes": 15573,
+      "sha256": "66F62CD7B82884D2D86B25BEA1A3CB749EB1233F5593B551D2993FD64AF4BDEB"
+    },
+    {
+      "path": "tasks/MS09/MS09-Q3/private_eval/oracle.py",
+      "bytes": 67079,
+      "sha256": "6D8B002EAEF95A87919EF9409154374B938B21F491C1ACDE1CD4BCC491223474"
+    },
+    {
+      "path": "tasks/MS09/MS09-Q3/private_eval/private_eval_manifest.json",
+      "bytes": 1368,
+      "sha256": "BF87A6657B7E6ACBCC9D732DB2C886CD7EEF1E8CAAB16A9BD93A964CCFF7C350"
+    },
+    {
+      "path": "tasks/MS09/MS09-Q3/private_eval/scoring_spec.json",
+      "bytes": 73,
+      "sha256": "EF6E472BD3D09A1DFC84F7126FEF24B453E6DA5DDE96402F1846E560A74CAAC9"
+    },
+    {
       "path": "tasks/MS09/MS09-Q3/prompt.md",
       "bytes": 1880,
       "sha256": "546439300EFDB8763F4E6459DB7FBC9FC05DEFFFC9D630DB8867EC5E0EB666DE"
@@ -817,6 +1518,31 @@
       "path": "tasks/MS10/MS10-Q1/inputs/source_manifest.json",
       "bytes": 726,
       "sha256": "157B7A9ED1482AB5D9B5803C4275A4425C0E4E5EA3A11493B821649451C32589"
+    },
+    {
+      "path": "tasks/MS10/MS10-Q1/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 104391,
+      "sha256": "3D5A401DC594F22AB72BF4CD2D78D6C3A8234128A7035EA84F352593C60A51A7"
+    },
+    {
+      "path": "tasks/MS10/MS10-Q1/private_eval/oracle.json",
+      "bytes": 585,
+      "sha256": "3EA13C891103A5212D3051A1DF180746CEF44C269D39EF8DC3E881D2862D1DE7"
+    },
+    {
+      "path": "tasks/MS10/MS10-Q1/private_eval/oracle.py",
+      "bytes": 56115,
+      "sha256": "4E68D7CB403A8758EA66438FCA53E87403935A64C8C8A25ADEFAEBA0D22DC9B6"
+    },
+    {
+      "path": "tasks/MS10/MS10-Q1/private_eval/private_eval_manifest.json",
+      "bytes": 1367,
+      "sha256": "0FCAC4EC195CE35CBD48AE92C7E4295730359D4B0C5901383FC76D32908F5300"
+    },
+    {
+      "path": "tasks/MS10/MS10-Q1/private_eval/scoring_spec.json",
+      "bytes": 116,
+      "sha256": "70D3DD4478AD5F867A959D131F4E29A31D5542E173FCBE22AC405EEF189B944E"
     },
     {
       "path": "tasks/MS10/MS10-Q1/prompt.md",
@@ -849,6 +1575,31 @@
       "sha256": "417EE8D140CB27872FA2BA393A339574D1120F6C7C22B327316CD6347F407A74"
     },
     {
+      "path": "tasks/MS10/MS10-Q2/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 104361,
+      "sha256": "501AA595B571A6AF8E4AF4DD44B6B784FB30CB8626FAD69F0C36727239E22FDC"
+    },
+    {
+      "path": "tasks/MS10/MS10-Q2/private_eval/oracle.json",
+      "bytes": 537,
+      "sha256": "D49C0F56C8C36E629B487A1750CACEFDB5DF6B34A2023737FA60481001D33E69"
+    },
+    {
+      "path": "tasks/MS10/MS10-Q2/private_eval/oracle.py",
+      "bytes": 56085,
+      "sha256": "403AE409A8B4BBD551E3A260AD6297812A9F8DDD230C8283B530C86B14477B36"
+    },
+    {
+      "path": "tasks/MS10/MS10-Q2/private_eval/private_eval_manifest.json",
+      "bytes": 1367,
+      "sha256": "EBE045288215950DAD25E64B45E73E1C2AEA4ABFBA9183838388764A5A4F8149"
+    },
+    {
+      "path": "tasks/MS10/MS10-Q2/private_eval/scoring_spec.json",
+      "bytes": 116,
+      "sha256": "70D3DD4478AD5F867A959D131F4E29A31D5542E173FCBE22AC405EEF189B944E"
+    },
+    {
       "path": "tasks/MS10/MS10-Q2/prompt.md",
       "bytes": 2062,
       "sha256": "6522A581190CAE484C4BC149554B86A543D4A0D21C8AC0D119C8D8F8FB792593"
@@ -877,6 +1628,31 @@
       "path": "tasks/MS10/MS10-Q3/inputs/source_manifest.json",
       "bytes": 727,
       "sha256": "47C5CB731BF75A332109029DBB3026B4B3E57D176095BF08995C0DD400B14B80"
+    },
+    {
+      "path": "tasks/MS10/MS10-Q3/private_eval/__pycache__/oracle.cpython-312.pyc",
+      "bytes": 104230,
+      "sha256": "2993FC818C852AB98DAACE893B718D163E9CD7A737082723CB59692FAB276A4E"
+    },
+    {
+      "path": "tasks/MS10/MS10-Q3/private_eval/oracle.json",
+      "bytes": 328,
+      "sha256": "870FA0D5C5D03DF09B7E29A64359BF7CACAF84CE5272F3AD6414507553750CF0"
+    },
+    {
+      "path": "tasks/MS10/MS10-Q3/private_eval/oracle.py",
+      "bytes": 55957,
+      "sha256": "DA1B90DD72C2724B221382640C2CA936DA05A9B5F573FB7E0CB2A79E6C4476A0"
+    },
+    {
+      "path": "tasks/MS10/MS10-Q3/private_eval/private_eval_manifest.json",
+      "bytes": 1367,
+      "sha256": "EAC997C1AB41BEC8FFFCD50FE58AA19225272B46D43EBF73A4745C8E761C76DF"
+    },
+    {
+      "path": "tasks/MS10/MS10-Q3/private_eval/scoring_spec.json",
+      "bytes": 116,
+      "sha256": "70D3DD4478AD5F867A959D131F4E29A31D5542E173FCBE22AC405EEF189B944E"
     },
     {
       "path": "tasks/MS10/MS10-Q3/prompt.md",
